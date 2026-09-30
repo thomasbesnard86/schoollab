@@ -1,42 +1,13 @@
-# Questionnaire de verbes irréguliers
+# Verbes irréguliers anglais
 
-Une application web pour apprendre la liste de verbes suivante :
-- avoir
-- rêver
-- lire
-- aller
-- manger
-- perdre
-- casser
-- nager
-- voir
-- être
-- tomber
-- faire
-- gagner
-- couper
-- boire
-- acheter
-- écrire
-- chanter
-- parler
-- comprendre
-- donner
+Cette mini-application propose un quiz pour pratiquer l'infinitif, le simple past et le past participle, ainsi qu'un tableau consultable et imprimable. Les scores et les erreurs sont conservés dans le navigateur.
 
-## Utilisation
+## Lancer l'application
 
-1. Ouvre le dossier `C:\Users\thoma\questionnaire_verbes_irreguliers`
-2. Ouvre le fichier `index.html` dans ton navigateur
-
-Ou, depuis un terminal PowerShell :
+Depuis la racine du projet, démarre un serveur web local :
 
 ```powershell
-start .\index.html
+py -m http.server 8000
 ```
 
-3. Clique sur **Commencer** puis complète :
-   - l'infinitif
-   - le simple past
-   - le past participle
-
-Bonne pratique !
+Ouvre ensuite [http://localhost:8000/irregularverbs/index.html](http://localhost:8000/irregularverbs/index.html). Arrête le serveur avec `Ctrl+C`.
