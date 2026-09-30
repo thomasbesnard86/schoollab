@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Quiz des verbes irréguliers</title>
+  <link rel="stylesheet" href="../src/design-system.css" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <main class="container">
+    <a href="index.html" class="back-link">← Retour</a>
+    <h1>Quiz des verbes irréguliers</h1>
+    <p>Complète l'infinitif, le simple past et le past participle en anglais.</p>
+    <p class="hint">Utilise la touche Entrée pour valider et passer à la question suivante.</p>
+
+    <section class="card" id="quiz-card">
+      <div id="question-zone">
+        <div class="verb-header">
+          <p class="label">Verbe français :</p>
+          <button id="speak-verb" type="button" class="speak-btn" disabled title="Écouter la prononciation">🔊</button>
+        </div>
+        <h2 id="question">Appuie sur Commencer</h2>
+      </div>
+
+      <form id="quiz-form">
+        <div class="field">
+          <label for="infinitive">Infinitif</label>
+          <div class="input-with-speaker">
+            <input type="text" id="infinitive" autocomplete="off" disabled />
+            <button id="speak-infinitive" type="button" class="speak-btn" disabled title="Écouter">🔊</button>
+          </div>
+        </div>
+
+        <div class="field">
+          <label for="simple-past">Simple past</label>
+          <div class="input-with-speaker">
+            <input type="text" id="simple-past" autocomplete="off" disabled />
+            <button id="speak-simple-past" type="button" class="speak-btn" disabled title="Écouter">🔊</button>
+          </div>
+        </div>
+
+        <div class="field">
+          <label for="past-participle">Past participle</label>
+          <div class="input-with-speaker">
+            <input type="text" id="past-participle" autocomplete="off" disabled />
+            <button id="speak-past-participle" type="button" class="speak-btn" disabled title="Écouter">🔊</button>
+          </div>
+        </div>
+      </form>
+
+      <div id="feedback"></div>
+
+      <div id="history-card" class="history-card" hidden>
+        <h3>Historique des scores</h3>
+        <p id="history-summary"></p>
+        <button id="retry-errors-btn" class="secondary">Recommencer les verbes en erreur</button>
+      </div>
+
+      <div class="footer">
+        <div>
+          <p id="status">Appuie sur Commencer pour lancer le quiz.</p>
+          <p id="timer">Durée : 00:00</p>
+        </div>
+        <div class="button-group">
+          <button id="submit-btn" type="button">Commencer</button>
+          <button id="next-btn" type="button" hidden>Suivant</button>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
+

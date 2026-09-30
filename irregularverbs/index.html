@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Verbes irréguliers anglais</title>
+  <link rel="stylesheet" href="../src/design-system.css" />
+</head>
+<body class="app-home">
+  <main class="container">
+    <div class="hero">
+      <h1>Verbes irréguliers anglais</h1>
+      <p>Apprends les verbes irréguliers anglais facilement avec des exercices interactifs.</p>
+    </div>
+
+    <section class="options">
+      <a href="accueil.html" class="option-card" data-subject="english">
+        <div class="option-icon">📝</div>
+        <span class="subject-badge">Anglais</span>
+        <h2>Faire le quiz</h2>
+        <p>Teste tes connaissances avec des questions interactives. Complète l'infinitif, le simple past et le past participle.</p>
+      </a>
+
+      <a href="verbes.html" class="option-card" data-subject="english">
+        <div class="option-icon">📋</div>
+        <span class="subject-badge">Anglais</span>
+        <h2>Tableau des verbes</h2>
+        <p>Consulte la liste complète de tous les verbes avec leurs formes anglaises. Imprimable.</p>
+      </a>
+    </section>
+
+    <section class="scores-section" id="scores-section" hidden>
+      <h2>📊 Historique des scores</h2>
+      <div class="scores-table-container">
+        <table class="scores-table">
+          <thead>
+            <tr>
+              <th>Date</th>
+              <th>Type</th>
+              <th>Score</th>
+              <th>Durée</th>
+              <th>Erreurs</th>
+              <th>Action</th>
+            </tr>
+          </thead>
+          <tbody id="scores-tbody">
+          </tbody>
+        </table>
+      </div>
+      <button id="clear-history-btn" class="secondary">Effacer l'historique</button>
+    </section>
+  </main>
+
+  <script>
+    function loadScores() {
+      const history = JSON.parse(localStorage.getItem("quizHistory") || "[]");
+      const scoresSection = document.getElementById("scores-section");
+      const scoresTbody = document.getElementById("scores-tbody");
+
+      if (!history.length) {
+        scoresSection.hidden = true;
+        return;
+      }
+
+      scoresSection.hidden = false;
+      scoresTbody.innerHTML = "";
+
+      history.forEach((record, index) => {
+        const date = new Date(record.date).toLocaleString("fr-FR", { dateStyle: "short", timeStyle: "short" });
+        const typeLabel = record.type === "errors" ? "Reprise erreurs" : "Quiz complet";
+        const percentage = Math.round((record.score / record.total) * 100);
+        const duration = formatTime(record.duration || 0);
+        const errorsList = record.errors.length > 0 ? record.errors.join(", ") : "Aucune";
+
+        const row = document.createElement("tr");
+        row.innerHTML = `
+          <td>${date}</td>
+          <td>${typeLabel}</td>
+          <td><strong>${record.score}/${record.total}</strong> (${percentage}%)</td>
+          <td>${duration}</td>
+          <td>${errorsList}</td>
+          <td><a href="accueil.html" class="replay-link">Rejouer</a></td>
+        `;
+        scoresTbody.appendChild(row);
+      });
+    }
+
+    function formatTime(seconds) {
+      const mins = String(Math.floor(seconds / 60)).padStart(2, "0");
+      const secs = String(seconds % 60).padStart(2, "0");
+      return `${mins}:${secs}`;
+    }
+
+    document.getElementById("clear-history-btn").addEventListener("click", () => {
+      if (confirm("Êtes-vous sûr de vouloir effacer tout l'historique ?")) {
+        localStorage.removeItem("quizHistory");
+        loadScores();
+      }
+    });
+
+    loadScores();
+  </script>
+
+</body>
+</html>

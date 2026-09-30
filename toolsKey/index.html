@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="theme-color" content="#f4f7fb" />
+  <title>ToolsKey · Studio vocabulaire</title>
+  <link rel="stylesheet" href="../src/design-system.css" />
+  <link rel="stylesheet" href="app.css" />
+</head>
+<body class="toolskey-app">
+  <header class="site-header">
+    <a class="brand" href="../index.html" aria-label="Retour au catalogue des applications">
+      <span class="brand-mark" aria-hidden="true">K</span>
+      <span>ToolsKey</span>
+    </a>
+    <nav class="main-nav" aria-label="Navigation principale">
+      <button class="nav-button is-active" id="nav-study" type="button" aria-current="page">Étudier</button>
+      <button class="nav-button" id="nav-history" type="button">Historique <span class="history-count" id="history-count">0</span></button>
+    </nav>
+  </header>
+
+  <main class="app-container">
+    <section class="screen" id="setup-screen">
+      <header class="page-heading">
+        <p class="eyebrow">Anglais <span aria-hidden="true">↔</span> Français</p>
+        <h1>Studio vocabulaire</h1>
+        <p class="lede">Choisis tes pages et lance une session à ton rythme.</p>
+      </header>
+
+      <div class="setup-layout">
+        <form class="setup-panel" id="setup-form">
+          <fieldset class="setup-block">
+            <legend><span class="step-number">01</span> Pages à étudier</legend>
+            <div class="page-list" id="page-list" aria-live="polite">
+              <span class="loading-copy">Chargement des pages…</span>
+            </div>
+            <p class="field-note" id="page-selection-note">Sélectionne une ou plusieurs pages.</p>
+          </fieldset>
+
+          <fieldset class="setup-block">
+            <legend><span class="step-number">02</span> Nombre de mots</legend>
+            <div class="word-count-row">
+              <label for="word-count">Mots dans cette session</label>
+              <input id="word-count" name="word-count" type="number" min="1" value="20" inputmode="numeric" />
+            </div>
+            <label class="check-row" for="all-words">
+              <input id="all-words" name="all-words" type="checkbox" />
+              <span>Tous les mots des pages sélectionnées</span>
+            </label>
+            <p class="field-note" id="available-count">— mots disponibles</p>
+          </fieldset>
+
+          <fieldset class="setup-block">
+            <legend><span class="step-number">03</span> Sens de traduction</legend>
+            <div class="segmented-control">
+              <label><input type="radio" name="direction" value="en-fr" checked /><span>Anglais <span aria-hidden="true">→</span> Français</span></label>
+              <label><input type="radio" name="direction" value="fr-en" /><span>Français <span aria-hidden="true">→</span> Anglais</span></label>
+            </div>
+          </fieldset>
+
+          <fieldset class="setup-block">
+            <legend><span class="step-number">04</span> Type de jeu</legend>
+            <div class="segmented-control mode-control">
+              <label><input type="radio" name="mode" value="oral" checked /><span>Oral</span></label>
+              <label><input type="radio" name="mode" value="written" /><span>Écrit</span></label>
+            </div>
+          </fieldset>
+
+          <p class="form-error" id="setup-error" role="alert" hidden></p>
+          <button class="primary-button start-button" id="start-button" type="submit" disabled>
+            <span>Commencer la session</span><span aria-hidden="true">→</span>
+          </button>
+        </form>
+
+        <aside class="session-aside" aria-label="Résumé des pages disponibles">
+          <div class="word-total"><strong id="total-words">—</strong><span>mots au total</span></div>
+          <div class="aside-rule"></div>
+          <p class="aside-label">Tes réglages</p>
+          <p class="aside-summary" id="session-summary">20 mots · Anglais vers français · Oral</p>
+          <p class="privacy-note"><span class="privacy-dot" aria-hidden="true"></span> Progression enregistrée sur cet appareil</p>
+        </aside>
+      </div>
+    </section>
+
+    <section class="screen history-screen" id="history-screen" hidden>
+      <header class="page-heading history-heading">
+        <p class="eyebrow">Tes révisions</p>
+        <h1>Historique</h1>
+        <p class="lede">Chaque session garde ses réglages et les mots à retravailler.</p>
+      </header>
+      <div class="history-toolbar">
+        <p id="history-summary">Aucune session pour le moment.</p>
+        <button class="text-button" id="clear-history" type="button" hidden>Effacer l’historique</button>
+      </div>
+      <div class="history-list" id="history-list"></div>
+    </section>
+
+    <section class="screen study-screen" id="study-screen" hidden>
+      <header class="study-toolbar">
+        <button class="text-button back-button" id="exit-study" type="button"><span aria-hidden="true">←</span> Quitter la session</button>
+        <div class="progress-wrap">
+          <div class="progress-label"><span id="progress-text">Carte 1 sur 1</span><span id="progress-percent">0%</span></div>
+          <div class="progress-track"><span class="progress-value" id="progress-value"></span></div>
+        </div>
+        <span class="mode-tag" id="mode-tag">Oral</span>
+      </header>
+
+      <div class="study-stage" id="study-stage">
+        <article class="study-card" aria-labelledby="prompt-word">
+          <div class="study-card-top">
+            <span class="language-tag" id="prompt-language">Anglais</span>
+            <span class="page-tag" id="prompt-page">Page 1</span>
+          </div>
+          <p class="prompt-label">Comment dit-on…</p>
+          <span class="word-type" id="prompt-type" hidden></span>
+          <h2 class="prompt-word" id="prompt-word"></h2>
+
+          <form class="answer-form" id="answer-form" hidden>
+            <label class="visually-hidden" for="answer-input">Ta traduction</label>
+            <input id="answer-input" type="text" autocomplete="off" autocapitalize="off" spellcheck="false" placeholder="Écris ta réponse…" />
+            <button class="primary-button" type="submit">Vérifier</button>
+          </form>
+
+          <p class="answer-feedback" id="answer-feedback" role="status" aria-live="polite" hidden></p>
+
+          <div class="answer-reveal" id="answer-reveal" hidden>
+            <span class="answer-label" id="answer-language">Français</span>
+            <span class="word-type answer-type" id="answer-type" hidden></span>
+            <p class="answer-word" id="answer-word"></p>
+            <div class="example-context" id="example-context" hidden>
+              <span class="example-label">Exemple</span>
+              <p class="example-text" id="example-text"></p>
+            </div>
+          </div>
+
+          <button class="reveal-button" id="reveal-answer" type="button">Afficher la réponse</button>
+        </article>
+
+        <section class="rating-section" id="rating-section" aria-label="Évaluer cette réponse" hidden>
+          <p class="rating-prompt" id="rating-prompt">Comment as-tu trouvé ce mot ?</p>
+          <div class="rating-buttons">
+            <button class="rating-button rating-again" type="button" data-rating="again"><strong>Again</strong><span>2 reprises</span></button>
+            <button class="rating-button rating-good" type="button" data-rating="good"><strong>Good</strong><span>1 reprise</span></button>
+            <button class="rating-button rating-easy" type="button" data-rating="easy"><strong>Easy</strong><span>Passer</span></button>
+          </div>
+        </section>
+      </div>
+
+      <section class="completion-panel" id="completion-panel" hidden>
+        <p class="eyebrow">Session terminée</p>
+        <h2 id="completion-title">Bien joué.</h2>
+        <p class="completion-summary" id="completion-summary"></p>
+        <div class="completion-errors" id="completion-errors" hidden>
+          <h3>À revoir</h3>
+          <ul id="completion-error-list"></ul>
+        </div>
+        <div class="completion-actions">
+          <button class="primary-button" id="replay-completed" type="button">Rejouer ces mots</button>
+          <button class="secondary-button" id="new-session" type="button">Nouvelle session</button>
+        </div>
+      </section>
+    </section>
+
+    <p class="load-error" id="load-error" role="alert" hidden></p>
+  </main>
+
+  <script src="app.js" defer></script>
+</body>
+</html>

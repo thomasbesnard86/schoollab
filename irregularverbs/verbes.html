@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Tableau des verbes irréguliers</title>
+  <link rel="stylesheet" href="../src/design-system.css" />
+  <link rel="stylesheet" href="styles-verbes.css" />
+</head>
+<body>
+  <div class="page-header">
+    <div class="container">
+      <a href="accueil.html" class="back-link">← Retour</a>
+      <h1>Tableau des verbes irréguliers anglais</h1>
+      <button id="print-btn" class="print-btn">🖨️ Imprimer</button>
+    </div>
+  </div>
+
+  <main class="container">
+    <table class="verbs-table">
+      <thead>
+        <tr>
+          <th>Français</th>
+          <th>Infinitif</th>
+          <th>Simple past</th>
+          <th>Past participle</th>
+        </tr>
+      </thead>
+      <tbody id="table-body">
+      </tbody>
+    </table>
+  </main>
+
+  <script src="script-verbes.js"></script>
+</body>
+</html>
