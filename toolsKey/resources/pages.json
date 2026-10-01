@@ -3,5 +3,10 @@
     "id": "page-1",
     "title": "Page 1",
     "file": "page-1.json"
+  },
+  {
+    "id": "page-2",
+    "title": "Page 2",
+    "file": "page-2.json"
   }
 ]

@@ -1,0 +1,783 @@
+{
+  "id": "page-2",
+  "title": "Page 2",
+  "words": [
+    {
+      "id": "p2-001",
+      "anglais": "bat",
+      "francais": "chauve-souris",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p2-002",
+      "anglais": "bath",
+      "francais": "baignoire,bain",
+      "type": "n",
+      "exemple": "bathing"
+    },
+    {
+      "id": "p2-003",
+      "anglais": "suit",
+      "francais": "maillot de bain",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p2-004",
+      "anglais": "bathroom",
+      "francais": "salle de bains",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p2-005",
+      "anglais": "bathtub",
+      "francais": "baignoire",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p2-006",
+      "anglais": "battery",
+      "francais": "pile",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p2-007",
+      "anglais": "be",
+      "francais": "être",
+      "type": "v",
+      "exemple": ""
+    },
+    {
+      "id": "p2-008",
+      "anglais": "beach",
+      "francais": "plage",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p2-009",
+      "anglais": "bean",
+      "francais": "haricot",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p2-010",
+      "anglais": "bear",
+      "francais": "ours",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p2-011",
+      "anglais": "beard",
+      "francais": "barbe",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p2-012",
+      "anglais": "beautiful",
+      "francais": "beau, belle",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p2-013",
+      "anglais": "because",
+      "francais": "parce-que",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p2-014",
+      "anglais": "become",
+      "francais": "devenir",
+      "type": "v",
+      "exemple": "(became-become)"
+    },
+    {
+      "id": "p2-015",
+      "anglais": "bed",
+      "francais": "lit",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p2-016",
+      "anglais": "bedroom",
+      "francais": "chambre",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p2-017",
+      "anglais": "bee",
+      "francais": "abeille",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p2-018",
+      "anglais": "before",
+      "francais": "avant",
+      "type": "adv & prep",
+      "exemple": ""
+    },
+    {
+      "id": "p2-019",
+      "anglais": "begin",
+      "francais": "commencer",
+      "type": "v",
+      "exemple": "(began-begun)"
+    },
+    {
+      "id": "p2-020",
+      "anglais": "beginner",
+      "francais": "debutant",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p2-021",
+      "anglais": "beginning",
+      "francais": "début",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p2-022",
+      "anglais": "behind",
+      "francais": "derrière",
+      "type": "prep",
+      "exemple": ""
+    },
+    {
+      "id": "p2-023",
+      "anglais": "believe",
+      "francais": "croire",
+      "type": "v",
+      "exemple": ""
+    },
+    {
+      "id": "p2-024",
+      "anglais": "belong",
+      "francais": "appartenir",
+      "type": "v",
+      "exemple": ""
+    },
+    {
+      "id": "p2-025",
+      "anglais": "below",
+      "francais": "au-dessous de",
+      "type": "prep",
+      "exemple": ""
+    },
+    {
+      "id": "p2-026",
+      "anglais": "belt",
+      "francais": "ceinture",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p2-027",
+      "anglais": "beside",
+      "francais": "près de",
+      "type": "prep",
+      "exemple": ""
+    },
+    {
+      "id": "p2-028",
+      "anglais": "best",
+      "francais": "meilleur",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p2-029",
+      "anglais": "better",
+      "francais": "mieux",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p2-030",
+      "anglais": "between",
+      "francais": "entre",
+      "type": "prep",
+      "exemple": ""
+    },
+    {
+      "id": "p2-031",
+      "anglais": "bicycle",
+      "francais": "bicyclette",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p2-032",
+      "anglais": "big",
+      "francais": "grand, gros, fort",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p2-033",
+      "anglais": "bike",
+      "francais": "vélo",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p2-034",
+      "anglais": "bill",
+      "francais": "facture, addition, note",
+      "type": "n",
+      "exemple": "Can I have the bill,please?"
+    },
+    {
+      "id": "p2-035",
+      "anglais": "biology",
+      "francais": "biologie",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p2-036",
+      "anglais": "bird",
+      "francais": "oiseau",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p2-037",
+      "anglais": "birth",
+      "francais": "naissance",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p2-038",
+      "anglais": "birthday",
+      "francais": "anniversaire",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p2-039",
+      "anglais": "biscuit",
+      "francais": "petit gateau",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p2-040",
+      "anglais": "bit",
+      "francais": "bout",
+      "type": "n",
+      "exemple": "Just a small bit of cake,please"
+    },
+    {
+      "id": "p2-041",
+      "anglais": "black",
+      "francais": "noir",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p2-042",
+      "anglais": "blackboard",
+      "francais": "tableau noir",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p2-043",
+      "anglais": "blanket",
+      "francais": "couverture",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p2-044",
+      "anglais": "block",
+      "francais": "pâté de maisons",
+      "type": "n",
+      "exemple": "Shall we walk around the block?"
+    },
+    {
+      "id": "p2-045",
+      "anglais": "blond",
+      "francais": "blond, blonde",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p2-046",
+      "anglais": "blouse",
+      "francais": "chemisier",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p2-047",
+      "anglais": "blue",
+      "francais": "bleu",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p2-048",
+      "anglais": "board",
+      "francais": "tableau",
+      "type": "n",
+      "exemple": "The teacher is writing on the (black/white) board"
+    },
+    {
+      "id": "p2-049",
+      "anglais": "boardgame",
+      "francais": "jeu de société",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p2-050",
+      "anglais": "boat",
+      "francais": "bateau",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p2-051",
+      "anglais": "body",
+      "francais": "corps",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p2-052",
+      "anglais": "boil",
+      "francais": "faire bouillir",
+      "type": "v",
+      "exemple": ""
+    },
+    {
+      "id": "p2-053",
+      "anglais": "book",
+      "francais": "un livre , réserver",
+      "type": "n & v",
+      "exemple": ""
+    },
+    {
+      "id": "p2-054",
+      "anglais": "bookshelf, bookcase",
+      "francais": "bookcase): étagère",
+      "type": "(n)",
+      "exemple": ""
+    },
+    {
+      "id": "p2-055",
+      "anglais": "bookshop, bookstore",
+      "francais": "librairie",
+      "type": "(n)",
+      "exemple": ""
+    },
+    {
+      "id": "p2-056",
+      "anglais": "boot",
+      "francais": "botte",
+      "type": "n",
+      "exemple": "a pair of boots"
+    },
+    {
+      "id": "p2-057",
+      "anglais": "bored",
+      "francais": "ennuyé",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p2-058",
+      "anglais": "boring",
+      "francais": "ennuyeux",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p2-059",
+      "anglais": "born",
+      "francais": "né, née",
+      "type": "adj",
+      "exemple": "I was born in Manchester."
+    },
+    {
+      "id": "p2-060",
+      "anglais": "borrow",
+      "francais": "emprunter",
+      "type": "v",
+      "exemple": "She borrowed a book from the library."
+    },
+    {
+      "id": "p2-061",
+      "anglais": "boss",
+      "francais": "patron",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p2-062",
+      "anglais": "both",
+      "francais": "tous les deux, toutes les deux",
+      "type": "pron & det",
+      "exemple": "à la fois"
+    },
+    {
+      "id": "p2-063",
+      "anglais": "bother",
+      "francais": "embêter",
+      "type": "v",
+      "exemple": ""
+    },
+    {
+      "id": "p2-064",
+      "anglais": "bottle",
+      "francais": "bouteille",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p2-065",
+      "anglais": "bottom",
+      "francais": "fond,bas",
+      "type": "n",
+      "exemple": "at the bottom of the stairs"
+    },
+    {
+      "id": "p2-066",
+      "anglais": "bowl",
+      "francais": "bol, saladier",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p2-067",
+      "anglais": "box",
+      "francais": "boîte, caisse, arton",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p2-068",
+      "anglais": "boy",
+      "francais": "garcon",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p2-069",
+      "anglais": "boyfriend",
+      "francais": "petit ami",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p2-070",
+      "anglais": "brain",
+      "francais": "cerveau",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p2-071",
+      "anglais": "brave",
+      "francais": "courageux",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p2-072",
+      "anglais": "brake",
+      "francais": "frein, freiner",
+      "type": "n & v",
+      "exemple": ""
+    },
+    {
+      "id": "p2-073",
+      "anglais": "bread",
+      "francais": "pain",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p2-074",
+      "anglais": "break",
+      "francais": "pause, casser",
+      "type": "n & v",
+      "exemple": "(broke-broken) ; a break for lunch (n) ; Someone has broken the window. (v)"
+    },
+    {
+      "id": "p2-075",
+      "anglais": "breakfast",
+      "francais": "petit déjeuner",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p2-076",
+      "anglais": "bridge",
+      "francais": "pont",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p2-077",
+      "anglais": "bright",
+      "francais": "brillant",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p2-078",
+      "anglais": "brilliant",
+      "francais": "éclatant,brillant,super",
+      "type": "adj",
+      "exemple": "I thought the film was brilliant ! bring(v): apporter ; (brought-brought)"
+    },
+    {
+      "id": "p2-079",
+      "anglais": "broken",
+      "francais": "cassé",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p2-080",
+      "anglais": "brother",
+      "francais": "frère",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p2-081",
+      "anglais": "brown",
+      "francais": "marron",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p2-082",
+      "anglais": "brush",
+      "francais": "brosse, brosser",
+      "type": "n/v",
+      "exemple": ""
+    },
+    {
+      "id": "p2-083",
+      "anglais": "build",
+      "francais": "construire",
+      "type": "v",
+      "exemple": "(built-built)"
+    },
+    {
+      "id": "p2-084",
+      "anglais": "building",
+      "francais": "bâtiment, immeubles",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p2-085",
+      "anglais": "burger",
+      "francais": "hamburger",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p2-086",
+      "anglais": "burn",
+      "francais": "burler",
+      "type": "v",
+      "exemple": "(burnt-burnt) ; He has burnt his hand"
+    },
+    {
+      "id": "p2-087",
+      "anglais": "bus",
+      "francais": "autobus, autocar",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p2-088",
+      "anglais": "business",
+      "francais": "affaires, commerce",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p2-089",
+      "anglais": "businessman",
+      "francais": "homme d’affaires",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p2-090",
+      "anglais": "businesswoman",
+      "francais": "femme d’affaires",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p2-091",
+      "anglais": "bus station",
+      "francais": "gare routière",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p2-092",
+      "anglais": "bus stop",
+      "francais": "arrêt de bus",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p2-093",
+      "anglais": "busy",
+      "francais": "occupé",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p2-094",
+      "anglais": "but",
+      "francais": "mais",
+      "type": "conj",
+      "exemple": ""
+    },
+    {
+      "id": "p2-095",
+      "anglais": "butter",
+      "francais": "beurre",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p2-096",
+      "anglais": "buy",
+      "francais": "acheter",
+      "type": "n",
+      "exemple": "(bought-bought)"
+    },
+    {
+      "id": "p2-097",
+      "anglais": "by",
+      "francais": "par, de",
+      "type": "prep",
+      "exemple": ""
+    },
+    {
+      "id": "p2-098",
+      "anglais": "bye",
+      "francais": "au revoir",
+      "type": "excl",
+      "exemple": ""
+    },
+    {
+      "id": "p2-099",
+      "anglais": "café,café",
+      "francais": "café",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p2-100",
+      "anglais": "cake",
+      "francais": "gâteau, patisserie",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p2-101",
+      "anglais": "calendar",
+      "francais": "calendrier",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p2-102",
+      "anglais": "call",
+      "francais": "telephoner, s’appeler",
+      "type": "v",
+      "exemple": "I’ll call (phone) again later this afternoon. ; He has called John. ; I’m waiting for a call from Anna. camel (n): chameau"
+    },
+    {
+      "id": "p2-103",
+      "anglais": "camera",
+      "francais": "appareil photo",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p2-104",
+      "anglais": "camp",
+      "francais": "camp, camper",
+      "type": "n & v",
+      "exemple": ""
+    },
+    {
+      "id": "p2-105",
+      "anglais": "campsite",
+      "francais": "camping",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p2-106",
+      "anglais": "can",
+      "francais": "canette, pouvoir",
+      "type": "n & v",
+      "exemple": ""
+    },
+    {
+      "id": "p2-107",
+      "anglais": "cannot",
+      "francais": "ne pas pouvoir",
+      "type": "v",
+      "exemple": ""
+    },
+    {
+      "id": "p2-108",
+      "anglais": "canal",
+      "francais": "canal",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p2-109",
+      "anglais": "cap",
+      "francais": "casquette",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p2-110",
+      "anglais": "capital",
+      "francais": "capitale",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p2-111",
+      "anglais": "car",
+      "francais": "voiture",
+      "type": "n",
+      "exemple": ""
+    }
+  ]
+}
