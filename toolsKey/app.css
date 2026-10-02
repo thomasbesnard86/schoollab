@@ -176,6 +176,30 @@ body.toolskey-app {
   font-variant-numeric: tabular-nums;
 }
 
+.page-legend {
+  display: flex;
+  gap: 16px;
+  margin: 12px 0;
+  font-size: 0.75rem;
+  color: var(--muted);
+}
+.legend-item {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+.legend-dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+}
+.legend-dot.status-verified {
+  background: #22c55e;
+}
+.legend-dot.status-pending {
+  background: #f97316;
+}
+
 .page-list {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(92px, 1fr));
@@ -210,6 +234,29 @@ body.toolskey-app {
 .page-choice:has(input:checked) {
   border-color: var(--primary);
   background: var(--primary-soft);
+}
+
+.page-choice.is-verified {
+  background-color: #f0fdf4;
+  border-color: #bbf7d0;
+}
+.page-choice.is-verified:hover {
+  border-color: #22c55e;
+}
+.page-choice.is-verified:has(input:checked) {
+  background-color: #dcfce7;
+  border-color: #22c55e;
+}
+.page-choice.is-pending {
+  background-color: #fff7ed;
+  border-color: #ffedd5;
+}
+.page-choice.is-pending:hover {
+  border-color: #f97316;
+}
+.page-choice.is-pending:has(input:checked) {
+  background-color: #ffedd5;
+  border-color: #f97316;
 }
 
 .page-choice input,

@@ -130,10 +130,10 @@
     },
     {
       "id": "p2-019",
-      "anglais": "begin (v))",
-      "francais": "commencer (began-begun)",
-      "type": "",
-      "exemple": ""
+      "anglais": "begin",
+      "francais": "commencer",
+      "type": "v",
+      "exemple": "(began-begun)"
     },
     {
       "id": "p2-020",
@@ -375,16 +375,16 @@
     },
     {
       "id": "p2-054",
-      "anglais": "bookshelf (n)(Br Eng) (Am Eng",
-      "francais": "bookcase): étagère",
-      "type": "",
+      "anglais": "bookshelf, bookcase",
+      "francais": "étagère",
+      "type": "n",
       "exemple": ""
     },
     {
       "id": "p2-055",
-      "anglais": "bookshop (n)(Br Eng) A(m Eng!",
-      "francais": "bookstore) : librairie",
-      "type": "",
+      "anglais": "bookshop , bookstore",
+      "francais": "librairie",
+      "type": "n",
       "exemple": ""
     },
     {
@@ -474,7 +474,7 @@
     {
       "id": "p2-068",
       "anglais": "boy",
-      "francais": "garcon",
+      "francais": "garçon",
       "type": "n",
       "exemple": ""
     },
@@ -493,17 +493,17 @@
       "exemple": ""
     },
     {
-      "id": "p2-071",
-      "anglais": "brave",
-      "francais": "courageux",
-      "type": "adj",
-      "exemple": ""
-    },
-    {
       "id": "p2-072",
       "anglais": "brake",
       "francais": "frein/freiner",
       "type": "n & v",
+      "exemple": ""
+    },
+    {
+      "id": "p2-071",
+      "anglais": "brave",
+      "francais": "courageux",
+      "type": "adj",
       "exemple": ""
     },
     {
@@ -546,7 +546,14 @@
       "anglais": "brilliant",
       "francais": "éclatant/brillant/super",
       "type": "adj",
-      "exemple": "I thought the film was brilliant ! bring(v): apporter (brought-brought)"
+      "exemple": "I thought the film was brilliant !"
+    },
+    {
+      "id": "p2-112",
+      "anglais": "bring",
+      "francais": "apporter",
+      "type": "v",
+      "exemple": "Formes irrégulières : (brought-brought)"
     },
     {
       "id": "p2-079",
@@ -670,9 +677,9 @@
     {
       "id": "p2-096",
       "anglais": "buy",
-      "francais": "acheter (bought-bought)",
-      "type": "n",
-      "exemple": ""
+      "francais": "acheter",
+      "type": "v",
+      "exemple": "(bought-bought)"
     },
     {
       "id": "p2-097",
@@ -714,7 +721,14 @@
       "anglais": "call",
       "francais": "téléphoner/s’appeler",
       "type": "v",
-      "exemple": "I’ll call (phone) again later this afternoon. ; He has called John. ; I’m waiting for a call from Anna. camel (n): chameau"
+      "exemple": "I’ll call (phone) again later this afternoon. ; He has called John. ; I’m waiting for a call from Anna."
+    },
+    {
+      "id": "p2-113",
+      "anglais": "camel",
+      "francais": "chameau",
+      "type": "n",
+      "exemple": ""
     },
     {
       "id": "p2-103",
@@ -745,17 +759,17 @@
       "exemple": ""
     },
     {
-      "id": "p2-107",
-      "anglais": "cannot",
-      "francais": "ne pas pouvoir",
-      "type": "v",
-      "exemple": ""
-    },
-    {
       "id": "p2-108",
       "anglais": "canal",
       "francais": "canal",
       "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p2-107",
+      "anglais": "cannot",
+      "francais": "ne pas pouvoir",
+      "type": "v",
       "exemple": ""
     },
     {

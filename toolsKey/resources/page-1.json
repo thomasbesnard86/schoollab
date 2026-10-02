@@ -31,13 +31,6 @@
       "exemple": ""
     },
     {
-      "id": "p1-005",
-      "anglais": "act",
-      "francais": "jouer (théatre)",
-      "type": "v",
-      "exemple": ""
-    },
-    {
       "id": "p1-006",
       "anglais": "accident",
       "francais": "accident",
@@ -51,10 +44,10 @@
       "type": "prep",
       "exemple": "the bank is across the road. ; He walked across the bridge."
     },
-    {
-      "id": "p1-008",
+        {
+      "id": "p1-005",
       "anglais": "act",
-      "francais": "jouer (theater)",
+      "francais": "jouer (au théatre / theater)",
       "type": "v",
       "exemple": ""
     },
@@ -257,7 +250,7 @@
     {
       "id": "p1-037",
       "anglais": "alone",
-      "francais": "seul(e)",
+      "francais": "seul, seule",
       "type": "adv",
       "exemple": ""
     },
@@ -362,7 +355,7 @@
     {
       "id": "p1-052",
       "anglais": "any",
-      "francais": "il n’y en a pas",
+      "francais": "",
       "type": "det & pron",
       "exemple": ""
     },
@@ -478,7 +471,7 @@
       "type": "n",
       "exemple": ""
     },
-    {
+        {
       "id": "p1-069",
       "anglais": "as",
       "francais": "comme, aussi que",
@@ -505,34 +498,6 @@
       "francais": "aussi",
       "type": "adv",
       "exemple": "as well as (prep phr): aussi bien que"
-    },
-    {
-      "id": "p1-073",
-      "anglais": "as",
-      "francais": "comme, aussi que",
-      "type": "prep",
-      "exemple": "as good as ; as soon as possible: dès que possible ; the same as: le même que ; you are as tall as me: tu es aussi grand que moi"
-    },
-    {
-      "id": "p1-074",
-      "anglais": "ask",
-      "francais": "demander",
-      "type": "v",
-      "exemple": ""
-    },
-    {
-      "id": "p1-075",
-      "anglais": "assistant",
-      "francais": "un assistant",
-      "type": "n",
-      "exemple": ""
-    },
-    {
-      "id": "p1-076",
-      "anglais": "as well",
-      "francais": "aussi",
-      "type": "adv",
-      "exemple": ""
     },
     {
       "id": "p1-077",
@@ -565,7 +530,7 @@
     {
       "id": "p1-081",
       "anglais": "attractive",
-      "francais": "joli(e)",
+      "francais": "joli, jolie",
       "type": "adj",
       "exemple": ""
     },
@@ -577,17 +542,17 @@
       "exemple": ""
     },
     {
-      "id": "p1-083",
-      "anglais": "available",
-      "francais": "disponible",
-      "type": "adj",
-      "exemple": ""
-    },
-    {
       "id": "p1-084",
       "anglais": "autumn",
       "francais": "l’automne",
       "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p1-083",
+      "anglais": "available",
+      "francais": "disponible",
+      "type": "adj",
       "exemple": ""
     },
     {
@@ -609,7 +574,14 @@
       "anglais": "baby",
       "francais": "bébé",
       "type": "n",
-      "exemple": "back (n, adv & adj): le dos, retour ; He has come back: il est revenu"
+      "exemple": ""
+    },
+    {
+      "id": "p1-102",
+      "anglais": "back",
+      "francais": "le dos, retour",
+      "type": "n, adv & adj",
+      "exemple": "He has come back: il est revenu"
     },
     {
       "id": "p1-088",
@@ -663,7 +635,7 @@
     {
       "id": "p1-095",
       "anglais": "banana",
-      "francais": "banana",
+      "francais": "banane",
       "type": "n",
       "exemple": ""
     },

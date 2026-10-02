@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+page-<!DOCTYPE html>
 <html lang="fr">
 <head>
   <meta charset="UTF-8" />
@@ -14,7 +14,7 @@
       <span class="brand-mark" aria-hidden="true">K</span>
       <span>ToolsKey</span>
     </a>
-    <nav class="main-nav" aria-label="Navigation principale">
+        <nav class="main-nav" aria-label="Navigation principale">
       <button class="nav-button is-active" id="nav-study" type="button" aria-current="page">Étudier</button>
       <button class="nav-button" id="nav-list" type="button">Liste</button>
       <button class="nav-button" id="nav-history" type="button">Historique <span class="history-count" id="history-count">0</span></button>
@@ -37,10 +37,15 @@
               <p class="field-note" id="page-selection-note">Aucune page sélectionnée.</p>
               <button class="text-button page-toggle" id="toggle-pages" type="button">Tout sélectionner</button>
             </div>
+            <div class="page-legend">
+              <span class="legend-item"><span class="legend-dot status-verified"></span> Relu et corrigé</span>
+              <span class="legend-item"><span class="legend-dot status-pending"></span> En cours de relecture</span>
+            </div>
             <div class="page-list" id="page-list" aria-live="polite">
               <span class="loading-copy">Chargement des pages…</span>
             </div>
           </fieldset>
+
 
           <fieldset class="setup-block">
             <legend><span class="step-number">02</span> Nombre de mots</legend>

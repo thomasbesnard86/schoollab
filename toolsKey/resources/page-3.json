@@ -136,18 +136,18 @@
       "exemple": "pourcent"
     },
     {
-      "id": "p3-020",
-      "anglais": "centre",
-      "francais": "centre",
-      "type": "n",
-      "exemple": ""
-    },
-    {
       "id": "p3-021",
       "anglais": "centimeter",
       "francais": "centimètre",
       "type": "n",
       "exemple": ""
+    },
+    {
+      "id": "p3-020",
+      "anglais": "centre",
+      "francais": "centre",
+      "type": "n",
+      "exemple": "city centre ; shopping centre (uk); Attention: center (us)"
     },
     {
       "id": "p3-022",
@@ -224,7 +224,14 @@
       "anglais": "check",
       "francais": "vérifier",
       "type": "v",
-      "exemple": "cheers ! (exclamation) : à la tienne !"
+      "exemple": ""
+    },
+    {
+      "id": "p3-105",
+      "anglais": "cheers !",
+      "francais": "à la tienne !",
+      "type": "exclam",
+      "exemple": ""
     },
     {
       "id": "p3-033",
@@ -339,13 +346,6 @@
       "exemple": "a language class ; a first-class ticket"
     },
     {
-      "id": "p3-049",
-      "anglais": "class member",
-      "francais": "un membre de classe",
-      "type": "n",
-      "exemple": ""
-    },
-    {
       "id": "p3-050",
       "anglais": "classical",
       "francais": "classique",
@@ -356,6 +356,13 @@
       "id": "p3-051",
       "anglais": "classmate",
       "francais": "camarade de classe",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p3-049",
+      "anglais": "class member",
+      "francais": "un membre de classe",
       "type": "n",
       "exemple": ""
     },
@@ -579,8 +586,15 @@
     {
       "id": "p3-083",
       "anglais": "concert",
-      "francais": "concert congratulations! (exclam): félicitations!",
+      "francais": "concert",
       "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p3-104",
+      "anglais": "congratulations!",
+      "francais": "félicitations!",
+      "type": "exclam",
       "exemple": ""
     },
     {
