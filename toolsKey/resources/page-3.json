@@ -147,7 +147,7 @@
       "anglais": "centre",
       "francais": "centre",
       "type": "n",
-      "exemple": "city centre ; shopping centre (uk); Attention: center (us)"
+      "exemple": "city centre ; shopping centre (uk)"
     },
     {
       "id": "p3-022",
@@ -168,7 +168,14 @@
       "anglais": "certain",
       "francais": "certain/sûr",
       "type": "adj",
-      "exemple": "I’m certain ( + that clause) certainly (not) (adv): certainement (pas)"
+      "exemple": "I’m certain ( + that clause)"
+    },
+        {
+      "id": "p3-106",
+      "anglais": "certainly / (not)",
+      "francais": "certainement / (pas)",
+      "type": "adv",
+      "exemple": ""
     },
     {
       "id": "p3-025",
@@ -413,7 +420,14 @@
       "anglais": "click",
       "francais": "cliquer",
       "type": "v",
-      "exemple": "click here to go to our website. climb (v): grimper/escalader"
+      "exemple": "click here to go to our website."
+    },
+        {
+      "id": "p3-107",
+      "anglais": "climb",
+      "francais": "grimper/escalader",
+      "type": "v",
+      "exemple": ""
     },
     {
       "id": "p3-059",
@@ -592,8 +606,8 @@
     },
     {
       "id": "p3-104",
-      "anglais": "congratulations!",
-      "francais": "félicitations!",
+      "anglais": "congratulations",
+      "francais": "félicitations",
       "type": "exclam",
       "exemple": ""
     },

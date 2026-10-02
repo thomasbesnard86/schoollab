@@ -7,7 +7,14 @@
       "anglais": "crossing",
       "francais": "traversée",
       "type": "n",
-      "exemple": "Use the crossing to cross the street. ( passage piéton) crossroads (n): carrefour"
+      "exemple": "Use the crossing to cross the street. ( passage piéton)"
+    },
+        {
+      "id": "p4-108",
+      "anglais": "crossroads",
+      "francais": "carrefour",
+      "type": "n",
+      "exemple": ""
     },
     {
       "id": "p4-002",
@@ -74,7 +81,7 @@
     },
     {
       "id": "p4-011",
-      "anglais": "Dad(dy)",
+      "anglais": "Dad, Daddy",
       "francais": "papa",
       "type": "n",
       "exemple": ""
@@ -126,7 +133,14 @@
       "anglais": "date",
       "francais": "la date",
       "type": "n",
-      "exemple": "What’s the date today ? daughter (n) : fille"
+      "exemple": "What’s the date today ?  "
+    },
+        {
+      "id": "p4-109",
+      "anglais": "daughter",
+      "francais": "fille",
+      "type": "n",
+      "exemple": ""
     },
     {
       "id": "p4-019",
@@ -537,7 +551,7 @@
     {
       "id": "p4-077",
       "anglais": "dry",
-      "francais": "sec(sèche) /assécher",
+      "francais": "sec, sèche / assécher",
       "type": "adj & v",
       "exemple": ""
     },
@@ -611,6 +625,13 @@
       "type": "adv",
       "exemple": "east (n, adj & adv): l’est"
     },
+        {
+      "id": "p4-087",
+      "anglais": "east",
+      "francais": "est, l’est",
+      "type": "n, adj & adv",
+      "exemple": ""
+    },
     {
       "id": "p4-088",
       "anglais": "easy",
@@ -658,7 +679,14 @@
       "anglais": "else",
       "francais": "autre",
       "type": "adv",
-      "exemple": "Anything else ? (autre chose ?) email (n & v): message, courriel électronique"
+      "exemple": "Anything else ? (autre chose ?)"
+    },
+    {
+      "id": "p4-110",
+      "anglais": "email",
+      "francais": "message, courriel électronique",
+      "type": "n & v",
+      "exemple": ""
     },
     {
       "id": "p4-095",

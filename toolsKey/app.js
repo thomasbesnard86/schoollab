@@ -120,7 +120,7 @@ function renderPageChoices() {
 
   state.pages.forEach((page) => {
     const label = document.createElement("label");
-    const isVerified = ["page-1", "page-2", "page-3"].includes(page.id);
+    const isVerified = ["page-1", "page-2", "page-3", "page-4"].includes(page.id);
     label.className = `page-choice ${isVerified ? "is-verified" : "is-pending"}`;
 
     const checkbox = document.createElement("input");
