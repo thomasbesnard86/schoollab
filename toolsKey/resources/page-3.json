@@ -54,13 +54,13 @@
     {
       "id": "p3-008",
       "anglais": "carry",
-      "francais": "",
+      "francais": "porter",
       "type": "v",
       "exemple": ""
     },
     {
       "id": "p3-009",
-      "anglais": "portercartoon",
+      "anglais": "cartoon",
       "francais": "dessin animé",
       "type": "n",
       "exemple": ""
@@ -131,9 +131,9 @@
     {
       "id": "p3-019",
       "anglais": "cent",
-      "francais": "centime / per cent : pour",
+      "francais": "centime / per cent",
       "type": "n",
-      "exemple": "cent"
+      "exemple": "pourcent"
     },
     {
       "id": "p3-020",
@@ -658,13 +658,13 @@
       "anglais": "countryside",
       "francais": "campagne",
       "type": "n",
-      "exemple": "course"
+      "exemple": ""
     },
     {
       "id": "p3-095",
-      "anglais": "(n)",
+      "anglais": "course",
       "francais": "stage / plat (nourriture)",
-      "type": "",
+      "type": "(n)",
       "exemple": "a university course (un stage universitaire) ; a main course (un plat principal) ; of course (not) (bien sûr (que non))"
     },
     {
