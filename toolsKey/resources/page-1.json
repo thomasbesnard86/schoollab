@@ -420,7 +420,14 @@
       "anglais": "appointment",
       "francais": "un rendez-vous",
       "type": "n",
-      "exemple": "an appointment with the doctor area (n): surface"
+      "exemple": "an appointment with the doctor"
+    },
+      {
+      "id": "p1-103",
+      "anglais": "area",
+      "francais": "surface",
+      "type": "n",
+      "exemple": ""
     },
     {
       "id": "p1-062",
