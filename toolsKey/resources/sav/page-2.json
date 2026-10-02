@@ -12,13 +12,13 @@
     {
       "id": "p2-002",
       "anglais": "bath",
-      "francais": "baignoire/bain",
+      "francais": "baignoire,bain",
       "type": "n",
-      "exemple": ""
+      "exemple": "bathing"
     },
     {
       "id": "p2-003",
-      "anglais": "bathing suit",
+      "anglais": "suit",
       "francais": "maillot de bain",
       "type": "n",
       "exemple": ""
@@ -82,7 +82,7 @@
     {
       "id": "p2-012",
       "anglais": "beautiful",
-      "francais": "beau/belle",
+      "francais": "beau, belle",
       "type": "adj",
       "exemple": ""
     },
@@ -98,7 +98,7 @@
       "anglais": "become",
       "francais": "devenir",
       "type": "v",
-      "exemple": "Formes irrégulières : (became-become)"
+      "exemple": "(became-become)"
     },
     {
       "id": "p2-015",
@@ -130,10 +130,10 @@
     },
     {
       "id": "p2-019",
-      "anglais": "begin (v))",
-      "francais": "commencer (began-begun)",
-      "type": "",
-      "exemple": ""
+      "anglais": "begin",
+      "francais": "commencer",
+      "type": "v",
+      "exemple": "(began-begun)"
     },
     {
       "id": "p2-020",
@@ -236,9 +236,9 @@
     {
       "id": "p2-034",
       "anglais": "bill",
-      "francais": "facture/addition/note",
+      "francais": "facture, addition, note",
       "type": "n",
-      "exemple": "Can I have the bill, please?"
+      "exemple": "Can I have the bill,please?"
     },
     {
       "id": "p2-035",
@@ -280,7 +280,7 @@
       "anglais": "bit",
       "francais": "bout",
       "type": "n",
-      "exemple": "Just a small bit of cake, please."
+      "exemple": "Just a small bit of cake,please"
     },
     {
       "id": "p2-041",
@@ -305,15 +305,15 @@
     },
     {
       "id": "p2-044",
-      "anglais": "block (n)",
+      "anglais": "block",
       "francais": "pâté de maisons",
-      "type": "Am Eng",
+      "type": "n",
       "exemple": "Shall we walk around the block?"
     },
     {
       "id": "p2-045",
-      "anglais": "blond(e)",
-      "francais": "blond/blonde",
+      "anglais": "blond",
+      "francais": "blond, blonde",
       "type": "adj",
       "exemple": ""
     },
@@ -369,22 +369,22 @@
     {
       "id": "p2-053",
       "anglais": "book",
-      "francais": "un livre / réserver",
+      "francais": "un livre , réserver",
       "type": "n & v",
       "exemple": ""
     },
     {
       "id": "p2-054",
-      "anglais": "bookshelf (n)(Br Eng) (Am Eng",
+      "anglais": "bookshelf, bookcase",
       "francais": "bookcase): étagère",
-      "type": "",
+      "type": "(n)",
       "exemple": ""
     },
     {
       "id": "p2-055",
-      "anglais": "bookshop (n)(Br Eng) A(m Eng!",
-      "francais": "bookstore) : librairie",
-      "type": "",
+      "anglais": "bookshop, bookstore",
+      "francais": "librairie",
+      "type": "(n)",
       "exemple": ""
     },
     {
@@ -411,7 +411,7 @@
     {
       "id": "p2-059",
       "anglais": "born",
-      "francais": "né(e)",
+      "francais": "né, née",
       "type": "adj",
       "exemple": "I was born in Manchester."
     },
@@ -432,9 +432,9 @@
     {
       "id": "p2-062",
       "anglais": "both",
-      "francais": "tous(toutes) les deux/à la fois",
+      "francais": "tous les deux, toutes les deux",
       "type": "pron & det",
-      "exemple": ""
+      "exemple": "à la fois"
     },
     {
       "id": "p2-063",
@@ -453,21 +453,21 @@
     {
       "id": "p2-065",
       "anglais": "bottom",
-      "francais": "fond/bas",
+      "francais": "fond,bas",
       "type": "n",
       "exemple": "at the bottom of the stairs"
     },
     {
       "id": "p2-066",
       "anglais": "bowl",
-      "francais": "bol/saladier",
+      "francais": "bol, saladier",
       "type": "n",
       "exemple": ""
     },
     {
       "id": "p2-067",
       "anglais": "box",
-      "francais": "boîte/caisse/carton",
+      "francais": "boîte, caisse, arton",
       "type": "n",
       "exemple": ""
     },
@@ -502,7 +502,7 @@
     {
       "id": "p2-072",
       "anglais": "brake",
-      "francais": "frein/freiner",
+      "francais": "frein, freiner",
       "type": "n & v",
       "exemple": ""
     },
@@ -516,9 +516,9 @@
     {
       "id": "p2-074",
       "anglais": "break",
-      "francais": "pause/casser",
+      "francais": "pause, casser",
       "type": "n & v",
-      "exemple": "a break for lunch (n) ; Someone has broken the window. (v) ; Formes irrégulières : (broke-broken)"
+      "exemple": "(broke-broken) ; a break for lunch (n) ; Someone has broken the window. (v)"
     },
     {
       "id": "p2-075",
@@ -544,9 +544,9 @@
     {
       "id": "p2-078",
       "anglais": "brilliant",
-      "francais": "éclatant/brillant/super",
+      "francais": "éclatant,brillant,super",
       "type": "adj",
-      "exemple": "I thought the film was brilliant ! bring(v): apporter (brought-brought)"
+      "exemple": "I thought the film was brilliant ! bring(v): apporter ; (brought-brought)"
     },
     {
       "id": "p2-079",
@@ -572,7 +572,7 @@
     {
       "id": "p2-082",
       "anglais": "brush",
-      "francais": "brosse/brosser",
+      "francais": "brosse, brosser",
       "type": "n/v",
       "exemple": ""
     },
@@ -581,12 +581,12 @@
       "anglais": "build",
       "francais": "construire",
       "type": "v",
-      "exemple": "Formes irrégulières : (built-built)"
+      "exemple": "(built-built)"
     },
     {
       "id": "p2-084",
       "anglais": "building",
-      "francais": "bâtiment/immeuble",
+      "francais": "bâtiment, immeubles",
       "type": "n",
       "exemple": ""
     },
@@ -600,21 +600,21 @@
     {
       "id": "p2-086",
       "anglais": "burn",
-      "francais": "brûler",
+      "francais": "burler",
       "type": "v",
-      "exemple": "He has burnt his hand. ; Formes irrégulières : (burnt-burnt)"
+      "exemple": "(burnt-burnt) ; He has burnt his hand"
     },
     {
       "id": "p2-087",
       "anglais": "bus",
-      "francais": "autobus/autocar",
+      "francais": "autobus, autocar",
       "type": "n",
       "exemple": ""
     },
     {
       "id": "p2-088",
       "anglais": "business",
-      "francais": "affaires/commerce",
+      "francais": "affaires, commerce",
       "type": "n",
       "exemple": ""
     },
@@ -670,14 +670,14 @@
     {
       "id": "p2-096",
       "anglais": "buy",
-      "francais": "acheter (bought-bought)",
+      "francais": "acheter",
       "type": "n",
-      "exemple": ""
+      "exemple": "(bought-bought)"
     },
     {
       "id": "p2-097",
       "anglais": "by",
-      "francais": "par/de",
+      "francais": "par, de",
       "type": "prep",
       "exemple": ""
     },
@@ -690,7 +690,7 @@
     },
     {
       "id": "p2-099",
-      "anglais": "cafe/café",
+      "anglais": "café,café",
       "francais": "café",
       "type": "n",
       "exemple": ""
@@ -698,7 +698,7 @@
     {
       "id": "p2-100",
       "anglais": "cake",
-      "francais": "gâteau/patisserie",
+      "francais": "gâteau, patisserie",
       "type": "n",
       "exemple": ""
     },
@@ -712,7 +712,7 @@
     {
       "id": "p2-102",
       "anglais": "call",
-      "francais": "téléphoner/s’appeler",
+      "francais": "telephoner, s’appeler",
       "type": "v",
       "exemple": "I’ll call (phone) again later this afternoon. ; He has called John. ; I’m waiting for a call from Anna. camel (n): chameau"
     },
@@ -726,7 +726,7 @@
     {
       "id": "p2-104",
       "anglais": "camp",
-      "francais": "camp / camper",
+      "francais": "camp, camper",
       "type": "n & v",
       "exemple": ""
     },
@@ -740,7 +740,7 @@
     {
       "id": "p2-106",
       "anglais": "can",
-      "francais": "canette / pouvoir",
+      "francais": "canette, pouvoir",
       "type": "n & v",
       "exemple": ""
     },

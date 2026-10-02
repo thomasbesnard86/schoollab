@@ -6,7 +6,7 @@
   <meta name="theme-color" content="#f4f7fb" />
   <title>ToolsKey · Studio vocabulaire</title>
   <link rel="stylesheet" href="../src/design-system.css" />
-  <link rel="stylesheet" href="app.css" />
+  <link rel="stylesheet" href="app.css?v=20261002-6" />
 </head>
 <body class="toolskey-app">
   <header class="site-header">
@@ -16,6 +16,7 @@
     </a>
     <nav class="main-nav" aria-label="Navigation principale">
       <button class="nav-button is-active" id="nav-study" type="button" aria-current="page">Étudier</button>
+      <button class="nav-button" id="nav-list" type="button">Liste</button>
       <button class="nav-button" id="nav-history" type="button">Historique <span class="history-count" id="history-count">0</span></button>
     </nav>
   </header>
@@ -32,22 +33,27 @@
         <form class="setup-panel" id="setup-form">
           <fieldset class="setup-block">
             <legend><span class="step-number">01</span> Pages à étudier</legend>
+            <div class="page-selection-toolbar">
+              <p class="field-note" id="page-selection-note">Aucune page sélectionnée.</p>
+              <button class="text-button page-toggle" id="toggle-pages" type="button">Tout sélectionner</button>
+            </div>
             <div class="page-list" id="page-list" aria-live="polite">
               <span class="loading-copy">Chargement des pages…</span>
             </div>
-            <p class="field-note" id="page-selection-note">Sélectionne une ou plusieurs pages.</p>
           </fieldset>
 
           <fieldset class="setup-block">
             <legend><span class="step-number">02</span> Nombre de mots</legend>
-            <div class="word-count-row">
-              <label for="word-count">Mots dans cette session</label>
-              <input id="word-count" name="word-count" type="number" min="1" value="20" inputmode="numeric" />
+            <div class="word-count-controls">
+              <label class="word-count-row" for="word-count">
+                <span>Nombre de mots</span>
+                <input id="word-count" name="word-count" type="number" min="1" value="20" inputmode="numeric" disabled />
+              </label>
+              <label class="check-row" for="all-words">
+                <input id="all-words" name="all-words" type="checkbox" checked />
+                <span>Tous les mots</span>
+              </label>
             </div>
-            <label class="check-row" for="all-words">
-              <input id="all-words" name="all-words" type="checkbox" />
-              <span>Tous les mots des pages sélectionnées</span>
-            </label>
             <p class="field-note" id="available-count">— mots disponibles</p>
           </fieldset>
 
@@ -57,6 +63,7 @@
               <label><input type="radio" name="direction" value="en-fr" checked /><span>Anglais <span aria-hidden="true">→</span> Français</span></label>
               <label><input type="radio" name="direction" value="fr-en" /><span>Français <span aria-hidden="true">→</span> Anglais</span></label>
             </div>
+            <p class="field-note help-note">Réponds dans la langue indiquée. Si plusieurs formes sont séparées par une virgule, une barre oblique ou un point-virgule, une seule suffit (par exemple <strong>a</strong> ou <strong>an</strong>). Majuscules et accents ne changent pas la correction.</p>
           </fieldset>
 
           <fieldset class="setup-block">
@@ -65,6 +72,7 @@
               <label><input type="radio" name="mode" value="oral" checked /><span>Oral</span></label>
               <label><input type="radio" name="mode" value="written" /><span>Écrit</span></label>
             </div>
+            <p class="field-note help-note">En mode oral, affiche la réponse puis évalue toi-même le mot. En mode écrit, saisis la traduction et vérifie-la avant de choisir une évaluation.</p>
           </fieldset>
 
           <p class="form-error" id="setup-error" role="alert" hidden></p>
@@ -73,13 +81,62 @@
           </button>
         </form>
 
-        <aside class="session-aside" aria-label="Résumé des pages disponibles">
+        <aside class="session-aside" aria-label="Vocabulaire et résumé">
           <div class="word-total"><strong id="total-words">—</strong><span>mots au total</span></div>
-          <div class="aside-rule"></div>
-          <p class="aside-label">Tes réglages</p>
-          <p class="aside-summary" id="session-summary">20 mots · Anglais vers français · Oral</p>
-          <p class="privacy-note"><span class="privacy-dot" aria-hidden="true"></span> Progression enregistrée sur cet appareil</p>
+          <section class="vocabulary-print-view" id="vocabulary-print-view" aria-labelledby="vocabulary-title">
+            <header class="vocabulary-toolbar">
+              <div>
+                <p class="aside-label">Référence</p>
+                <h2 id="vocabulary-title">Tout le vocabulaire</h2>
+              </div>
+              <button class="text-button print-button" id="print-vocabulary" type="button" aria-label="Imprimer tout le vocabulaire" title="Imprimer tout le vocabulaire">
+                <span aria-hidden="true">▤</span> Imprimer
+              </button>
+            </header>
+            <ol class="vocabulary-list" id="vocabulary-list" aria-live="polite">
+              <li class="loading-copy">Chargement du vocabulaire…</li>
+            </ol>
+          </section>
+          <div class="session-summary-block">
+            <div class="aside-rule"></div>
+            <p class="aside-label">Tes réglages</p>
+            <p class="aside-summary" id="session-summary">20 mots · Anglais vers français · Oral</p>
+            <p class="privacy-note"><span class="privacy-dot" aria-hidden="true"></span> Progression enregistrée sur cet appareil</p>
+          </div>
         </aside>
+      </div>
+    </section>
+
+    <section class="screen vocabulary-screen" id="vocabulary-screen" hidden>
+      <header class="page-heading">
+        <p class="eyebrow">Anglais <span aria-hidden="true">↔</span> Français</p>
+        <h1>Liste de vocabulaire</h1>
+        <p class="lede">Recherche les mots et consulte ou imprime une page à la fois.</p>
+      </header>
+
+      <div class="directory-toolbar">
+        <label class="directory-search" for="directory-search">
+          <span>Rechercher</span>
+          <input id="directory-search" type="search" placeholder="Mot, traduction, type…" autocomplete="off" />
+        </label>
+        <label class="directory-page-select" for="directory-page">
+          <span>Page</span>
+          <select id="directory-page">
+            <option value="all">Toutes les pages</option>
+          </select>
+        </label>
+        <button class="secondary-button directory-print-button" id="print-directory" type="button">
+          <span aria-hidden="true">▤</span> Imprimer
+        </button>
+      </div>
+
+      <div class="directory-print-content">
+        <header class="directory-print-heading">
+          <h2 id="directory-print-title">Tout le vocabulaire</h2>
+          <p id="directory-summary" aria-live="polite">Chargement…</p>
+        </header>
+        <ol class="vocabulary-directory" id="vocabulary-directory" aria-live="polite"></ol>
+        <p class="directory-empty" id="directory-empty" hidden>Aucun mot ne correspond à cette recherche.</p>
       </div>
     </section>
 
@@ -144,6 +201,7 @@
             <button class="rating-button rating-good" type="button" data-rating="good"><strong>Good</strong><span>1 reprise</span></button>
             <button class="rating-button rating-easy" type="button" data-rating="easy"><strong>Easy</strong><span>Passer</span></button>
           </div>
+          <p class="field-note rating-help">Again : mot difficile, revu deux fois. Good : une reprise. Easy : maîtrisé, sans autre reprise. Raccourcis clavier : <kbd>←</kbd> Again, <kbd>↓</kbd> Good, <kbd>→</kbd> Easy. À la fin, « À revoir » regroupe les Again et les réponses écrites incorrectes; « Rejouer ces mots » relance toute la session.</p>
         </section>
       </div>
 
@@ -165,6 +223,6 @@
     <p class="load-error" id="load-error" role="alert" hidden></p>
   </main>
 
-  <script src="app.js" defer></script>
+  <script src="app.js?v=20261002-4" defer></script>
 </body>
 </html>

@@ -1,0 +1,734 @@
+{
+  "id": "page-10",
+  "title": "Page 10",
+  "words": [
+    {
+      "id": "p10-001",
+      "anglais": "plate",
+      "francais": "assiette",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p10-002",
+      "anglais": "platform",
+      "francais": "quai",
+      "type": "n",
+      "exemple": "Your train leaves from Platform 8."
+    },
+    {
+      "id": "p10-003",
+      "anglais": "play",
+      "francais": "jouer",
+      "type": "v",
+      "exemple": ""
+    },
+    {
+      "id": "p10-004",
+      "anglais": "player",
+      "francais": "joueur",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p10-005",
+      "anglais": "playground",
+      "francais": "aire de jeu",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p10-006",
+      "anglais": "pleasant",
+      "francais": "plaisant",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p10-007",
+      "anglais": "please",
+      "francais": "faire plaisir",
+      "type": "v",
+      "exemple": "I’m very pleased of you. ; Please be quiet !"
+    },
+    {
+      "id": "p10-008",
+      "anglais": "pleased",
+      "francais": "heureux",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p10-009",
+      "anglais": "p.m.",
+      "francais": "de l’après midi",
+      "type": "adv",
+      "exemple": ""
+    },
+    {
+      "id": "p10-010",
+      "anglais": "pocket",
+      "francais": "poche",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p10-011",
+      "anglais": "point",
+      "francais": "montrer, indiquer",
+      "type": "v",
+      "exemple": ""
+    },
+    {
+      "id": "p10-012",
+      "anglais": "police",
+      "francais": "police",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p10-013",
+      "anglais": "police car",
+      "francais": "voiture de police",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p10-014",
+      "anglais": "police officer",
+      "francais": "policier",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p10-015",
+      "anglais": "police station",
+      "francais": "commissariat",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p10-016",
+      "anglais": "polite",
+      "francais": "poli",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p10-017",
+      "anglais": "pool",
+      "francais": "piscine",
+      "type": "n",
+      "exemple": "swimming pool"
+    },
+    {
+      "id": "p10-018",
+      "anglais": "poor",
+      "francais": "pauvre",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p10-019",
+      "anglais": "pop",
+      "francais": "pop",
+      "type": "n & adj",
+      "exemple": "pop music"
+    },
+    {
+      "id": "p10-020",
+      "anglais": "popular",
+      "francais": "populaire",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p10-021",
+      "anglais": "possible",
+      "francais": "possible",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p10-022",
+      "anglais": "possibly",
+      "francais": "peut-être",
+      "type": "adv",
+      "exemple": ""
+    },
+    {
+      "id": "p10-023",
+      "anglais": "post",
+      "francais": "poster",
+      "type": "n & v",
+      "exemple": "to post a letter ; What's in the post today?"
+    },
+    {
+      "id": "p10-024",
+      "anglais": "postcard",
+      "francais": "carte postale",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p10-025",
+      "anglais": "post office",
+      "francais": "la poste",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p10-026",
+      "anglais": "poster",
+      "francais": "affiche",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p10-027",
+      "anglais": "potato",
+      "francais": "pomme de terre",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p10-028",
+      "anglais": "pound £",
+      "francais": "livre sterling",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p10-029",
+      "anglais": "practice",
+      "francais": "exercice",
+      "type": "n",
+      "exemple": "football practice"
+    },
+    {
+      "id": "p10-030",
+      "anglais": "practise (v)",
+      "francais": "pratiquer (Am Eng): practise",
+      "type": "Br Engl",
+      "exemple": "You must practise if your want to play well."
+    },
+    {
+      "id": "p10-031",
+      "anglais": "prefer",
+      "francais": "préférer",
+      "type": "v",
+      "exemple": ""
+    },
+    {
+      "id": "p10-032",
+      "anglais": "prepare",
+      "francais": "préparer",
+      "type": "v",
+      "exemple": ""
+    },
+    {
+      "id": "p10-033",
+      "anglais": "present",
+      "francais": "présent (cadeau)",
+      "type": "n",
+      "exemple": "a birthday present"
+    },
+    {
+      "id": "p10-034",
+      "anglais": "pretty",
+      "francais": "beau/belle",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p10-035",
+      "anglais": "price",
+      "francais": "prix (coût)",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p10-036",
+      "anglais": "print",
+      "francais": "imprimer",
+      "type": "v",
+      "exemple": ""
+    },
+    {
+      "id": "p10-037",
+      "anglais": "printer",
+      "francais": "imprimante",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p10-038",
+      "anglais": "prize",
+      "francais": "prix (récompense)",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p10-039",
+      "anglais": "probably",
+      "francais": "probablement",
+      "type": "adv",
+      "exemple": ""
+    },
+    {
+      "id": "p10-040",
+      "anglais": "problem",
+      "francais": "problème",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p10-041",
+      "anglais": "program",
+      "francais": "a computer program",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p10-042",
+      "anglais": "programme",
+      "francais": "a TV programme",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p10-043",
+      "anglais": "project",
+      "francais": "projet",
+      "type": "n",
+      "exemple": "a school project"
+    },
+    {
+      "id": "p10-044",
+      "anglais": "pull",
+      "francais": "tirer",
+      "type": "v",
+      "exemple": ""
+    },
+    {
+      "id": "p10-045",
+      "anglais": "pupil",
+      "francais": "élève",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p10-046",
+      "anglais": "purple",
+      "francais": "violet",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p10-047",
+      "anglais": "purse",
+      "francais": "porte-monnaie",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p10-048",
+      "anglais": "push",
+      "francais": "pousser",
+      "type": "v",
+      "exemple": ""
+    },
+    {
+      "id": "p10-049",
+      "anglais": "put",
+      "francais": "mettre",
+      "type": "v",
+      "exemple": "put on (phr v): mettre sur ; Formes irrégulières : (put-put)"
+    },
+    {
+      "id": "p10-050",
+      "anglais": "quarter",
+      "francais": "quart",
+      "type": "n",
+      "exemple": "a quarter of an hour"
+    },
+    {
+      "id": "p10-051",
+      "anglais": "queen",
+      "francais": "reine",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p10-052",
+      "anglais": "question",
+      "francais": "question",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p10-053",
+      "anglais": "quick",
+      "francais": "vite",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p10-054",
+      "anglais": "quickly",
+      "francais": "rapidement",
+      "type": "adv",
+      "exemple": ""
+    },
+    {
+      "id": "p10-055",
+      "anglais": "quiet",
+      "francais": "silencieux",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p10-056",
+      "anglais": "quite",
+      "francais": "Presque, assez",
+      "type": "adv",
+      "exemple": "Are you quite sure ? ; quite old"
+    },
+    {
+      "id": "p10-057",
+      "anglais": "quiz",
+      "francais": "questionnaire",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p10-058",
+      "anglais": "rabbit",
+      "francais": "lapin",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p10-059",
+      "anglais": "race",
+      "francais": "course",
+      "type": "n & v",
+      "exemple": "a running race (n) ; She raced her brother to the bus stop. (v)"
+    },
+    {
+      "id": "p10-060",
+      "anglais": "racket",
+      "francais": "raquette",
+      "type": "n",
+      "exemple": "Can I borrow your tennis racket ?"
+    },
+    {
+      "id": "p10-061",
+      "anglais": "radio",
+      "francais": "radio",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p10-062",
+      "anglais": "railway",
+      "francais": "chemin de fer",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p10-063",
+      "anglais": "rain",
+      "francais": "pluie, pleuvoir",
+      "type": "n & v",
+      "exemple": ""
+    },
+    {
+      "id": "p10-064",
+      "anglais": "raincoat",
+      "francais": "imperméable",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p10-065",
+      "anglais": "rap",
+      "francais": "rap (musique)",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p10-066",
+      "anglais": "rather",
+      "francais": "plutôt",
+      "type": "adv",
+      "exemple": "rather old"
+    },
+    {
+      "id": "p10-067",
+      "anglais": "read",
+      "francais": "lire",
+      "type": "v",
+      "exemple": "Formes irrégulières : (read-read)"
+    },
+    {
+      "id": "p10-068",
+      "anglais": "ready",
+      "francais": "prêt",
+      "type": "adj",
+      "exemple": "When will it be ready ?"
+    },
+    {
+      "id": "p10-069",
+      "anglais": "real",
+      "francais": "reel",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p10-070",
+      "anglais": "really",
+      "francais": "réellement",
+      "type": "adv",
+      "exemple": ""
+    },
+    {
+      "id": "p10-071",
+      "anglais": "receipt",
+      "francais": "reçu",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p10-072",
+      "anglais": "receive",
+      "francais": "recevoir",
+      "type": "v",
+      "exemple": ""
+    },
+    {
+      "id": "p10-073",
+      "anglais": "record",
+      "francais": "enregistrer",
+      "type": "v",
+      "exemple": ""
+    },
+    {
+      "id": "p10-074",
+      "anglais": "reason",
+      "francais": "raison",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p10-075",
+      "anglais": "receptionist",
+      "francais": "réceptionniste",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p10-076",
+      "anglais": "red",
+      "francais": "rouge",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p10-077",
+      "anglais": "refrigerator",
+      "francais": "réfrigérateur",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p10-078",
+      "anglais": "reggae",
+      "francais": "reggae",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p10-079",
+      "anglais": "remember",
+      "francais": "se souvenir",
+      "type": "v",
+      "exemple": ""
+    },
+    {
+      "id": "p10-080",
+      "anglais": "rent",
+      "francais": "louer",
+      "type": "v",
+      "exemple": ""
+    },
+    {
+      "id": "p10-081",
+      "anglais": "repair",
+      "francais": "réparer",
+      "type": "v",
+      "exemple": ""
+    },
+    {
+      "id": "p10-082",
+      "anglais": "repeat",
+      "francais": "répéter",
+      "type": "v",
+      "exemple": ""
+    },
+    {
+      "id": "p10-083",
+      "anglais": "rest",
+      "francais": "se reposer, repos",
+      "type": "n & v",
+      "exemple": "to have a rest ; '' Try to rest '', the doctor said."
+    },
+    {
+      "id": "p10-084",
+      "anglais": "restaurant",
+      "francais": "restaurant",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p10-085",
+      "anglais": "return",
+      "francais": "retour, rentrer, revenir",
+      "type": "n & v",
+      "exemple": "my return from holiday (n) ; He returned home late. (v) ; She returned her library books. (v)"
+    },
+    {
+      "id": "p10-086",
+      "anglais": "rice",
+      "francais": "riz",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p10-087",
+      "anglais": "rich",
+      "francais": "riche",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p10-088",
+      "anglais": "ride",
+      "francais": "monter",
+      "type": "n & v",
+      "exemple": "right (n, adj & v): droite, correct, juste ; He swam to the right. (n) ; your right hand (adj) ; That's the right answer. (adj) ; Turn right here . (adv) ; Formes irrégulières : (rode-ridden)"
+    },
+    {
+      "id": "p10-089",
+      "anglais": "ring",
+      "francais": "sonner",
+      "type": "v",
+      "exemple": ""
+    },
+    {
+      "id": "p10-090",
+      "anglais": "river",
+      "francais": "fleuve",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p10-091",
+      "anglais": "road",
+      "francais": "route",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p10-092",
+      "anglais": "roast",
+      "francais": "griller, rôtir/grille, rôti",
+      "type": "v & adj",
+      "exemple": ""
+    },
+    {
+      "id": "p10-093",
+      "anglais": "rock",
+      "francais": "rocher, rock (musique)",
+      "type": "n",
+      "exemple": "rock concert"
+    },
+    {
+      "id": "p10-094",
+      "anglais": "roof",
+      "francais": "toit",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p10-095",
+      "anglais": "room",
+      "francais": "pièce, salle",
+      "type": "n",
+      "exemple": "a double room"
+    },
+    {
+      "id": "p10-096",
+      "anglais": "round",
+      "francais": "rond",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p10-097",
+      "anglais": "roundabout",
+      "francais": "rond-point",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p10-098",
+      "anglais": "rubber",
+      "francais": "gomme",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p10-099",
+      "anglais": "run",
+      "francais": "courir",
+      "type": "v",
+      "exemple": "Formes irrégulières : (ran-run)"
+    },
+    {
+      "id": "p10-100",
+      "anglais": "runner",
+      "francais": "coureur",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p10-101",
+      "anglais": "sad",
+      "francais": "triste",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p10-102",
+      "anglais": "safe",
+      "francais": "sûr(e)",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p10-103",
+      "anglais": "sail",
+      "francais": "naviguer",
+      "type": "v",
+      "exemple": ""
+    },
+    {
+      "id": "p10-104",
+      "anglais": "sailing",
+      "francais": "navigation",
+      "type": "n",
+      "exemple": ""
+    }
+  ]
+}

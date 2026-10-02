@@ -1,0 +1,755 @@
+{
+  "id": "page-4",
+  "title": "Page 4",
+  "words": [
+    {
+      "id": "p4-001",
+      "anglais": "crossing",
+      "francais": "traversée",
+      "type": "n",
+      "exemple": "Use the crossing to cross the street. ( passage piéton) crossroads (n): carrefour"
+    },
+    {
+      "id": "p4-002",
+      "anglais": "crowd",
+      "francais": "la foule",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p4-003",
+      "anglais": "crowded",
+      "francais": "plein de monde, bondé",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p4-004",
+      "anglais": "cry",
+      "francais": "pleurer/crier",
+      "type": "v",
+      "exemple": "The baby is crying."
+    },
+    {
+      "id": "p4-005",
+      "anglais": "cup",
+      "francais": "tasse",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p4-006",
+      "anglais": "cupboard",
+      "francais": "placard",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p4-007",
+      "anglais": "curtains",
+      "francais": "rideaux",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p4-008",
+      "anglais": "customer",
+      "francais": "client(e)",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p4-009",
+      "anglais": "cut",
+      "francais": "couper",
+      "type": "v",
+      "exemple": "Formes irrégulières : (cut-cut)"
+    },
+    {
+      "id": "p4-010",
+      "anglais": "cycle",
+      "francais": "aller en vélo",
+      "type": "v",
+      "exemple": ""
+    },
+    {
+      "id": "p4-011",
+      "anglais": "Dad(dy)",
+      "francais": "papa",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p4-012",
+      "anglais": "daily",
+      "francais": "quotidien / quotidiennement",
+      "type": "adj & adv",
+      "exemple": ""
+    },
+    {
+      "id": "p4-013",
+      "anglais": "dance",
+      "francais": "la danse / danser",
+      "type": "n & v",
+      "exemple": ""
+    },
+    {
+      "id": "p4-014",
+      "anglais": "dancing",
+      "francais": "danse",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p4-015",
+      "anglais": "danger",
+      "francais": "danger",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p4-016",
+      "anglais": "dangerous",
+      "francais": "dangereux",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p4-017",
+      "anglais": "dark",
+      "francais": "sombre/foncé",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p4-018",
+      "anglais": "date",
+      "francais": "la date",
+      "type": "n",
+      "exemple": "What’s the date today ? daughter (n) : fille"
+    },
+    {
+      "id": "p4-019",
+      "anglais": "day",
+      "francais": "jour",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p4-020",
+      "anglais": "dead",
+      "francais": "mort",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p4-021",
+      "anglais": "dear",
+      "francais": "cher/chère",
+      "type": "adj",
+      "exemple": "Dear Anne,"
+    },
+    {
+      "id": "p4-022",
+      "anglais": "decide",
+      "francais": "decider",
+      "type": "v",
+      "exemple": ""
+    },
+    {
+      "id": "p4-023",
+      "anglais": "deep",
+      "francais": "profond",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p4-024",
+      "anglais": "degree",
+      "francais": "degré",
+      "type": "n",
+      "exemple": "The temperature is 30 degrees today."
+    },
+    {
+      "id": "p4-025",
+      "anglais": "delay",
+      "francais": "retard/retarder",
+      "type": "n & v",
+      "exemple": "There will be a delay of two hours. (n) ; The flight is delayed. (v)"
+    },
+    {
+      "id": "p4-026",
+      "anglais": "dentist",
+      "francais": "dentiste",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p4-027",
+      "anglais": "department",
+      "francais": "service (firm) / rayon (shop)",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p4-028",
+      "anglais": "department store (n)",
+      "francais": "magasin (Br Eng) : shop",
+      "type": "Am Eng",
+      "exemple": ""
+    },
+    {
+      "id": "p4-029",
+      "anglais": "describe",
+      "francais": "décrire",
+      "type": "v",
+      "exemple": ""
+    },
+    {
+      "id": "p4-030",
+      "anglais": "desert",
+      "francais": "désert",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p4-031",
+      "anglais": "desk",
+      "francais": "bureau",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p4-032",
+      "anglais": "dessert",
+      "francais": "dessert",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p4-033",
+      "anglais": "detail",
+      "francais": "détail",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p4-034",
+      "anglais": "diary",
+      "francais": "agenda/journal",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p4-035",
+      "anglais": "dictionary",
+      "francais": "dictionnaire",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p4-036",
+      "anglais": "die",
+      "francais": "mourir",
+      "type": "v",
+      "exemple": ""
+    },
+    {
+      "id": "p4-037",
+      "anglais": "difference",
+      "francais": "différence",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p4-038",
+      "anglais": "different",
+      "francais": "différent",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p4-039",
+      "anglais": "difficult",
+      "francais": "difficile",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p4-040",
+      "anglais": "digital",
+      "francais": "digital(e)",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p4-041",
+      "anglais": "digital camera",
+      "francais": "appareil photo numérique",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p4-042",
+      "anglais": "dining room",
+      "francais": "salle à manger",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p4-043",
+      "anglais": "dinner",
+      "francais": "dîner",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p4-044",
+      "anglais": "dinosaur",
+      "francais": "dinosaure",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p4-045",
+      "anglais": "diploma",
+      "francais": "diplôme",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p4-046",
+      "anglais": "dirty",
+      "francais": "sale",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p4-047",
+      "anglais": "disco",
+      "francais": "discothèque",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p4-048",
+      "anglais": "discount",
+      "francais": "remise/rabais",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p4-049",
+      "anglais": "discuss",
+      "francais": "discuter",
+      "type": "v",
+      "exemple": ""
+    },
+    {
+      "id": "p4-050",
+      "anglais": "dish",
+      "francais": "plat",
+      "type": "n",
+      "exemple": "Chicken and chips is my favourite dish."
+    },
+    {
+      "id": "p4-051",
+      "anglais": "do",
+      "francais": "faire",
+      "type": "v",
+      "exemple": "Formes irrégulières : (did-done)"
+    },
+    {
+      "id": "p4-052",
+      "anglais": "doctor",
+      "francais": "docteur",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p4-053",
+      "anglais": "dog",
+      "francais": "chien",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p4-054",
+      "anglais": "doll",
+      "francais": "poupée",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p4-055",
+      "anglais": "dollar",
+      "francais": "dollar",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p4-056",
+      "anglais": "dolphin",
+      "francais": "dauphin",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p4-057",
+      "anglais": "door",
+      "francais": "porte",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p4-058",
+      "anglais": "dot",
+      "francais": "point (punctuation)",
+      "type": "n",
+      "exemple": "dot com"
+    },
+    {
+      "id": "p4-059",
+      "anglais": "double",
+      "francais": "double",
+      "type": "adj",
+      "exemple": "a double room"
+    },
+    {
+      "id": "p4-060",
+      "anglais": "down",
+      "francais": "en bas",
+      "type": "adv & prep",
+      "exemple": ""
+    },
+    {
+      "id": "p4-061",
+      "anglais": "download",
+      "francais": "téléchargement / télécharger",
+      "type": "n & v",
+      "exemple": "I downloaded the songs from the internet. (v) ; Can you get these as a download? (n)"
+    },
+    {
+      "id": "p4-062",
+      "anglais": "downstairs",
+      "francais": "en bas/ au rez de chaussée",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p4-063",
+      "anglais": "Dr",
+      "francais": "Docteur",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p4-064",
+      "anglais": "dragon",
+      "francais": "dragon",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p4-065",
+      "anglais": "draw",
+      "francais": "dessiner",
+      "type": "v",
+      "exemple": "Formes irrégulières : (drew-drawn)"
+    },
+    {
+      "id": "p4-066",
+      "anglais": "drawer",
+      "francais": "tiroir",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p4-067",
+      "anglais": "drawing",
+      "francais": "dessin",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p4-068",
+      "anglais": "dream",
+      "francais": "rêve / rêver",
+      "type": "n & v",
+      "exemple": ""
+    },
+    {
+      "id": "p4-069",
+      "anglais": "dress",
+      "francais": "robe / habiller",
+      "type": "n & v",
+      "exemple": ""
+    },
+    {
+      "id": "p4-070",
+      "anglais": "dressed",
+      "francais": "habillé",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p4-071",
+      "anglais": "drink",
+      "francais": "boisson / boire",
+      "type": "n & v",
+      "exemple": ""
+    },
+    {
+      "id": "p4-072",
+      "anglais": "drive",
+      "francais": "conduire",
+      "type": "v",
+      "exemple": "Formes irrégulières : (drove-driven)"
+    },
+    {
+      "id": "p4-073",
+      "anglais": "driver",
+      "francais": "chauffeur",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p4-074",
+      "anglais": "driving licence",
+      "francais": "permis de conduire",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p4-075",
+      "anglais": "drugstore (n)",
+      "francais": "pharmacie (Br Eng) : chemist’s",
+      "type": "Am Eng",
+      "exemple": ""
+    },
+    {
+      "id": "p4-076",
+      "anglais": "drum",
+      "francais": "tambour, baril, bidon",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p4-077",
+      "anglais": "dry",
+      "francais": "sec(sèche) /assécher",
+      "type": "adj & v",
+      "exemple": ""
+    },
+    {
+      "id": "p4-078",
+      "anglais": "duck",
+      "francais": "canard",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p4-079",
+      "anglais": "during",
+      "francais": "pendant",
+      "type": "prep",
+      "exemple": ""
+    },
+    {
+      "id": "p4-080",
+      "anglais": "DVD",
+      "francais": "DVD",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p4-081",
+      "anglais": "DVD player",
+      "francais": "lecteur DVD",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p4-082",
+      "anglais": "each",
+      "francais": "chaque/ chacun",
+      "type": "det & pron",
+      "exemple": ""
+    },
+    {
+      "id": "p4-083",
+      "anglais": "ear",
+      "francais": "oreille",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p4-084",
+      "anglais": "early",
+      "francais": "tôt",
+      "type": "adj & adv",
+      "exemple": ""
+    },
+    {
+      "id": "p4-085",
+      "anglais": "earn",
+      "francais": "gagner (de l’argent)",
+      "type": "v",
+      "exemple": ""
+    },
+    {
+      "id": "p4-086",
+      "anglais": "earring",
+      "francais": "boucle d’oreille",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p4-087",
+      "anglais": "easily",
+      "francais": "facilement",
+      "type": "adv",
+      "exemple": "east (n, adj & adv): l’est"
+    },
+    {
+      "id": "p4-088",
+      "anglais": "easy",
+      "francais": "facile",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p4-089",
+      "anglais": "eat",
+      "francais": "manger",
+      "type": "v",
+      "exemple": "Formes irrégulières : (ate-eaten)"
+    },
+    {
+      "id": "p4-090",
+      "anglais": "egg",
+      "francais": "oeuf",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p4-091",
+      "anglais": "electric",
+      "francais": "électrique",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p4-092",
+      "anglais": "electricity",
+      "francais": "électricité",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p4-093",
+      "anglais": "elephant",
+      "francais": "éléphant",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p4-094",
+      "anglais": "else",
+      "francais": "autre",
+      "type": "adv",
+      "exemple": "Anything else ? (autre chose ?) email (n & v): message, courriel électronique"
+    },
+    {
+      "id": "p4-095",
+      "anglais": "empty",
+      "francais": "vide",
+      "type": "adj & v",
+      "exemple": ""
+    },
+    {
+      "id": "p4-096",
+      "anglais": "end",
+      "francais": "finir, fin",
+      "type": "v & n",
+      "exemple": ""
+    },
+    {
+      "id": "p4-097",
+      "anglais": "engine",
+      "francais": "moteur",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p4-098",
+      "anglais": "engineer",
+      "francais": "ingénieur",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p4-099",
+      "anglais": "enjoy",
+      "francais": "aimer",
+      "type": "v",
+      "exemple": ""
+    },
+    {
+      "id": "p4-100",
+      "anglais": "enough",
+      "francais": "assez",
+      "type": "det & pron",
+      "exemple": ""
+    },
+    {
+      "id": "p4-101",
+      "anglais": "enter",
+      "francais": "entrer",
+      "type": "v",
+      "exemple": "Are you going to enter the postercompetition? ; please enter through the side door."
+    },
+    {
+      "id": "p4-102",
+      "anglais": "entrance",
+      "francais": "entrée",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p4-103",
+      "anglais": "envelope",
+      "francais": "envelope",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p4-104",
+      "anglais": "especially",
+      "francais": "spécialement",
+      "type": "adv",
+      "exemple": ""
+    },
+    {
+      "id": "p4-105",
+      "anglais": "euro",
+      "francais": "euro",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p4-106",
+      "anglais": "even",
+      "francais": "même",
+      "type": "adv",
+      "exemple": ""
+    },
+    {
+      "id": "p4-107",
+      "anglais": "evening",
+      "francais": "soir",
+      "type": "n",
+      "exemple": ""
+    }
+  ]
+}

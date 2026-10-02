@@ -1,0 +1,839 @@
+{
+  "id": "page-12",
+  "title": "Page 12",
+  "words": [
+    {
+      "id": "p12-001",
+      "anglais": "spring",
+      "francais": "printemps",
+      "type": "n",
+      "exemple": "I hate winter but I love spring."
+    },
+    {
+      "id": "p12-002",
+      "anglais": "square",
+      "francais": "carré",
+      "type": "n & adj",
+      "exemple": ""
+    },
+    {
+      "id": "p12-003",
+      "anglais": "stadium",
+      "francais": "stade",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p12-004",
+      "anglais": "staff",
+      "francais": "personnel",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p12-005",
+      "anglais": "stage",
+      "francais": "étage, scène",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p12-006",
+      "anglais": "stairs",
+      "francais": "escaliers",
+      "type": "n pl",
+      "exemple": ""
+    },
+    {
+      "id": "p12-007",
+      "anglais": "stamp",
+      "francais": "timbre",
+      "type": "n",
+      "exemple": "Put a stamp on the envelope. stand: être debout (stood-stood) ; She was standing at the bus stop."
+    },
+    {
+      "id": "p12-008",
+      "anglais": "star",
+      "francais": "étoile, briller",
+      "type": "n & v",
+      "exemple": ""
+    },
+    {
+      "id": "p12-009",
+      "anglais": "start",
+      "francais": "commencer",
+      "type": "v",
+      "exemple": ""
+    },
+    {
+      "id": "p12-010",
+      "anglais": "station",
+      "francais": "station",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p12-011",
+      "anglais": "stay",
+      "francais": "rester",
+      "type": "v",
+      "exemple": ""
+    },
+    {
+      "id": "p12-012",
+      "anglais": "steak",
+      "francais": "bifteck",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p12-013",
+      "anglais": "steal",
+      "francais": "voler",
+      "type": "v",
+      "exemple": "Someone has stolen my bag ! ; Formes irrégulières : (stole-stolen)"
+    },
+    {
+      "id": "p12-014",
+      "anglais": "still",
+      "francais": "encore",
+      "type": "adv",
+      "exemple": ""
+    },
+    {
+      "id": "p12-015",
+      "anglais": "stomach",
+      "francais": "estomac",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p12-016",
+      "anglais": "stomachache",
+      "francais": "mal à l’estomac",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p12-017",
+      "anglais": "stop",
+      "francais": "stop, arrêter",
+      "type": "n & v",
+      "exemple": ""
+    },
+    {
+      "id": "p12-018",
+      "anglais": "store",
+      "francais": "magasin",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p12-019",
+      "anglais": "storm",
+      "francais": "orage",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p12-020",
+      "anglais": "story",
+      "francais": "histoire",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p12-021",
+      "anglais": "straight",
+      "francais": "droit",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p12-022",
+      "anglais": "straight on",
+      "francais": "tout droit",
+      "type": "adv",
+      "exemple": ""
+    },
+    {
+      "id": "p12-023",
+      "anglais": "strange",
+      "francais": "étrange",
+      "type": "adj",
+      "exemple": "That's a strange story !"
+    },
+    {
+      "id": "p12-024",
+      "anglais": "street",
+      "francais": "rue",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p12-025",
+      "anglais": "strong",
+      "francais": "fort",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p12-026",
+      "anglais": "student",
+      "francais": "étudiant",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p12-027",
+      "anglais": "studies",
+      "francais": "études",
+      "type": "n pl",
+      "exemple": ""
+    },
+    {
+      "id": "p12-028",
+      "anglais": "study",
+      "francais": "étudier",
+      "type": "v",
+      "exemple": ""
+    },
+    {
+      "id": "p12-029",
+      "anglais": "subject",
+      "francais": "sujet, matière",
+      "type": "n",
+      "exemple": "What's your favourite subject at school ? ; the subject of a talk"
+    },
+    {
+      "id": "p12-030",
+      "anglais": "success",
+      "francais": "success",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p12-031",
+      "anglais": "such",
+      "francais": "tel",
+      "type": "det & adj",
+      "exemple": ""
+    },
+    {
+      "id": "p12-032",
+      "anglais": "suddenly",
+      "francais": "soudainement",
+      "type": "adv",
+      "exemple": ""
+    },
+    {
+      "id": "p12-033",
+      "anglais": "sugar",
+      "francais": "sucre",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p12-034",
+      "anglais": "suit",
+      "francais": "costume",
+      "type": "n",
+      "exemple": "He was wearing a grey suit."
+    },
+    {
+      "id": "p12-035",
+      "anglais": "suitcase",
+      "francais": "valise",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p12-036",
+      "anglais": "summer",
+      "francais": "été",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p12-037",
+      "anglais": "sun",
+      "francais": "soleil",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p12-038",
+      "anglais": "sunglasses",
+      "francais": "lunettes de soleil",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p12-039",
+      "anglais": "sunny",
+      "francais": "ensoleillé",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p12-040",
+      "anglais": "supermarket",
+      "francais": "supermarché",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p12-041",
+      "anglais": "supper",
+      "francais": "souper, dîner",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p12-042",
+      "anglais": "suppose",
+      "francais": "supposer",
+      "type": "v",
+      "exemple": "I suppose so. ; I suppose you're right."
+    },
+    {
+      "id": "p12-043",
+      "anglais": "sure",
+      "francais": "sure",
+      "type": "adj",
+      "exemple": "I'm (not) sure"
+    },
+    {
+      "id": "p12-044",
+      "anglais": "surf",
+      "francais": "surfer",
+      "type": "v",
+      "exemple": ""
+    },
+    {
+      "id": "p12-045",
+      "anglais": "surfboard",
+      "francais": "planche de surf",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p12-046",
+      "anglais": "surfing",
+      "francais": "surf",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p12-047",
+      "anglais": "surname",
+      "francais": "nom de famille",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p12-048",
+      "anglais": "surprise",
+      "francais": "surprise",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p12-049",
+      "anglais": "surprised",
+      "francais": "surprise(e)",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p12-050",
+      "anglais": "sweater",
+      "francais": "pull",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p12-051",
+      "anglais": "sweet",
+      "francais": "bonbon, doux",
+      "type": "n & adj",
+      "exemple": ""
+    },
+    {
+      "id": "p12-052",
+      "anglais": "swim",
+      "francais": "nager",
+      "type": "v",
+      "exemple": "swimming costume (n) (Br Eng) mailot de bain (Am Eng): bathing suit ; Formes irrégulières : (swam-swum)"
+    },
+    {
+      "id": "p12-053",
+      "anglais": "swimming pool",
+      "francais": "piscine",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p12-054",
+      "anglais": "swimsuit",
+      "francais": "maillot de bain",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p12-055",
+      "anglais": "table",
+      "francais": "table",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p12-056",
+      "anglais": "table-tennis",
+      "francais": "table de ping-pong",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p12-057",
+      "anglais": "take",
+      "francais": "prendre, emmener",
+      "type": "v",
+      "exemple": "I'll take it to your room. ; It takes three hours. take off (phr v): enlever ; She took off her shoes. ; Formes irrégulières : (took-taken)"
+    },
+    {
+      "id": "p12-058",
+      "anglais": "talk",
+      "francais": "parler",
+      "type": "n & v",
+      "exemple": ""
+    },
+    {
+      "id": "p12-059",
+      "anglais": "tall",
+      "francais": "grand",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p12-060",
+      "anglais": "taxi",
+      "francais": "taxi",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p12-061",
+      "anglais": "tea",
+      "francais": "thé",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p12-062",
+      "anglais": "teach",
+      "francais": "enseigner",
+      "type": "v",
+      "exemple": "Formes irrégulières : (taught-taught)"
+    },
+    {
+      "id": "p12-063",
+      "anglais": "team",
+      "francais": "équipe",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p12-064",
+      "anglais": "teenager",
+      "francais": "adolescent",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p12-065",
+      "anglais": "telephone",
+      "francais": "téléphone",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p12-066",
+      "anglais": "television",
+      "francais": "télévision",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p12-067",
+      "anglais": "tell",
+      "francais": "dire à",
+      "type": "v",
+      "exemple": "Formes irrégulières : (told-told)"
+    },
+    {
+      "id": "p12-068",
+      "anglais": "temperature",
+      "francais": "température",
+      "type": "n",
+      "exemple": "The temperature was below zero."
+    },
+    {
+      "id": "p12-069",
+      "anglais": "tennis",
+      "francais": "tennis",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p12-070",
+      "anglais": "tent",
+      "francais": "tente",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p12-071",
+      "anglais": "term",
+      "francais": "terme, période, trimestre",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p12-072",
+      "anglais": "terrible",
+      "francais": "terrible",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p12-073",
+      "anglais": "test",
+      "francais": "test",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p12-074",
+      "anglais": "text",
+      "francais": "texte",
+      "type": "n & v",
+      "exemple": ""
+    },
+    {
+      "id": "p12-075",
+      "anglais": "text book",
+      "francais": "livre de texte",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p12-076",
+      "anglais": "text message",
+      "francais": "texto",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p12-077",
+      "anglais": "than",
+      "francais": "de, que",
+      "type": "prep & conj",
+      "exemple": ""
+    },
+    {
+      "id": "p12-078",
+      "anglais": "thank",
+      "francais": "remercier",
+      "type": "v",
+      "exemple": ""
+    },
+    {
+      "id": "p12-079",
+      "anglais": "the",
+      "francais": "le",
+      "type": "det",
+      "exemple": ""
+    },
+    {
+      "id": "p12-080",
+      "anglais": "theatre",
+      "francais": "théâtre",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p12-081",
+      "anglais": "their",
+      "francais": "",
+      "type": "det",
+      "exemple": "leur"
+    },
+    {
+      "id": "p12-082",
+      "anglais": "theirs",
+      "francais": "",
+      "type": "det",
+      "exemple": "le(s) leur(s)"
+    },
+    {
+      "id": "p12-083",
+      "anglais": "them",
+      "francais": "les leurs",
+      "type": "pron",
+      "exemple": ""
+    },
+    {
+      "id": "p12-084",
+      "anglais": "themselves",
+      "francais": "eux-mêmes",
+      "type": "pron",
+      "exemple": ""
+    },
+    {
+      "id": "p12-085",
+      "anglais": "then",
+      "francais": "ensuite",
+      "type": "adv",
+      "exemple": ""
+    },
+    {
+      "id": "p12-086",
+      "anglais": "there",
+      "francais": "là",
+      "type": "adv",
+      "exemple": "these (det"
+    },
+    {
+      "id": "p12-087",
+      "anglais": "pron)",
+      "francais": "ces",
+      "type": "",
+      "exemple": ""
+    },
+    {
+      "id": "p12-088",
+      "anglais": "they",
+      "francais": "ils/elles",
+      "type": "pron",
+      "exemple": ""
+    },
+    {
+      "id": "p12-089",
+      "anglais": "thin",
+      "francais": "fin(e)",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p12-090",
+      "anglais": "thing",
+      "francais": "chose",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p12-091",
+      "anglais": "think",
+      "francais": "penser",
+      "type": "v",
+      "exemple": "Formes irrégulières : (thought-thought)"
+    },
+    {
+      "id": "p12-092",
+      "anglais": "thirsty",
+      "francais": "assoiffé",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p12-093",
+      "anglais": "this",
+      "francais": "ce, cet, cette",
+      "type": "det & pron",
+      "exemple": ""
+    },
+    {
+      "id": "p12-094",
+      "anglais": "those",
+      "francais": "ces",
+      "type": "det & pron",
+      "exemple": ""
+    },
+    {
+      "id": "p12-095",
+      "anglais": "through",
+      "francais": "à travers",
+      "type": "prep",
+      "exemple": ""
+    },
+    {
+      "id": "p12-096",
+      "anglais": "throw",
+      "francais": "jeter",
+      "type": "v",
+      "exemple": "Formes irrégulières : (threw-thrown)"
+    },
+    {
+      "id": "p12-097",
+      "anglais": "thunderstorm",
+      "francais": "orage",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p12-098",
+      "anglais": "ticket",
+      "francais": "billet",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p12-099",
+      "anglais": "tidy",
+      "francais": "ordonné, ranger",
+      "type": "adj & v",
+      "exemple": ""
+    },
+    {
+      "id": "p12-100",
+      "anglais": "tidy up",
+      "francais": "ranger",
+      "type": "v",
+      "exemple": ""
+    },
+    {
+      "id": "p12-101",
+      "anglais": "tiger",
+      "francais": "tigre",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p12-102",
+      "anglais": "tights",
+      "francais": "collants",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p12-103",
+      "anglais": "till",
+      "francais": "jusqu’à",
+      "type": "prep",
+      "exemple": ""
+    },
+    {
+      "id": "p12-104",
+      "anglais": "time",
+      "francais": "heure",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p12-105",
+      "anglais": "tired",
+      "francais": "fatigué(e)",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p12-106",
+      "anglais": "to",
+      "francais": "à",
+      "type": "prep",
+      "exemple": ""
+    },
+    {
+      "id": "p12-107",
+      "anglais": "today",
+      "francais": "aujourd’hui",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p12-108",
+      "anglais": "together",
+      "francais": "ensemble",
+      "type": "adv",
+      "exemple": ""
+    },
+    {
+      "id": "p12-109",
+      "anglais": "toilet",
+      "francais": "toilettes",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p12-110",
+      "anglais": "tomato",
+      "francais": "tomate",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p12-111",
+      "anglais": "tomorrow",
+      "francais": "demain",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p12-112",
+      "anglais": "tonight",
+      "francais": "ce soir",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p12-113",
+      "anglais": "too",
+      "francais": "aussi",
+      "type": "adv",
+      "exemple": ""
+    },
+    {
+      "id": "p12-114",
+      "anglais": "tooth",
+      "francais": "dent",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p12-115",
+      "anglais": "toothbrush",
+      "francais": "brosse à dent",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p12-116",
+      "anglais": "top",
+      "francais": "en haut",
+      "type": "n",
+      "exemple": "the top of the page"
+    },
+    {
+      "id": "p12-117",
+      "anglais": "total",
+      "francais": "total",
+      "type": "adj & n",
+      "exemple": ""
+    },
+    {
+      "id": "p12-118",
+      "anglais": "tour",
+      "francais": "voyage, tournée, visiter",
+      "type": "n & v",
+      "exemple": ""
+    },
+    {
+      "id": "p12-119",
+      "anglais": "tour guide",
+      "francais": "guide, accompagnateur",
+      "type": "n",
+      "exemple": ""
+    }
+  ]
+}

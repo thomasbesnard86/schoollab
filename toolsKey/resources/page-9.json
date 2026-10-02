@@ -1,0 +1,797 @@
+{
+  "id": "page-9",
+  "title": "Page 9",
+  "words": [
+    {
+      "id": "p9-001",
+      "anglais": "newsagent",
+      "francais": "marchand de journaux",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p9-002",
+      "anglais": "newspaper",
+      "francais": "journal",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p9-003",
+      "anglais": "next",
+      "francais": "après",
+      "type": "adj & adv",
+      "exemple": ""
+    },
+    {
+      "id": "p9-004",
+      "anglais": "next to",
+      "francais": "près de",
+      "type": "prep",
+      "exemple": ""
+    },
+    {
+      "id": "p9-005",
+      "anglais": "nice",
+      "francais": "beau",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p9-006",
+      "anglais": "night",
+      "francais": "nuit",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p9-007",
+      "anglais": "no",
+      "francais": "non",
+      "type": "det & exclam",
+      "exemple": ""
+    },
+    {
+      "id": "p9-008",
+      "anglais": "nobody",
+      "francais": "personne",
+      "type": "pron",
+      "exemple": ""
+    },
+    {
+      "id": "p9-009",
+      "anglais": "noise",
+      "francais": "bruit",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p9-010",
+      "anglais": "noisy",
+      "francais": "bruyant",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p9-011",
+      "anglais": "no one",
+      "francais": "personne",
+      "type": "pron",
+      "exemple": ""
+    },
+    {
+      "id": "p9-012",
+      "anglais": "noon",
+      "francais": "le midi",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p9-013",
+      "anglais": "none",
+      "francais": "aucun",
+      "type": "pron",
+      "exemple": ""
+    },
+    {
+      "id": "p9-014",
+      "anglais": "normal",
+      "francais": "normal",
+      "type": "adj",
+      "exemple": "north ( n , adj & adv) : Nord"
+    },
+    {
+      "id": "p9-015",
+      "anglais": "nose",
+      "francais": "nez",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p9-016",
+      "anglais": "not",
+      "francais": "pas",
+      "type": "adv",
+      "exemple": ""
+    },
+    {
+      "id": "p9-017",
+      "anglais": "note",
+      "francais": "note, noter",
+      "type": "n & v",
+      "exemple": ""
+    },
+    {
+      "id": "p9-018",
+      "anglais": "notebook",
+      "francais": "cahier",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p9-019",
+      "anglais": "nothing",
+      "francais": "rien",
+      "type": "pron",
+      "exemple": ""
+    },
+    {
+      "id": "p9-020",
+      "anglais": "notice",
+      "francais": "avis",
+      "type": "n",
+      "exemple": "now"
+    },
+    {
+      "id": "p9-021",
+      "anglais": "(adv)",
+      "francais": "maintenant",
+      "type": "",
+      "exemple": ""
+    },
+    {
+      "id": "p9-022",
+      "anglais": "nowhere",
+      "francais": "nulle part",
+      "type": "adv",
+      "exemple": ""
+    },
+    {
+      "id": "p9-023",
+      "anglais": "number",
+      "francais": "nombre",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p9-024",
+      "anglais": "nurse",
+      "francais": "infirmière",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p9-025",
+      "anglais": "occupation",
+      "francais": "métier/occupation/profession",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p9-026",
+      "anglais": "o’clock",
+      "francais": "heure pile",
+      "type": "adv",
+      "exemple": ""
+    },
+    {
+      "id": "p9-027",
+      "anglais": "of",
+      "francais": "de",
+      "type": "prep",
+      "exemple": ""
+    },
+    {
+      "id": "p9-028",
+      "anglais": "of course (not)",
+      "francais": "bien sûr (que non)",
+      "type": "adv",
+      "exemple": ""
+    },
+    {
+      "id": "p9-029",
+      "anglais": "off",
+      "francais": "absent/en congé , éteint",
+      "type": "adv",
+      "exemple": ""
+    },
+    {
+      "id": "p9-030",
+      "anglais": "office",
+      "francais": "bureau",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p9-031",
+      "anglais": "often",
+      "francais": "souvent",
+      "type": "adv",
+      "exemple": ""
+    },
+    {
+      "id": "p9-032",
+      "anglais": "oil",
+      "francais": "essence/huile",
+      "type": "n",
+      "exemple": "car oil ; cooking oil ; OK/okay (exclam): d’accord"
+    },
+    {
+      "id": "p9-033",
+      "anglais": "old",
+      "francais": "vieux/vieille",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p9-034",
+      "anglais": "omelette",
+      "francais": "omelette",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p9-035",
+      "anglais": "on",
+      "francais": "sur",
+      "type": "prep",
+      "exemple": ""
+    },
+    {
+      "id": "p9-036",
+      "anglais": "once",
+      "francais": "une fois, avant",
+      "type": "adv",
+      "exemple": "Only once one (det & num): un/une"
+    },
+    {
+      "id": "p9-037",
+      "anglais": "onion",
+      "francais": "oignon",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p9-038",
+      "anglais": "online",
+      "francais": "en ligne",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p9-039",
+      "anglais": "only",
+      "francais": "seulement, juste",
+      "type": "adj",
+      "exemple": "I only wanted to help. (Je voulais seulement aider) ; the only one (le seul)"
+    },
+    {
+      "id": "p9-040",
+      "anglais": "open",
+      "francais": "ouvert",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p9-041",
+      "anglais": "opera",
+      "francais": "opéra",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p9-042",
+      "anglais": "opposite",
+      "francais": "en face de",
+      "type": "prep",
+      "exemple": ""
+    },
+    {
+      "id": "p9-043",
+      "anglais": "or",
+      "francais": "ou bien",
+      "type": "conj",
+      "exemple": ""
+    },
+    {
+      "id": "p9-044",
+      "anglais": "orange",
+      "francais": "orange",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p9-045",
+      "anglais": "order",
+      "francais": "commander",
+      "type": "v",
+      "exemple": ""
+    },
+    {
+      "id": "p9-046",
+      "anglais": "other",
+      "francais": "autre",
+      "type": "det",
+      "exemple": ""
+    },
+    {
+      "id": "p9-047",
+      "anglais": "our",
+      "francais": "notre, nos",
+      "type": "det",
+      "exemple": ""
+    },
+    {
+      "id": "p9-048",
+      "anglais": "ours",
+      "francais": "le nôtre",
+      "type": "pron",
+      "exemple": ""
+    },
+    {
+      "id": "p9-049",
+      "anglais": "ourselves",
+      "francais": "nous-mêmes",
+      "type": "pron",
+      "exemple": ""
+    },
+    {
+      "id": "p9-050",
+      "anglais": "out",
+      "francais": "dehors",
+      "type": "adv",
+      "exemple": ""
+    },
+    {
+      "id": "p9-051",
+      "anglais": "outdoors",
+      "francais": "à l’extérieur",
+      "type": "adv",
+      "exemple": ""
+    },
+    {
+      "id": "p9-052",
+      "anglais": "out of",
+      "francais": "hors de",
+      "type": "prep",
+      "exemple": ""
+    },
+    {
+      "id": "p9-053",
+      "anglais": "outside",
+      "francais": "à l’extérieur",
+      "type": "adv",
+      "exemple": ""
+    },
+    {
+      "id": "p9-054",
+      "anglais": "over",
+      "francais": "sur, au-dessus",
+      "type": "prep",
+      "exemple": "Over 60 people (adv) ; to travel all over the world (prep) own (adj): propre, à lui ; They cook their own meals."
+    },
+    {
+      "id": "p9-055",
+      "anglais": "pack",
+      "francais": "emballer",
+      "type": "v",
+      "exemple": "pack a suitcase (faire une valise) page (n) : page"
+    },
+    {
+      "id": "p9-056",
+      "anglais": "pain",
+      "francais": "douleur",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p9-057",
+      "anglais": "paint",
+      "francais": "peindre",
+      "type": "v",
+      "exemple": ""
+    },
+    {
+      "id": "p9-058",
+      "anglais": "painter",
+      "francais": "peintre",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p9-059",
+      "anglais": "painting",
+      "francais": "tableau",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p9-060",
+      "anglais": "pale",
+      "francais": "pâle",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p9-061",
+      "anglais": "pair",
+      "francais": "paire",
+      "type": "n",
+      "exemple": "a pair of shoes"
+    },
+    {
+      "id": "p9-062",
+      "anglais": "paper",
+      "francais": "papier",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p9-063",
+      "anglais": "pardon",
+      "francais": "pardon",
+      "type": "exclam",
+      "exemple": "Pardon ?"
+    },
+    {
+      "id": "p9-064",
+      "anglais": "parent",
+      "francais": "parent",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p9-065",
+      "anglais": "park",
+      "francais": "parc, stationer",
+      "type": "n & v",
+      "exemple": ""
+    },
+    {
+      "id": "p9-066",
+      "anglais": "parking lot (n)",
+      "francais": "parking (Br Engl): car park",
+      "type": "Am Eng",
+      "exemple": ""
+    },
+    {
+      "id": "p9-067",
+      "anglais": "parrot",
+      "francais": "perroquet",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p9-068",
+      "anglais": "part",
+      "francais": "partie",
+      "type": "n",
+      "exemple": "the best part of the day"
+    },
+    {
+      "id": "p9-069",
+      "anglais": "partner",
+      "francais": "partenaire",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p9-070",
+      "anglais": "party",
+      "francais": "fête",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p9-071",
+      "anglais": "pass",
+      "francais": "réussir, être reçu",
+      "type": "v",
+      "exemple": "You pass the station on the left. ; to pass a driving test"
+    },
+    {
+      "id": "p9-072",
+      "anglais": "passenger",
+      "francais": "passager",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p9-073",
+      "anglais": "passport",
+      "francais": "passeport",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p9-074",
+      "anglais": "past",
+      "francais": "passé",
+      "type": "prep",
+      "exemple": ""
+    },
+    {
+      "id": "p9-075",
+      "anglais": "pasta",
+      "francais": "pâtes",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p9-076",
+      "anglais": "path",
+      "francais": "chemin",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p9-077",
+      "anglais": "pay",
+      "francais": "payer",
+      "type": "v",
+      "exemple": "Formes irrégulières : (paid-paid)"
+    },
+    {
+      "id": "p9-078",
+      "anglais": "PC (Personal Computer)",
+      "francais": "ordinateur personnel",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p9-079",
+      "anglais": "pear",
+      "francais": "poire",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p9-080",
+      "anglais": "pen",
+      "francais": "stylo",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p9-081",
+      "anglais": "pence",
+      "francais": "centimes",
+      "type": "n pl",
+      "exemple": ""
+    },
+    {
+      "id": "p9-082",
+      "anglais": "pencil",
+      "francais": "crayon",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p9-083",
+      "anglais": "pencil case",
+      "francais": "trousse",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p9-084",
+      "anglais": "penfriend",
+      "francais": "correspondant penny (n sing): centime",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p9-085",
+      "anglais": "people",
+      "francais": "personnes",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p9-086",
+      "anglais": "pepper",
+      "francais": "poivre",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p9-087",
+      "anglais": "per",
+      "francais": "par",
+      "type": "prep",
+      "exemple": "perfect (adj) parfait"
+    },
+    {
+      "id": "p9-088",
+      "anglais": "perfume",
+      "francais": "parfum",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p9-089",
+      "anglais": "perhaps",
+      "francais": "peut-être",
+      "type": "adv",
+      "exemple": ""
+    },
+    {
+      "id": "p9-090",
+      "anglais": "person",
+      "francais": "personne",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p9-091",
+      "anglais": "pet",
+      "francais": "animal domestique",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p9-092",
+      "anglais": "petrol",
+      "francais": "essence",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p9-093",
+      "anglais": "petrol station",
+      "francais": "station d’essence",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p9-094",
+      "anglais": "pharmacy",
+      "francais": "pharmacie",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p9-095",
+      "anglais": "phone",
+      "francais": "téléphone, téléphoner",
+      "type": "n & v",
+      "exemple": ""
+    },
+    {
+      "id": "p9-096",
+      "anglais": "photo(graph)",
+      "francais": "photo",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p9-097",
+      "anglais": "photography",
+      "francais": "photographie",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p9-098",
+      "anglais": "physics",
+      "francais": "physique",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p9-099",
+      "anglais": "piano",
+      "francais": "piano",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p9-100",
+      "anglais": "pick up",
+      "francais": "ramasser",
+      "type": "v",
+      "exemple": ""
+    },
+    {
+      "id": "p9-101",
+      "anglais": "picnic",
+      "francais": "pique-nique",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p9-102",
+      "anglais": "picture",
+      "francais": "image",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p9-103",
+      "anglais": "piece",
+      "francais": "morceau",
+      "type": "n",
+      "exemple": "a piece of cake"
+    },
+    {
+      "id": "p9-104",
+      "anglais": "pillow",
+      "francais": "oreiller",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p9-105",
+      "anglais": "pilot",
+      "francais": "pilote",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p9-106",
+      "anglais": "pink",
+      "francais": "rose",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p9-107",
+      "anglais": "pity",
+      "francais": "What a pity! Quel dommage!",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p9-108",
+      "anglais": "pizza",
+      "francais": "pizza",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p9-109",
+      "anglais": "place",
+      "francais": "endroit, lieu",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p9-110",
+      "anglais": "plan",
+      "francais": "plan, planifier",
+      "type": "n & v",
+      "exemple": ""
+    },
+    {
+      "id": "p9-111",
+      "anglais": "plane",
+      "francais": "avion",
+      "type": "n",
+      "exemple": "The plane was late."
+    },
+    {
+      "id": "p9-112",
+      "anglais": "plant",
+      "francais": "plante",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p9-113",
+      "anglais": "plastic",
+      "francais": "plastique",
+      "type": "n",
+      "exemple": ""
+    }
+  ]
+}

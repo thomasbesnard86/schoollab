@@ -178,16 +178,28 @@ body.toolskey-app {
 
 .page-list {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(145px, 1fr));
-  gap: 9px;
+  grid-template-columns: repeat(auto-fill, minmax(92px, 1fr));
+  gap: 7px;
+}
+
+.page-selection-toolbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  margin-bottom: 10px;
+}
+
+.page-selection-toolbar .field-note {
+  margin: 0;
 }
 
 .page-choice {
   display: flex;
-  min-height: 48px;
+  min-height: 38px;
   align-items: center;
-  gap: 10px;
-  padding: 10px 12px;
+  gap: 8px;
+  padding: 6px 9px;
   border: 1px solid var(--toolskey-line);
   border-radius: 6px;
   background: white;
@@ -210,17 +222,18 @@ body.toolskey-app {
 
 .page-choice-copy {
   display: grid;
-  gap: 2px;
+  grid-template-columns: minmax(0, 1fr);
+  gap: 1px;
 }
 
 .page-choice-copy strong {
   color: var(--toolskey-ink-soft);
-  font-size: 0.87rem;
+  font-size: 0.82rem;
 }
 
 .page-choice-copy small {
   color: var(--muted);
-  font-size: 0.75rem;
+  font-size: 0.68rem;
 }
 
 .loading-copy {
@@ -234,17 +247,25 @@ body.toolskey-app {
   font-size: 0.79rem;
 }
 
+.word-count-controls {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 10px 22px;
+}
+
 .word-count-row {
   display: flex;
   align-items: center;
-  justify-content: space-between;
-  gap: 16px;
+  justify-content: flex-start;
+  gap: 10px;
   color: var(--toolskey-ink-soft);
   font-size: 0.88rem;
+  white-space: nowrap;
 }
 
 .word-count-row input {
-  width: 92px;
+  width: 80px;
   height: 40px;
   padding: 0 10px;
   border: 1px solid var(--toolskey-line);
@@ -261,14 +282,23 @@ body.toolskey-app {
   outline: 3px solid rgb(59 130 246 / 16%);
 }
 
+.word-count-row input:disabled {
+  border-color: var(--border);
+  background: #eef2f6;
+  color: var(--muted);
+  cursor: not-allowed;
+  opacity: 0.8;
+}
+
 .check-row {
   display: flex;
   align-items: center;
   gap: 9px;
-  margin-top: 13px;
+  margin-top: 0;
   color: var(--toolskey-ink-soft);
   cursor: pointer;
   font-size: 0.85rem;
+  white-space: nowrap;
 }
 
 .segmented-control {
@@ -371,6 +401,7 @@ body.toolskey-app {
 }
 
 .session-aside {
+  min-width: 0;
   padding: 10px 4px;
 }
 
@@ -423,6 +454,206 @@ body.toolskey-app {
   gap: 8px;
   margin: 34px 0 0;
   line-height: 1.45;
+}
+
+.vocabulary-print-view {
+  margin-top: 24px;
+}
+
+.vocabulary-toolbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  margin-bottom: 10px;
+}
+
+.vocabulary-toolbar .aside-label {
+  margin-bottom: 4px;
+}
+
+.vocabulary-toolbar h2 {
+  margin: 0;
+  color: var(--text);
+  font-size: 1rem;
+  line-height: 1.25;
+}
+
+.print-button {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  flex: 0 0 auto;
+  padding: 7px 0 7px 6px;
+}
+
+.print-button span {
+  font-size: 1rem;
+}
+
+.vocabulary-list {
+  max-height: min(56vh, 610px);
+  overflow: auto;
+  margin: 0;
+  padding: 0;
+  border-top: 1px solid var(--border);
+  list-style: none;
+  scrollbar-color: #b7c6d8 transparent;
+  scrollbar-width: thin;
+}
+
+.vocabulary-entry {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1.1fr) auto;
+  gap: 3px 8px;
+  align-items: baseline;
+  padding: 6px 2px;
+  border-bottom: 1px solid var(--border);
+  font-size: 0.72rem;
+  line-height: 1.3;
+  overflow-wrap: anywhere;
+}
+
+.vocabulary-english {
+  color: var(--text);
+  font-weight: 700;
+}
+
+.vocabulary-french {
+  color: var(--toolskey-ink-soft);
+}
+
+.vocabulary-type {
+  color: var(--muted);
+  font-size: 0.63rem;
+  white-space: nowrap;
+}
+
+.vocabulary-example {
+  grid-column: 1 / -1;
+  color: var(--muted);
+  font-size: 0.75rem;
+  font-style: italic;
+  line-height: 1.35;
+}
+
+.session-summary-block {
+  margin-top: 22px;
+}
+
+.vocabulary-screen {
+  max-width: 1080px;
+}
+
+.directory-toolbar {
+  display: grid;
+  grid-template-columns: minmax(220px, 1fr) minmax(180px, 0.55fr) auto;
+  gap: 14px;
+  align-items: end;
+  margin-bottom: 18px;
+  padding: 16px;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  background: white;
+}
+
+.directory-search,
+.directory-page-select {
+  display: grid;
+  gap: 6px;
+  color: var(--toolskey-ink-soft);
+  font-size: 0.78rem;
+  font-weight: 700;
+}
+
+.directory-search input,
+.directory-page-select select {
+  width: 100%;
+  min-width: 0;
+  height: 40px;
+  padding: 0 11px;
+  border: 1px solid var(--toolskey-line);
+  border-radius: 6px;
+  background: white;
+  color: var(--text);
+  font: inherit;
+  font-size: 0.88rem;
+}
+
+.directory-search input:focus-visible,
+.directory-page-select select:focus-visible {
+  outline: 2px solid var(--primary);
+  outline-offset: 2px;
+}
+
+.directory-print-button {
+  display: inline-flex;
+  min-height: 40px;
+  align-items: center;
+  justify-content: center;
+  gap: 7px;
+  padding: 0 14px;
+  border-radius: 6px;
+  cursor: pointer;
+  font: inherit;
+  font-size: 0.85rem;
+  font-weight: 650;
+  white-space: nowrap;
+}
+
+.directory-print-button:disabled {
+  cursor: not-allowed;
+  opacity: 0.45;
+}
+
+.directory-print-content {
+  padding: 16px;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  background: #fff;
+}
+
+.directory-print-heading {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 16px;
+  margin: 0 0 10px;
+}
+
+.directory-print-heading h2 {
+  margin: 0;
+  color: var(--text);
+  font-size: 1.1rem;
+}
+
+.directory-print-heading p {
+  margin: 0;
+  color: var(--muted);
+  font-size: 0.82rem;
+}
+
+.vocabulary-directory {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0 24px;
+  margin: 0;
+  padding: 0;
+  border-top: 1px solid var(--border);
+  background: #fff;
+  list-style: none;
+}
+
+.vocabulary-directory .vocabulary-entry {
+  min-width: 0;
+  padding: 9px 4px;
+  font-size: 0.84rem;
+}
+
+.directory-empty {
+  margin: 24px 0;
+  color: var(--muted);
+  text-align: center;
 }
 
 .privacy-dot {
@@ -924,15 +1155,8 @@ a:focus-visible {
   }
 
   .session-aside {
-    display: grid;
-    grid-template-columns: auto minmax(0, 1fr);
-    gap: 4px 20px;
-    align-items: center;
+    display: block;
     padding: 4px;
-  }
-
-  .word-total {
-    grid-row: span 2;
   }
 
   .word-total strong {
@@ -943,19 +1167,187 @@ a:focus-visible {
     display: none;
   }
 
-  .aside-label {
-    align-self: end;
-    margin: 0;
-  }
-
   .aside-summary {
-    align-self: start;
     font-size: 0.86rem;
   }
 
   .privacy-note {
-    grid-column: 1 / -1;
     margin: 12px 0 0;
+  }
+
+  .vocabulary-list {
+    max-height: 50vh;
+  }
+
+  .directory-toolbar {
+    grid-template-columns: minmax(0, 1fr) minmax(0, 0.8fr);
+    gap: 12px;
+    padding: 13px;
+  }
+
+  .directory-search {
+    grid-column: 1 / -1;
+  }
+
+  .directory-print-button {
+    width: 100%;
+  }
+
+  .vocabulary-directory {
+    grid-template-columns: 1fr;
+  }
+
+  .directory-print-content {
+    padding: 12px;
+  }
+}
+
+@media print {
+  body.print-vocabulary-mode {
+    min-height: 0;
+    background: white;
+  }
+
+  .print-vocabulary-mode .site-header,
+  .print-vocabulary-mode #history-screen,
+  .print-vocabulary-mode #vocabulary-screen,
+  .print-vocabulary-mode #study-screen,
+  .print-vocabulary-mode #setup-screen > :not(.setup-layout),
+  .print-vocabulary-mode .setup-layout > :not(.session-aside),
+  .print-vocabulary-mode .session-aside > :not(.vocabulary-print-view),
+  .print-vocabulary-mode .vocabulary-toolbar .aside-label,
+  .print-vocabulary-mode .print-button {
+    display: none !important;
+  }
+
+  .print-vocabulary-mode .app-container,
+  .print-vocabulary-mode #setup-screen,
+  .print-vocabulary-mode .setup-layout,
+  .print-vocabulary-mode .session-aside,
+  .print-vocabulary-mode .vocabulary-print-view {
+    display: block !important;
+    width: 100%;
+    max-width: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .print-vocabulary-mode .vocabulary-toolbar {
+    margin: 0 0 8px;
+  }
+
+  .print-vocabulary-mode .vocabulary-toolbar h2 {
+    font-size: 13pt;
+  }
+
+  .print-vocabulary-mode .vocabulary-list {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 0 14px;
+    max-height: none;
+    overflow: visible;
+    border-top: 1px solid #777;
+  }
+
+  .print-vocabulary-mode .vocabulary-entry {
+    grid-template-columns: minmax(0, 0.85fr) minmax(0, 1.15fr) auto;
+    gap: 2px 5px;
+    padding: 3px 1px;
+    border-bottom: 1px solid #bbb;
+    color: black;
+    font-size: 7.5pt;
+    line-height: 1.15;
+    break-inside: avoid;
+  }
+
+  .print-vocabulary-mode .vocabulary-english,
+  .print-vocabulary-mode .vocabulary-french,
+  .print-vocabulary-mode .vocabulary-type {
+    color: black;
+  }
+
+  .print-directory-mode {
+    min-height: 0;
+    background: white;
+  }
+
+  .print-directory-mode .site-header,
+  .print-directory-mode #setup-screen,
+  .print-directory-mode #history-screen,
+  .print-directory-mode #study-screen,
+  .print-directory-mode #load-error,
+  .print-directory-mode .directory-toolbar,
+  .print-directory-mode .vocabulary-screen > .page-heading .eyebrow,
+  .print-directory-mode .vocabulary-screen > .page-heading .lede {
+    display: none !important;
+  }
+
+  .print-directory-mode .app-container,
+  .print-directory-mode #vocabulary-screen {
+    display: block !important;
+    width: 100%;
+    max-width: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .print-directory-mode .vocabulary-screen > .page-heading {
+    margin: 0 0 8px;
+  }
+
+  .print-directory-mode .vocabulary-screen > .page-heading h1 {
+    font-size: 13pt;
+  }
+
+  .print-directory-mode .directory-print-heading {
+    margin-bottom: 6px;
+  }
+
+  .print-directory-mode .directory-print-content {
+    padding: 0;
+    border: 0;
+    border-radius: 0;
+  }
+
+  .print-directory-mode .directory-print-heading h2 {
+    font-size: 10pt;
+  }
+
+  .print-directory-mode .directory-print-heading p {
+    font-size: 8pt;
+  }
+
+  .print-directory-mode .vocabulary-directory {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 0 12px;
+    border-top-color: #777;
+  }
+
+  .print-directory-mode .vocabulary-directory .vocabulary-entry {
+    grid-template-columns: minmax(0, 0.9fr) minmax(0, 1.1fr) auto;
+    gap: 2px 4px;
+    padding: 3px 1px;
+    border-bottom: 1px solid #bbb;
+    color: black;
+    font-size: 7.5pt;
+    line-height: 1.15;
+    break-inside: avoid;
+  }
+
+  .print-directory-mode .vocabulary-english,
+  .print-directory-mode .vocabulary-french,
+  .print-directory-mode .vocabulary-type,
+  .print-directory-mode .vocabulary-example {
+    color: black;
+  }
+
+  .print-directory-mode .vocabulary-directory .vocabulary-example {
+    font-size: 6.5pt;
+    line-height: 1.1;
+  }
+
+  @page {
+    margin: 9mm;
   }
 }
 
@@ -975,6 +1367,14 @@ a:focus-visible {
 
   .page-heading h1 {
     font-size: 1.9rem;
+  }
+
+  .main-nav {
+    gap: 10px;
+  }
+
+  .nav-button {
+    font-size: 0.75rem;
   }
 
   .setup-panel {

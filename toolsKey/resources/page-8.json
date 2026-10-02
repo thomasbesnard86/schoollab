@@ -1,0 +1,741 @@
+{
+  "id": "page-8",
+  "title": "Page 8",
+  "words": [
+    {
+      "id": "p8-001",
+      "anglais": "lorry",
+      "francais": "camion",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p8-002",
+      "anglais": "lose",
+      "francais": "perdre",
+      "type": "v",
+      "exemple": "We lost the game. ; I've lost my passport. ; Formes irrégulières : (lost-lost)"
+    },
+    {
+      "id": "p8-003",
+      "anglais": "lost",
+      "francais": "perdu",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p8-004",
+      "anglais": "lot/a lot",
+      "francais": "beaucoup",
+      "type": "n",
+      "exemple": "a lot of homework"
+    },
+    {
+      "id": "p8-005",
+      "anglais": "loud",
+      "francais": "fort",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p8-006",
+      "anglais": "love",
+      "francais": "amour, aimer",
+      "type": "n & v",
+      "exemple": ""
+    },
+    {
+      "id": "p8-007",
+      "anglais": "lovely",
+      "francais": "charmant",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p8-008",
+      "anglais": "low",
+      "francais": "bas",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p8-009",
+      "anglais": "luck",
+      "francais": "chance",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p8-010",
+      "anglais": "lucky",
+      "francais": "chanceux",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p8-011",
+      "anglais": "luggage",
+      "francais": "bagages",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p8-012",
+      "anglais": "lunch",
+      "francais": "déjeuner",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p8-013",
+      "anglais": "lunchtime",
+      "francais": "heure du déjeuner",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p8-014",
+      "anglais": "machine",
+      "francais": "machine",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p8-015",
+      "anglais": "mad",
+      "francais": "fou",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p8-016",
+      "anglais": "magazine",
+      "francais": "magasine",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p8-017",
+      "anglais": "mail",
+      "francais": "mail",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p8-018",
+      "anglais": "main course",
+      "francais": "plat principal",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p8-019",
+      "anglais": "make",
+      "francais": "faire, fabriquer",
+      "type": "v",
+      "exemple": "Formes irrégulières : (made-made)"
+    },
+    {
+      "id": "p8-020",
+      "anglais": "make-up",
+      "francais": "maquillage",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p8-021",
+      "anglais": "man",
+      "francais": "homme",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p8-022",
+      "anglais": "manager",
+      "francais": "directeur",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p8-023",
+      "anglais": "mango",
+      "francais": "mangue",
+      "type": "n",
+      "exemple": "many (det, adj & prom): beaucoup"
+    },
+    {
+      "id": "p8-024",
+      "anglais": "map",
+      "francais": "carte",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p8-025",
+      "anglais": "mark",
+      "francais": "note",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p8-026",
+      "anglais": "market",
+      "francais": "marché",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p8-027",
+      "anglais": "married",
+      "francais": "marié",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p8-028",
+      "anglais": "match",
+      "francais": "match",
+      "type": "n",
+      "exemple": "football match"
+    },
+    {
+      "id": "p8-029",
+      "anglais": "maths/mathematics",
+      "francais": "maths/mathématiques (Am Eng): math",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p8-030",
+      "anglais": "matter",
+      "francais": "avoir de l’importance",
+      "type": "v",
+      "exemple": "It doesn't matter. (ça ne fait rien) ; What’s the matter ? (Que se passe-t-il ?) may (mv) : avoir la possiblité de"
+    },
+    {
+      "id": "p8-031",
+      "anglais": "maybe",
+      "francais": "peut-être",
+      "type": "adv",
+      "exemple": ""
+    },
+    {
+      "id": "p8-032",
+      "anglais": "me",
+      "francais": "moi",
+      "type": "pron",
+      "exemple": ""
+    },
+    {
+      "id": "p8-033",
+      "anglais": "meal",
+      "francais": "repas",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p8-034",
+      "anglais": "mean",
+      "francais": "signifier",
+      "type": "v",
+      "exemple": "Formes irrégulières : (meant-meant)"
+    },
+    {
+      "id": "p8-035",
+      "anglais": "meat",
+      "francais": "viande",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p8-036",
+      "anglais": "mechanic",
+      "francais": "un mécanicien",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p8-037",
+      "anglais": "medecine",
+      "francais": "médicament/médecine",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p8-038",
+      "anglais": "meet",
+      "francais": "rencontrer",
+      "type": "v",
+      "exemple": "Formes irrégulières : (met-met)"
+    },
+    {
+      "id": "p8-039",
+      "anglais": "meeting",
+      "francais": "reunion",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p8-040",
+      "anglais": "member",
+      "francais": "member",
+      "type": "n",
+      "exemple": "a member of a club"
+    },
+    {
+      "id": "p8-041",
+      "anglais": "memory",
+      "francais": "mémoire",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p8-042",
+      "anglais": "menu",
+      "francais": "menu",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p8-043",
+      "anglais": "message",
+      "francais": "message",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p8-044",
+      "anglais": "metre",
+      "francais": "mètre (Am Eng) meter",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p8-045",
+      "anglais": "midday",
+      "francais": "midi",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p8-046",
+      "anglais": "middle",
+      "francais": "milieu",
+      "type": "n",
+      "exemple": "in the middle"
+    },
+    {
+      "id": "p8-047",
+      "anglais": "midnight",
+      "francais": "minuit",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p8-048",
+      "anglais": "might",
+      "francais": "il se pourrait que",
+      "type": "mv",
+      "exemple": ""
+    },
+    {
+      "id": "p8-049",
+      "anglais": "mile",
+      "francais": "kilomètre anglais ( 1 mile = 1,609 kilomètre )",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p8-050",
+      "anglais": "milk",
+      "francais": "lait",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p8-051",
+      "anglais": "million",
+      "francais": "million",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p8-052",
+      "anglais": "mind",
+      "francais": "faire attention",
+      "type": "v",
+      "exemple": "Do you mind if I close the window? ; I don't mind if (cela m’est égal si ; Mind your head! (attention à ta tête!) ; Never mind! (Ce n’est pas grave) mine (pron): le mien"
+    },
+    {
+      "id": "p8-053",
+      "anglais": "mineral water",
+      "francais": "eau minérale",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p8-054",
+      "anglais": "minute",
+      "francais": "minute",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p8-055",
+      "anglais": "mirror",
+      "francais": "miroir",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p8-056",
+      "anglais": "Miss",
+      "francais": "mademoiselle",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p8-057",
+      "anglais": "miss",
+      "francais": "manqué",
+      "type": "v",
+      "exemple": ""
+    },
+    {
+      "id": "p8-058",
+      "anglais": "mistake",
+      "francais": "faute",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p8-059",
+      "anglais": "mix",
+      "francais": "mélanger",
+      "type": "v",
+      "exemple": ""
+    },
+    {
+      "id": "p8-060",
+      "anglais": "mobile (phone)",
+      "francais": "tél portable",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p8-061",
+      "anglais": "model",
+      "francais": "modèle/mannequin",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p8-062",
+      "anglais": "modern",
+      "francais": "modern",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p8-063",
+      "anglais": "moment",
+      "francais": "moment",
+      "type": "n",
+      "exemple": "Just a moment."
+    },
+    {
+      "id": "p8-064",
+      "anglais": "money",
+      "francais": "argent",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p8-065",
+      "anglais": "monkey",
+      "francais": "singe",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p8-066",
+      "anglais": "month",
+      "francais": "mois",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p8-067",
+      "anglais": "monthly",
+      "francais": "mensuel",
+      "type": "adj & & adv",
+      "exemple": ""
+    },
+    {
+      "id": "p8-068",
+      "anglais": "moon",
+      "francais": "lune",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p8-069",
+      "anglais": "more",
+      "francais": "plus morning (n): matin",
+      "type": "adj, det, pron, & adv",
+      "exemple": "most (adj, det, pron & adv): la plupart, le plus…"
+    },
+    {
+      "id": "p8-070",
+      "anglais": "mother",
+      "francais": "mere",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p8-071",
+      "anglais": "motorbike",
+      "francais": "moto",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p8-072",
+      "anglais": "motorway",
+      "francais": "autoroute",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p8-073",
+      "anglais": "mountain",
+      "francais": "montagne",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p8-074",
+      "anglais": "mouse",
+      "francais": "souris",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p8-075",
+      "anglais": "mouth",
+      "francais": "bouche",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p8-076",
+      "anglais": "move",
+      "francais": "bouger",
+      "type": "v",
+      "exemple": ""
+    },
+    {
+      "id": "p8-077",
+      "anglais": "movie (n)",
+      "francais": "film (Br Eng): film",
+      "type": "Am Eng",
+      "exemple": "movie theater (Am Eng): cinéma (Bri Eng): cinema"
+    },
+    {
+      "id": "p8-078",
+      "anglais": "movie star",
+      "francais": "(Am Eng): star de cinéma (Br Eng): film star",
+      "type": "n",
+      "exemple": "MP3 player"
+    },
+    {
+      "id": "p8-079",
+      "anglais": "(n)",
+      "francais": "lecteur MP3",
+      "type": "",
+      "exemple": ""
+    },
+    {
+      "id": "p8-080",
+      "anglais": "Mr",
+      "francais": "monsieur",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p8-081",
+      "anglais": "Mrs",
+      "francais": "madame",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p8-082",
+      "anglais": "Ms",
+      "francais": "mademoiselle",
+      "type": "n",
+      "exemple": "much (adj, det, pron & adv): beaucoup"
+    },
+    {
+      "id": "p8-083",
+      "anglais": "mug",
+      "francais": "tasse",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p8-084",
+      "anglais": "mum (my)",
+      "francais": "maman",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p8-085",
+      "anglais": "museum",
+      "francais": "musée",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p8-086",
+      "anglais": "mushroom",
+      "francais": "champignon",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p8-087",
+      "anglais": "music",
+      "francais": "musique",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p8-088",
+      "anglais": "musician",
+      "francais": "musician",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p8-089",
+      "anglais": "must",
+      "francais": "devoir",
+      "type": "mv",
+      "exemple": ""
+    },
+    {
+      "id": "p8-090",
+      "anglais": "my",
+      "francais": "mon, ma, mes",
+      "type": "det",
+      "exemple": ""
+    },
+    {
+      "id": "p8-091",
+      "anglais": "myself",
+      "francais": "moi-même",
+      "type": "pron",
+      "exemple": "by myself: par moi-même"
+    },
+    {
+      "id": "p8-092",
+      "anglais": "name",
+      "francais": "nom",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p8-093",
+      "anglais": "national",
+      "francais": "national",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p8-094",
+      "anglais": "nationality",
+      "francais": "nationalité",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p8-095",
+      "anglais": "nature",
+      "francais": "nature",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p8-096",
+      "anglais": "near",
+      "francais": "près , à côté",
+      "type": "adv & prep",
+      "exemple": ""
+    },
+    {
+      "id": "p8-097",
+      "anglais": "nearly",
+      "francais": "presque",
+      "type": "adv",
+      "exemple": ""
+    },
+    {
+      "id": "p8-098",
+      "anglais": "neck",
+      "francais": "cou",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p8-099",
+      "anglais": "necklace",
+      "francais": "collier",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p8-100",
+      "anglais": "need",
+      "francais": "avoir besoin",
+      "type": "v",
+      "exemple": ""
+    },
+    {
+      "id": "p8-101",
+      "anglais": "neighbour",
+      "francais": "voisin",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p8-102",
+      "anglais": "net",
+      "francais": "",
+      "type": "n",
+      "exemple": "filet/internet ; I found a great website on the net. (J’ai trouvé un super site sur internet.)"
+    },
+    {
+      "id": "p8-103",
+      "anglais": "never",
+      "francais": "jamais",
+      "type": "adv",
+      "exemple": ""
+    },
+    {
+      "id": "p8-104",
+      "anglais": "new",
+      "francais": "neuf/nouveau",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p8-105",
+      "anglais": "news",
+      "francais": "nouvelles",
+      "type": "n",
+      "exemple": ""
+    }
+  ]
+}

@@ -1,0 +1,769 @@
+{
+  "id": "page-11",
+  "title": "Page 11",
+  "words": [
+    {
+      "id": "p11-001",
+      "anglais": "salad",
+      "francais": "salade",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p11-002",
+      "anglais": "sale",
+      "francais": "vente",
+      "type": "n",
+      "exemple": "for sale : en vente"
+    },
+    {
+      "id": "p11-003",
+      "anglais": "salt",
+      "francais": "sel",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p11-004",
+      "anglais": "same",
+      "francais": "meme",
+      "type": "adv & n",
+      "exemple": "at the same time (adj): en meme temps ; Your watch is the same as mine. (pron)"
+    },
+    {
+      "id": "p11-005",
+      "anglais": "sandwich",
+      "francais": "sandwich",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p11-006",
+      "anglais": "sauce",
+      "francais": "sauce",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p11-007",
+      "anglais": "sausage",
+      "francais": "saussice",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p11-008",
+      "anglais": "save",
+      "francais": "sauver",
+      "type": "v",
+      "exemple": "to save money (épargner de l’argent) ; to save time (gagner du temps)"
+    },
+    {
+      "id": "p11-009",
+      "anglais": "say",
+      "francais": "dire",
+      "type": "v",
+      "exemple": "Formes irrégulières : (said-said)"
+    },
+    {
+      "id": "p11-010",
+      "anglais": "scarf",
+      "francais": "écharpe",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p11-011",
+      "anglais": "school",
+      "francais": "école",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p11-012",
+      "anglais": "schoolchildren",
+      "francais": "écoliers",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p11-013",
+      "anglais": "science",
+      "francais": "sciences",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p11-014",
+      "anglais": "scissors",
+      "francais": "ciseaux",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p11-015",
+      "anglais": "screen",
+      "francais": "écran",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p11-016",
+      "anglais": "scooter",
+      "francais": "scooter/trottinnette",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p11-017",
+      "anglais": "sea",
+      "francais": "mer",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p11-018",
+      "anglais": "seat",
+      "francais": "siège",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p11-019",
+      "anglais": "second",
+      "francais": "second",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p11-020",
+      "anglais": "secretary",
+      "francais": "secrétaire",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p11-021",
+      "anglais": "see",
+      "francais": "voir",
+      "type": "v",
+      "exemple": "Formes irrégulières : (saw-seen)"
+    },
+    {
+      "id": "p11-022",
+      "anglais": "sell",
+      "francais": "vendre",
+      "type": "v",
+      "exemple": "Formes irrégulières : (sold-sold)"
+    },
+    {
+      "id": "p11-023",
+      "anglais": "send",
+      "francais": "envoyer",
+      "type": "v",
+      "exemple": "Formes irrégulières : (sent-sent)"
+    },
+    {
+      "id": "p11-024",
+      "anglais": "sentence",
+      "francais": "phrase",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p11-025",
+      "anglais": "serve",
+      "francais": "servir",
+      "type": "v",
+      "exemple": ""
+    },
+    {
+      "id": "p11-026",
+      "anglais": "set",
+      "francais": "un ensemble",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p11-027",
+      "anglais": "several",
+      "francais": "plusieurs",
+      "type": "det & adj",
+      "exemple": ""
+    },
+    {
+      "id": "p11-028",
+      "anglais": "shall",
+      "francais": "pouvoir",
+      "type": "v",
+      "exemple": ""
+    },
+    {
+      "id": "p11-029",
+      "anglais": "shame",
+      "francais": "honte",
+      "type": "n",
+      "exemple": "What a shame! Quelle honte!"
+    },
+    {
+      "id": "p11-030",
+      "anglais": "shampoo",
+      "francais": "shampooing, shampouiner",
+      "type": "n & v",
+      "exemple": ""
+    },
+    {
+      "id": "p11-031",
+      "anglais": "share",
+      "francais": "partager",
+      "type": "v",
+      "exemple": ""
+    },
+    {
+      "id": "p11-032",
+      "anglais": "she",
+      "francais": "elle",
+      "type": "pron",
+      "exemple": ""
+    },
+    {
+      "id": "p11-033",
+      "anglais": "sheep",
+      "francais": "mouton",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p11-034",
+      "anglais": "sheet (n)",
+      "francais": "feuille",
+      "type": "of paper",
+      "exemple": "a bed sheet (n): drap"
+    },
+    {
+      "id": "p11-035",
+      "anglais": "shelf",
+      "francais": "étagère (pl: shelves)",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p11-036",
+      "anglais": "ship",
+      "francais": "navire",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p11-037",
+      "anglais": "shirt",
+      "francais": "chemise",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p11-038",
+      "anglais": "shoe",
+      "francais": "chaussure",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p11-039",
+      "anglais": "shop",
+      "francais": "magasin",
+      "type": "n & v",
+      "exemple": "shop assistant"
+    },
+    {
+      "id": "p11-040",
+      "anglais": "(n)",
+      "francais": "vendeur",
+      "type": "",
+      "exemple": ""
+    },
+    {
+      "id": "p11-041",
+      "anglais": "short",
+      "francais": "court",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p11-042",
+      "anglais": "a short time",
+      "francais": "un peu de temps",
+      "type": "",
+      "exemple": ""
+    },
+    {
+      "id": "p11-043",
+      "anglais": "shorts",
+      "francais": "un short",
+      "type": "n pl",
+      "exemple": ""
+    },
+    {
+      "id": "p11-044",
+      "anglais": "should",
+      "francais": "devrait",
+      "type": "v",
+      "exemple": ""
+    },
+    {
+      "id": "p11-045",
+      "anglais": "shout",
+      "francais": "crier",
+      "type": "v",
+      "exemple": ""
+    },
+    {
+      "id": "p11-046",
+      "anglais": "show",
+      "francais": "montrer, spectacle",
+      "type": "v & n",
+      "exemple": "Show me your photos. : montre- moi tes photos. ; a film show: projection d'un film ; Formes irrégulières : (showed-shown)"
+    },
+    {
+      "id": "p11-047",
+      "anglais": "shower",
+      "francais": "douche",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p11-048",
+      "anglais": "shut",
+      "francais": "fermer",
+      "type": "v",
+      "exemple": "Formes irrégulières : (shut-shut)"
+    },
+    {
+      "id": "p11-049",
+      "anglais": "sick",
+      "francais": "malade",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p11-050",
+      "anglais": "side",
+      "francais": "côté",
+      "type": "n",
+      "exemple": "this side of the room: ce côté de la pièce"
+    },
+    {
+      "id": "p11-051",
+      "anglais": "sightseeing",
+      "francais": "tourisme",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p11-052",
+      "anglais": "sign",
+      "francais": "pancarte",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p11-053",
+      "anglais": "silver",
+      "francais": "argent, argenté",
+      "type": "n & adj",
+      "exemple": ""
+    },
+    {
+      "id": "p11-054",
+      "anglais": "since",
+      "francais": "depuis",
+      "type": "prepo",
+      "exemple": ""
+    },
+    {
+      "id": "p11-055",
+      "anglais": "sincerely",
+      "francais": "sincèrement",
+      "type": "adv",
+      "exemple": "Yours sincerely: cordialement"
+    },
+    {
+      "id": "p11-056",
+      "anglais": "sing",
+      "francais": "chanter",
+      "type": "v",
+      "exemple": "Formes irrégulières : (sang-sung)"
+    },
+    {
+      "id": "p11-057",
+      "anglais": "singer",
+      "francais": "chanteur",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p11-058",
+      "anglais": "single",
+      "francais": "célibataire",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p11-059",
+      "anglais": "sink",
+      "francais": "évier",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p11-060",
+      "anglais": "sister",
+      "francais": "sœur",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p11-061",
+      "anglais": "sit",
+      "francais": "s’asseoir",
+      "type": "v",
+      "exemple": "sit down (phr v): s’asseoir ; Formes irrégulières : (sat-sat)"
+    },
+    {
+      "id": "p11-062",
+      "anglais": "sitting room",
+      "francais": "salon",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p11-063",
+      "anglais": "size",
+      "francais": "taille",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p11-064",
+      "anglais": "skate",
+      "francais": "patiner",
+      "type": "v",
+      "exemple": ""
+    },
+    {
+      "id": "p11-065",
+      "anglais": "skateboard",
+      "francais": "skateboard",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p11-066",
+      "anglais": "ski",
+      "francais": "skier",
+      "type": "v",
+      "exemple": ""
+    },
+    {
+      "id": "p11-067",
+      "anglais": "skirt",
+      "francais": "jupe",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p11-068",
+      "anglais": "sky",
+      "francais": "ciel",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p11-069",
+      "anglais": "sleep",
+      "francais": "dormer",
+      "type": "v",
+      "exemple": "Formes irrégulières : (slept-slept)"
+    },
+    {
+      "id": "p11-070",
+      "anglais": "slice",
+      "francais": "tranche",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p11-071",
+      "anglais": "slim",
+      "francais": "menu",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p11-072",
+      "anglais": "slow",
+      "francais": "lent",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p11-073",
+      "anglais": "small",
+      "francais": "petit",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p11-074",
+      "anglais": "smoke",
+      "francais": "fumer",
+      "type": "v",
+      "exemple": ""
+    },
+    {
+      "id": "p11-075",
+      "anglais": "snack",
+      "francais": "casse-croûte",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p11-076",
+      "anglais": "snow",
+      "francais": "neige, neiger",
+      "type": "n & v",
+      "exemple": ""
+    },
+    {
+      "id": "p11-077",
+      "anglais": "snowboard",
+      "francais": "surf des neiges",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p11-078",
+      "anglais": "snowboarding",
+      "francais": "surf des neiges",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p11-079",
+      "anglais": "so",
+      "francais": "donc, ainsi, tellement",
+      "type": "conj&adv",
+      "exemple": "So, I think it's right. (donc , je pense que c'est vrai) ; He ate too much, so he felt ill. (il a trop mangé, alors il s'est senti mal) ; He wanted to go, but he didn’t say so. (il voulait partir, mais il ne l’a pas dit)"
+    },
+    {
+      "id": "p11-080",
+      "anglais": "soap",
+      "francais": "savon",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p11-081",
+      "anglais": "soccer",
+      "francais": "football américain",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p11-082",
+      "anglais": "sock",
+      "francais": "chaussette",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p11-083",
+      "anglais": "sofa",
+      "francais": "canapé",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p11-084",
+      "anglais": "soft",
+      "francais": "doux",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p11-085",
+      "anglais": "software",
+      "francais": "logiciel",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p11-086",
+      "anglais": "some",
+      "francais": "quelque, certains",
+      "type": "det & pron",
+      "exemple": ""
+    },
+    {
+      "id": "p11-087",
+      "anglais": "somebody",
+      "francais": "quelqu'un",
+      "type": "pron",
+      "exemple": ""
+    },
+    {
+      "id": "p11-088",
+      "anglais": "someone",
+      "francais": "quelqu'un",
+      "type": "pron",
+      "exemple": ""
+    },
+    {
+      "id": "p11-089",
+      "anglais": "something",
+      "francais": "quelque chose",
+      "type": "pron",
+      "exemple": ""
+    },
+    {
+      "id": "p11-090",
+      "anglais": "sometimes",
+      "francais": "parfois",
+      "type": "adv",
+      "exemple": ""
+    },
+    {
+      "id": "p11-091",
+      "anglais": "somewhere",
+      "francais": "quelque part",
+      "type": "adv",
+      "exemple": ""
+    },
+    {
+      "id": "p11-092",
+      "anglais": "son",
+      "francais": "fils",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p11-093",
+      "anglais": "song",
+      "francais": "chanson",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p11-094",
+      "anglais": "soon",
+      "francais": "bientôt",
+      "type": "adv",
+      "exemple": ""
+    },
+    {
+      "id": "p11-095",
+      "anglais": "sorry",
+      "francais": "désolé(e)",
+      "type": "adj",
+      "exemple": "I'm sorry, I'm late. (Je suis désolé, je suis en retard.) ; Sorry, I don't understand that. (Désolé, je ne comprends pas ça.)"
+    },
+    {
+      "id": "p11-096",
+      "anglais": "sort",
+      "francais": "tri",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p11-097",
+      "anglais": "sound",
+      "francais": "sonner",
+      "type": "v",
+      "exemple": "That sounds nice. (ça a l’air bien.)"
+    },
+    {
+      "id": "p11-098",
+      "anglais": "soup",
+      "francais": "soupe",
+      "type": "n",
+      "exemple": "south (n, adj & adv): sud, au sud"
+    },
+    {
+      "id": "p11-099",
+      "anglais": "space",
+      "francais": "espace",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p11-100",
+      "anglais": "spare",
+      "francais": "de rechange",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p11-101",
+      "anglais": "speak",
+      "francais": "parler",
+      "type": "v",
+      "exemple": "Formes irrégulières : (spoke-spoken)"
+    },
+    {
+      "id": "p11-102",
+      "anglais": "speaker",
+      "francais": "orateur/oratrice",
+      "type": "n",
+      "exemple": "special"
+    },
+    {
+      "id": "p11-103",
+      "anglais": "(adj)",
+      "francais": "spécial",
+      "type": "",
+      "exemple": ""
+    },
+    {
+      "id": "p11-104",
+      "anglais": "spell",
+      "francais": "épeler",
+      "type": "v",
+      "exemple": "Formes irrégulières : (spelt-spelt)"
+    },
+    {
+      "id": "p11-105",
+      "anglais": "spelling",
+      "francais": "othographe",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p11-106",
+      "anglais": "spend",
+      "francais": "dépenser (argent), passer (son temps)",
+      "type": "v",
+      "exemple": "Formes irrégulières : (spent-spent)"
+    },
+    {
+      "id": "p11-107",
+      "anglais": "spoon",
+      "francais": "cuillère",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p11-108",
+      "anglais": "sport",
+      "francais": "sport",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p11-109",
+      "anglais": "sports centre",
+      "francais": "centre de sport",
+      "type": "n",
+      "exemple": ""
+    }
+  ]
+}

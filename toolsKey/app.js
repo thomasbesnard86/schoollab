@@ -5,10 +5,15 @@ const $ = (selector) => document.querySelector(selector);
 
 const elements = {
   setupScreen: $("#setup-screen"),
+  vocabularyScreen: $("#vocabulary-screen"),
   historyScreen: $("#history-screen"),
   studyScreen: $("#study-screen"),
   setupForm: $("#setup-form"),
   pageList: $("#page-list"),
+  pageSelectionNote: $("#page-selection-note"),
+  togglePages: $("#toggle-pages"),
+  vocabularyList: $("#vocabulary-list"),
+  printVocabulary: $("#print-vocabulary"),
   wordCount: $("#word-count"),
   allWords: $("#all-words"),
   availableCount: $("#available-count"),
@@ -18,7 +23,15 @@ const elements = {
   startButton: $("#start-button"),
   loadError: $("#load-error"),
   navStudy: $("#nav-study"),
+  navList: $("#nav-list"),
   navHistory: $("#nav-history"),
+  directorySearch: $("#directory-search"),
+  directoryPage: $("#directory-page"),
+  directorySummary: $("#directory-summary"),
+  directoryTitle: $("#directory-print-title"),
+  directoryList: $("#vocabulary-directory"),
+  directoryEmpty: $("#directory-empty"),
+  printDirectory: $("#print-directory"),
   historyCount: $("#history-count"),
   historySummary: $("#history-summary"),
   historyList: $("#history-list"),
@@ -113,13 +126,13 @@ function renderPageChoices() {
     checkbox.type = "checkbox";
     checkbox.name = "page";
     checkbox.value = page.id;
-    checkbox.checked = true;
+    checkbox.checked = false;
     checkbox.addEventListener("change", updateSetupSummary);
 
     const copy = document.createElement("span");
     copy.className = "page-choice-copy";
     const title = document.createElement("strong");
-    title.textContent = page.title;
+    title.textContent = page.title.replace(/^page\s*/i, "");
     const count = document.createElement("small");
     count.textContent = `${page.words.length} mots`;
     copy.append(title, count);
@@ -128,6 +141,87 @@ function renderPageChoices() {
   });
 
   updateSetupSummary();
+}
+
+function renderVocabularyList() {
+  elements.vocabularyList.replaceChildren();
+  state.pages.forEach((page) => {
+    page.words.forEach((word) => {
+      elements.vocabularyList.append(createVocabularyEntry(word, "vocabulary-entry"));
+    });
+  });
+}
+
+function createVocabularyEntry(word, className, includeExample = false) {
+  const item = document.createElement("li");
+  item.className = className;
+
+  const english = document.createElement("strong");
+  english.className = "vocabulary-english";
+  english.textContent = word.anglais;
+
+  const french = document.createElement("span");
+  french.className = "vocabulary-french";
+  french.textContent = word.francais;
+
+  item.append(english, french);
+  if (word.type) {
+    const type = document.createElement("small");
+    type.className = "vocabulary-type";
+    type.textContent = word.type;
+    item.append(type);
+  }
+  if (includeExample && word.exemple) {
+    const example = document.createElement("span");
+    example.className = "vocabulary-example";
+    example.textContent = `Exemple : ${word.exemple}`;
+    item.append(example);
+  }
+  return item;
+}
+
+function renderVocabularyDirectory() {
+  elements.directoryList.replaceChildren();
+  elements.directoryPage.replaceChildren(new Option("Toutes les pages", "all"));
+
+  state.pages.forEach((page) => {
+    const option = new Option(`${page.title} · ${page.words.length} mots`, page.id);
+    elements.directoryPage.add(option);
+    page.words.forEach((word) => {
+      const item = createVocabularyEntry(word, "vocabulary-entry directory-entry", true);
+      item.dataset.page = page.id;
+      item.dataset.search = normalizeAnswer([
+        word.anglais,
+        word.francais,
+        word.type,
+        word.exemple,
+      ].filter(Boolean).join(" "));
+      elements.directoryList.append(item);
+    });
+  });
+
+  updateVocabularyDirectory();
+}
+
+function updateVocabularyDirectory() {
+  const pageId = elements.directoryPage.value;
+  const query = normalizeAnswer(elements.directorySearch.value);
+  const visibleWords = [...elements.directoryList.children].filter((item) => {
+    const visible = (pageId === "all" || item.dataset.page === pageId)
+      && (!query || item.dataset.search.includes(query));
+    item.hidden = !visible;
+    return visible;
+  });
+  const selectedPage = state.pages.find((page) => page.id === pageId);
+  const scope = selectedPage ? selectedPage.title : "Toutes les pages";
+  const searchLabel = elements.directorySearch.value.trim();
+  elements.directoryTitle.textContent = searchLabel
+    ? `Recherche : ${searchLabel}`
+    : scope === "Toutes les pages" ? "Tout le vocabulaire" : scope;
+  elements.directorySummary.textContent = `${visibleWords.length} mot${visibleWords.length === 1 ? "" : "s"} · ${scope}`;
+  elements.directoryEmpty.hidden = visibleWords.length > 0;
+  elements.printDirectory.disabled = visibleWords.length === 0;
+  elements.printDirectory.innerHTML = `<span aria-hidden="true">▤</span> ${query ? "Imprimer les résultats" : selectedPage ? "Imprimer la page" : "Imprimer la liste"}`;
 }
 
 function currentDirection() {
@@ -141,8 +235,14 @@ function currentMode() {
 function updateSetupSummary() {
   const pageIds = selectedPageIds();
   const available = makePool(pageIds).length;
+  const selectedCount = pageIds.length;
+  const allPagesSelected = selectedCount === state.pages.length && state.pages.length > 0;
   elements.totalWords.textContent = String(makePool().length);
   elements.availableCount.textContent = `${available} mot${available === 1 ? "" : "s"} disponible${available === 1 ? "" : "s"}`;
+  elements.pageSelectionNote.textContent = selectedCount === 0
+    ? "Aucune page sélectionnée."
+    : `${selectedCount} page${selectedCount === 1 ? "" : "s"} sélectionnée${selectedCount === 1 ? "" : "s"} · ${available} mot${available === 1 ? "" : "s"}`;
+  elements.togglePages.textContent = allPagesSelected ? "Tout désélectionner" : "Tout sélectionner";
   elements.wordCount.max = String(Math.max(1, available));
   elements.wordCount.disabled = elements.allWords.checked || available === 0;
 
@@ -159,11 +259,15 @@ function updateSetupSummary() {
 
 function showView(view) {
   elements.setupScreen.hidden = view !== "setup";
+  elements.vocabularyScreen.hidden = view !== "list";
   elements.historyScreen.hidden = view !== "history";
   elements.studyScreen.hidden = view !== "study";
   elements.navStudy.classList.toggle("is-active", view === "setup");
   if (view === "setup") elements.navStudy.setAttribute("aria-current", "page");
   else elements.navStudy.removeAttribute("aria-current");
+  elements.navList.classList.toggle("is-active", view === "list");
+  if (view === "list") elements.navList.setAttribute("aria-current", "page");
+  else elements.navList.removeAttribute("aria-current");
   elements.navHistory.classList.toggle("is-active", view === "history");
   if (view === "history") elements.navHistory.setAttribute("aria-current", "page");
   else elements.navHistory.removeAttribute("aria-current");
@@ -500,6 +604,8 @@ async function loadResources() {
       return { ...page, id: entry.id, title: entry.title };
     }));
     renderPageChoices();
+    renderVocabularyList();
+    renderVocabularyDirectory();
     renderHistory();
   } catch (error) {
     elements.pageList.replaceChildren();
@@ -518,6 +624,26 @@ elements.answerForm.addEventListener("submit", checkWrittenAnswer);
 elements.revealAnswer.addEventListener("click", revealOralAnswer);
 elements.wordCount.addEventListener("input", updateSetupSummary);
 elements.allWords.addEventListener("change", updateSetupSummary);
+elements.directorySearch.addEventListener("input", updateVocabularyDirectory);
+elements.directoryPage.addEventListener("change", updateVocabularyDirectory);
+elements.togglePages.addEventListener("click", () => {
+  const selectAll = selectedPageIds().length !== state.pages.length;
+  elements.pageList.querySelectorAll('input[name="page"]').forEach((input) => {
+    input.checked = selectAll;
+  });
+  updateSetupSummary();
+});
+elements.printVocabulary.addEventListener("click", () => {
+  document.body.classList.add("print-vocabulary-mode");
+  window.print();
+});
+elements.printDirectory.addEventListener("click", () => {
+  document.body.classList.add("print-directory-mode");
+  window.print();
+});
+window.addEventListener("afterprint", () => {
+  document.body.classList.remove("print-vocabulary-mode", "print-directory-mode");
+});
 document.querySelectorAll('input[name="direction"], input[name="mode"]').forEach((input) => {
   input.addEventListener("change", updateSetupSummary);
 });
@@ -543,6 +669,7 @@ document.addEventListener("keydown", (event) => {
 });
 
 elements.navStudy.addEventListener("click", () => showView("setup"));
+elements.navList.addEventListener("click", () => showView("list"));
 elements.navHistory.addEventListener("click", () => showView("history"));
 $("#exit-study").addEventListener("click", () => {
   const leave = window.confirm("Quitter cette session ? Elle ne sera pas ajoutée à l’historique.");

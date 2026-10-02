@@ -1,0 +1,720 @@
+{
+  "id": "page-5",
+  "title": "Page 5",
+  "words": [
+    {
+      "id": "p5-001",
+      "anglais": "ever",
+      "francais": "toujours, déjà",
+      "type": "adv",
+      "exemple": ""
+    },
+    {
+      "id": "p5-002",
+      "anglais": "every",
+      "francais": "tous",
+      "type": "det",
+      "exemple": ""
+    },
+    {
+      "id": "p5-003",
+      "anglais": "everybody",
+      "francais": "tout le monde",
+      "type": "pron",
+      "exemple": ""
+    },
+    {
+      "id": "p5-004",
+      "anglais": "everyone",
+      "francais": "chacun",
+      "type": "pron",
+      "exemple": ""
+    },
+    {
+      "id": "p5-005",
+      "anglais": "everything",
+      "francais": "tout",
+      "type": "pron",
+      "exemple": ""
+    },
+    {
+      "id": "p5-006",
+      "anglais": "everywhere",
+      "francais": "partout",
+      "type": "adv",
+      "exemple": ""
+    },
+    {
+      "id": "p5-007",
+      "anglais": "examination/exam",
+      "francais": "examen",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p5-008",
+      "anglais": "example",
+      "francais": "exemple",
+      "type": "n",
+      "exemple": "Look at the example first. ; For example."
+    },
+    {
+      "id": "p5-009",
+      "anglais": "excellent",
+      "francais": "excellent",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p5-010",
+      "anglais": "except",
+      "francais": "sauf",
+      "type": "prep",
+      "exemple": ""
+    },
+    {
+      "id": "p5-011",
+      "anglais": "exercise",
+      "francais": "exercice, s'exercer",
+      "type": "n & v",
+      "exemple": ""
+    },
+    {
+      "id": "p5-012",
+      "anglais": "excited",
+      "francais": "excité",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p5-013",
+      "anglais": "exciting",
+      "francais": "excitant, passionnant",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p5-014",
+      "anglais": "excuse",
+      "francais": "excuser",
+      "type": "v",
+      "exemple": "Excuse me ! (excusez-moi!)"
+    },
+    {
+      "id": "p5-015",
+      "anglais": "exhibition",
+      "francais": "exposition",
+      "type": "n",
+      "exemple": "art exhibition"
+    },
+    {
+      "id": "p5-016",
+      "anglais": "exit",
+      "francais": "sortie",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p5-017",
+      "anglais": "expensive",
+      "francais": "cher",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p5-018",
+      "anglais": "explain",
+      "francais": "expliquer",
+      "type": "v",
+      "exemple": ""
+    },
+    {
+      "id": "p5-019",
+      "anglais": "explore",
+      "francais": "explorer",
+      "type": "v",
+      "exemple": "When I travel, I love exploring new cities."
+    },
+    {
+      "id": "p5-020",
+      "anglais": "explorer",
+      "francais": "explorateur",
+      "type": "n",
+      "exemple": "This book is about famous explorers."
+    },
+    {
+      "id": "p5-021",
+      "anglais": "extra",
+      "francais": "supplémentaire",
+      "type": "det & adj",
+      "exemple": ""
+    },
+    {
+      "id": "p5-022",
+      "anglais": "eye",
+      "francais": "oeil",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p5-023",
+      "anglais": "face",
+      "francais": "visage",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p5-024",
+      "anglais": "fact",
+      "francais": "fait",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p5-025",
+      "anglais": "factory",
+      "francais": "usine",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p5-026",
+      "anglais": "fail",
+      "francais": "échouer",
+      "type": "v",
+      "exemple": ""
+    },
+    {
+      "id": "p5-027",
+      "anglais": "fan",
+      "francais": "fan, ventilateur, éventail",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p5-028",
+      "anglais": "fair",
+      "francais": "juste, blond",
+      "type": "adj",
+      "exemple": "She has fair hair."
+    },
+    {
+      "id": "p5-029",
+      "anglais": "fall (n)",
+      "francais": "automne (Br Eng): autumn",
+      "type": "Am Eng",
+      "exemple": ""
+    },
+    {
+      "id": "p5-030",
+      "anglais": "fall",
+      "francais": "tomber",
+      "type": "v",
+      "exemple": "Formes irrégulières : (fell-fallen)"
+    },
+    {
+      "id": "p5-031",
+      "anglais": "family",
+      "francais": "famille",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p5-032",
+      "anglais": "famous",
+      "francais": "célèbre",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p5-033",
+      "anglais": "far",
+      "francais": "loin",
+      "type": "adv",
+      "exemple": "How far is the next garage ?"
+    },
+    {
+      "id": "p5-034",
+      "anglais": "farm",
+      "francais": "ferme",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p5-035",
+      "anglais": "farmer",
+      "francais": "fermier",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p5-036",
+      "anglais": "fashion",
+      "francais": "mode",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p5-037",
+      "anglais": "fast",
+      "francais": "rapide(-ment), vite fast",
+      "type": "adj & adv",
+      "exemple": ""
+    },
+    {
+      "id": "p5-038",
+      "anglais": "food",
+      "francais": "prêt à manger, snack",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p5-039",
+      "anglais": "fat",
+      "francais": "gras, gros",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p5-040",
+      "anglais": "father",
+      "francais": "père",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p5-041",
+      "anglais": "favourite",
+      "francais": "favori(e)",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p5-042",
+      "anglais": "feel",
+      "francais": "ressentir",
+      "type": "v",
+      "exemple": "to feel well ; Formes irrégulières : (felt-felt)"
+    },
+    {
+      "id": "p5-043",
+      "anglais": "festival",
+      "francais": "festival",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p5-044",
+      "anglais": "few",
+      "francais": "quelques-uns, peu",
+      "type": "det & adj",
+      "exemple": ""
+    },
+    {
+      "id": "p5-045",
+      "anglais": "field",
+      "francais": "domaine, champ",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p5-046",
+      "anglais": "file",
+      "francais": "classeur",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p5-047",
+      "anglais": "fill",
+      "francais": "remplir",
+      "type": "v",
+      "exemple": "fill in (phr v): completer ; to fill in a form (remplir un formulaire)"
+    },
+    {
+      "id": "p5-048",
+      "anglais": "film",
+      "francais": "film, filmer",
+      "type": "n & v",
+      "exemple": ""
+    },
+    {
+      "id": "p5-049",
+      "anglais": "final",
+      "francais": "final",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p5-050",
+      "anglais": "finally",
+      "francais": "enfin/finalement",
+      "type": "adv",
+      "exemple": ""
+    },
+    {
+      "id": "p5-051",
+      "anglais": "find",
+      "francais": "trouver",
+      "type": "v",
+      "exemple": "find out (phr verb): trouver ; Formes irrégulières : (found-found)"
+    },
+    {
+      "id": "p5-052",
+      "anglais": "fine",
+      "francais": "(très) bien",
+      "type": "adj",
+      "exemple": "That's fine ! ; I'm fine thank you. ; The weather is fine."
+    },
+    {
+      "id": "p5-053",
+      "anglais": "finger",
+      "francais": "doigt",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p5-054",
+      "anglais": "finish",
+      "francais": "terminer",
+      "type": "v",
+      "exemple": ""
+    },
+    {
+      "id": "p5-055",
+      "anglais": "fire",
+      "francais": "feu",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p5-056",
+      "anglais": "first",
+      "francais": "premier",
+      "type": "adv & adj",
+      "exemple": "First... then … (adv) ; John came first. (adv) ; first name (phr v): prénom ; first prize (phr v): premier prix"
+    },
+    {
+      "id": "p5-057",
+      "anglais": "fish",
+      "francais": "poisson, pêcher",
+      "type": "n & v",
+      "exemple": ""
+    },
+    {
+      "id": "p5-058",
+      "anglais": "fit",
+      "francais": "capable, en forme",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p5-059",
+      "anglais": "flat",
+      "francais": "appartement",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p5-060",
+      "anglais": "flight",
+      "francais": "vol",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p5-061",
+      "anglais": "floor",
+      "francais": "étage",
+      "type": "n",
+      "exemple": "The bedrooms are on the first floor. ; Don't leave your clothes on the floor."
+    },
+    {
+      "id": "p5-062",
+      "anglais": "flower",
+      "francais": "fleur",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p5-063",
+      "anglais": "fly",
+      "francais": "voler",
+      "type": "v & n",
+      "exemple": "Formes irrégulières : (flew-flown)"
+    },
+    {
+      "id": "p5-064",
+      "anglais": "fog",
+      "francais": "brouillard",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p5-065",
+      "anglais": "foggy",
+      "francais": "brumeux",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p5-066",
+      "anglais": "follow",
+      "francais": "suivre",
+      "type": "v",
+      "exemple": ""
+    },
+    {
+      "id": "p5-067",
+      "anglais": "food",
+      "francais": "nourriture",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p5-068",
+      "anglais": "foot",
+      "francais": "pied",
+      "type": "n",
+      "exemple": "my right foot"
+    },
+    {
+      "id": "p5-069",
+      "anglais": "football",
+      "francais": "football",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p5-070",
+      "anglais": "for",
+      "francais": "pour",
+      "type": "prep",
+      "exemple": ""
+    },
+    {
+      "id": "p5-071",
+      "anglais": "foreign",
+      "francais": "étranger",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p5-072",
+      "anglais": "forest",
+      "francais": "forêt",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p5-073",
+      "anglais": "forget",
+      "francais": "oublier",
+      "type": "v",
+      "exemple": "Formes irrégulières : (forgot-forgotten)"
+    },
+    {
+      "id": "p5-074",
+      "anglais": "fork",
+      "francais": "fourchette",
+      "type": "n",
+      "exemple": "knife and fork"
+    },
+    {
+      "id": "p5-075",
+      "anglais": "form",
+      "francais": "formulaire",
+      "type": "n",
+      "exemple": "Fill in this form. (remplissez ce formulaire)"
+    },
+    {
+      "id": "p5-076",
+      "anglais": "free",
+      "francais": "gratuit, libre",
+      "type": "adj",
+      "exemple": "French fries (exp)(Am Eng): frites (Br Eng): chips"
+    },
+    {
+      "id": "p5-077",
+      "anglais": "fresh",
+      "francais": "frais",
+      "type": "adj",
+      "exemple": "fresh fruit"
+    },
+    {
+      "id": "p5-078",
+      "anglais": "fridge",
+      "francais": "réfrigérateur",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p5-079",
+      "anglais": "fried",
+      "francais": "frit",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p5-080",
+      "anglais": "friend",
+      "francais": "ami",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p5-081",
+      "anglais": "friendly",
+      "francais": "amical",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p5-082",
+      "anglais": "from",
+      "francais": "de",
+      "type": "prep",
+      "exemple": ""
+    },
+    {
+      "id": "p5-083",
+      "anglais": "front",
+      "francais": "avant",
+      "type": "n",
+      "exemple": "In the front of the train ; Stand in front of me."
+    },
+    {
+      "id": "p5-084",
+      "anglais": "fruit",
+      "francais": "fruit",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p5-085",
+      "anglais": "fry",
+      "francais": "frire",
+      "type": "v",
+      "exemple": ""
+    },
+    {
+      "id": "p5-086",
+      "anglais": "full (of)",
+      "francais": "plein (de)",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p5-087",
+      "anglais": "fun",
+      "francais": "amusement",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p5-088",
+      "anglais": "funny",
+      "francais": "drôle",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p5-089",
+      "anglais": "furniture",
+      "francais": "meubles",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p5-090",
+      "anglais": "further",
+      "francais": "plus loin",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p5-091",
+      "anglais": "future",
+      "francais": "future",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p5-092",
+      "anglais": "game",
+      "francais": "jeu",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p5-093",
+      "anglais": "garage",
+      "francais": "garage",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p5-094",
+      "anglais": "garden",
+      "francais": "jardin",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p5-095",
+      "anglais": "garlic",
+      "francais": "ail",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p5-096",
+      "anglais": "gas (n) (Am Eng) essence",
+      "francais": "petrol",
+      "type": "Br Eng",
+      "exemple": ""
+    },
+    {
+      "id": "p5-097",
+      "anglais": "gas",
+      "francais": "gaz",
+      "type": "n",
+      "exemple": "A gas cooker"
+    },
+    {
+      "id": "p5-098",
+      "anglais": "a gas station (n)",
+      "francais": "une station essence (Br Eng): a petrol station",
+      "type": "Am Eng",
+      "exemple": ""
+    },
+    {
+      "id": "p5-099",
+      "anglais": "gate",
+      "francais": "portail, portillon, porte",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p5-100",
+      "anglais": "geography",
+      "francais": "géography",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p5-101",
+      "anglais": "get",
+      "francais": "obtenir",
+      "type": "v",
+      "exemple": "Formes irrégulières : (got-got)"
+    },
+    {
+      "id": "p5-102",
+      "anglais": "get fit",
+      "francais": "retrouver la forme",
+      "type": "v",
+      "exemple": ""
+    }
+  ]
+}

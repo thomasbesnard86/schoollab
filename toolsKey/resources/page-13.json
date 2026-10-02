@@ -1,0 +1,818 @@
+{
+  "id": "page-13",
+  "title": "Page 13",
+  "words": [
+    {
+      "id": "p13-001",
+      "anglais": "tourist",
+      "francais": "touriste",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p13-002",
+      "anglais": "tourist information centre",
+      "francais": "office du tourisme",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p13-003",
+      "anglais": "towel",
+      "francais": "serviette",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p13-004",
+      "anglais": "town",
+      "francais": "ville",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p13-005",
+      "anglais": "toy",
+      "francais": "jouet",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p13-006",
+      "anglais": "traffic",
+      "francais": "circulation",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p13-007",
+      "anglais": "traffic lights",
+      "francais": "feux de circulation",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p13-008",
+      "anglais": "train",
+      "francais": "train",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p13-009",
+      "anglais": "trainers",
+      "francais": "baskets",
+      "type": "n pl",
+      "exemple": ""
+    },
+    {
+      "id": "p13-010",
+      "anglais": "tram",
+      "francais": "tramway",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p13-011",
+      "anglais": "travel",
+      "francais": "voyager",
+      "type": "v",
+      "exemple": ""
+    },
+    {
+      "id": "p13-012",
+      "anglais": "travel agent",
+      "francais": "agent de voyage",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p13-013",
+      "anglais": "tree",
+      "francais": "arbre",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p13-014",
+      "anglais": "trip",
+      "francais": "voyage",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p13-015",
+      "anglais": "trouble",
+      "francais": "ennuis",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p13-016",
+      "anglais": "trousers",
+      "francais": "pantalon",
+      "type": "n pl",
+      "exemple": ""
+    },
+    {
+      "id": "p13-017",
+      "anglais": "try",
+      "francais": "essayer",
+      "type": "v",
+      "exemple": ""
+    },
+    {
+      "id": "p13-018",
+      "anglais": "try on",
+      "francais": "essayer (vêtements)",
+      "type": "v",
+      "exemple": ""
+    },
+    {
+      "id": "p13-019",
+      "anglais": "T-shirt",
+      "francais": "tee-shirt",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p13-020",
+      "anglais": "turn",
+      "francais": "tourner",
+      "type": "v",
+      "exemple": "Turn the gas off. (éteindre) turn off (phr v): éteindre turn on (phr v): allumer ; Turn the heating on. (allumer)"
+    },
+    {
+      "id": "p13-021",
+      "anglais": "twice",
+      "francais": "deux fois",
+      "type": "adv",
+      "exemple": ""
+    },
+    {
+      "id": "p13-022",
+      "anglais": "type",
+      "francais": "type",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p13-023",
+      "anglais": "tyre",
+      "francais": "pneu",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p13-024",
+      "anglais": "umbrella",
+      "francais": "parapluie",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p13-025",
+      "anglais": "uncle",
+      "francais": "oncle",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p13-026",
+      "anglais": "under",
+      "francais": "",
+      "type": "prep",
+      "exemple": "sous"
+    },
+    {
+      "id": "p13-027",
+      "anglais": "underground",
+      "francais": "",
+      "type": "n",
+      "exemple": "métro"
+    },
+    {
+      "id": "p13-028",
+      "anglais": "understand",
+      "francais": "",
+      "type": "v",
+      "exemple": "comprendre (understood-understood)"
+    },
+    {
+      "id": "p13-029",
+      "anglais": "uniform",
+      "francais": "",
+      "type": "n",
+      "exemple": "uniforme"
+    },
+    {
+      "id": "p13-030",
+      "anglais": "university",
+      "francais": "université",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p13-031",
+      "anglais": "until",
+      "francais": "jusqu’à",
+      "type": "prep",
+      "exemple": ""
+    },
+    {
+      "id": "p13-032",
+      "anglais": "up",
+      "francais": "en haut",
+      "type": "prep & adv",
+      "exemple": ""
+    },
+    {
+      "id": "p13-033",
+      "anglais": "upstairs",
+      "francais": "à l’étage",
+      "type": "adv",
+      "exemple": ""
+    },
+    {
+      "id": "p13-034",
+      "anglais": "us",
+      "francais": "nous",
+      "type": "pron",
+      "exemple": ""
+    },
+    {
+      "id": "p13-035",
+      "anglais": "use",
+      "francais": "utiliser",
+      "type": "v",
+      "exemple": ""
+    },
+    {
+      "id": "p13-036",
+      "anglais": "useful",
+      "francais": "utile",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p13-037",
+      "anglais": "usual",
+      "francais": "habituel",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p13-038",
+      "anglais": "V / versus",
+      "francais": "contre",
+      "type": "prep",
+      "exemple": "Manchester United v Liverpool variety (n): variété"
+    },
+    {
+      "id": "p13-039",
+      "anglais": "vegetable",
+      "francais": "légume",
+      "type": "n",
+      "exemple": "very"
+    },
+    {
+      "id": "p13-040",
+      "anglais": "(adv)",
+      "francais": "très",
+      "type": "",
+      "exemple": ""
+    },
+    {
+      "id": "p13-041",
+      "anglais": "video",
+      "francais": "vidéo",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p13-042",
+      "anglais": "video recorder",
+      "francais": "enregistreur vidéo",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p13-043",
+      "anglais": "village",
+      "francais": "village",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p13-044",
+      "anglais": "violin",
+      "francais": "violon",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p13-045",
+      "anglais": "visit",
+      "francais": "visiter",
+      "type": "v",
+      "exemple": ""
+    },
+    {
+      "id": "p13-046",
+      "anglais": "visitor",
+      "francais": "visiteur",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p13-047",
+      "anglais": "volleyball",
+      "francais": "volley Ball",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p13-048",
+      "anglais": "wait",
+      "francais": "attendre",
+      "type": "v",
+      "exemple": ""
+    },
+    {
+      "id": "p13-049",
+      "anglais": "waiter",
+      "francais": "serveur",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p13-050",
+      "anglais": "wake up",
+      "francais": "se réveiller",
+      "type": "v",
+      "exemple": "Formes irrégulières : (woke up-woken up)"
+    },
+    {
+      "id": "p13-051",
+      "anglais": "walk",
+      "francais": "marcher",
+      "type": "v",
+      "exemple": ""
+    },
+    {
+      "id": "p13-052",
+      "anglais": "wall",
+      "francais": "mur",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p13-053",
+      "anglais": "wallet",
+      "francais": "porte feuille",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p13-054",
+      "anglais": "want",
+      "francais": "vouloir",
+      "type": "v",
+      "exemple": ""
+    },
+    {
+      "id": "p13-055",
+      "anglais": "warm",
+      "francais": "chaud",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p13-056",
+      "anglais": "wash",
+      "francais": "laver",
+      "type": "v",
+      "exemple": "wash up (phr v): faire la vaisselle"
+    },
+    {
+      "id": "p13-057",
+      "anglais": "watch",
+      "francais": "une montre, regarder",
+      "type": "n & v",
+      "exemple": ""
+    },
+    {
+      "id": "p13-058",
+      "anglais": "water",
+      "francais": "eau",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p13-059",
+      "anglais": "way",
+      "francais": "passage, chemin, rue, manière",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p13-060",
+      "anglais": "we",
+      "francais": "nous",
+      "type": "pron",
+      "exemple": "wear (v) porter (wore-worn)"
+    },
+    {
+      "id": "p13-061",
+      "anglais": "weather",
+      "francais": "le temps",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p13-062",
+      "anglais": "website",
+      "francais": "site internet",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p13-063",
+      "anglais": "wedding",
+      "francais": "marriage",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p13-064",
+      "anglais": "week",
+      "francais": "semaine",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p13-065",
+      "anglais": "weekday",
+      "francais": "jour de semaine",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p13-066",
+      "anglais": "weekend",
+      "francais": "week-end",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p13-067",
+      "anglais": "weekly",
+      "francais": "hebdomadaire",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p13-068",
+      "anglais": "welcome",
+      "francais": "bienvenue",
+      "type": "n",
+      "exemple": "well (adv et adj.): bien ; west (n,adj, adv) :ouest"
+    },
+    {
+      "id": "p13-069",
+      "anglais": "wet",
+      "francais": "mouillé",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p13-070",
+      "anglais": "whale",
+      "francais": "baleine",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p13-071",
+      "anglais": "what",
+      "francais": "que, quelle",
+      "type": "det, pron",
+      "exemple": ""
+    },
+    {
+      "id": "p13-072",
+      "anglais": "wheel",
+      "francais": "roué",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p13-073",
+      "anglais": "when",
+      "francais": "quand",
+      "type": "adv",
+      "exemple": ""
+    },
+    {
+      "id": "p13-074",
+      "anglais": "where",
+      "francais": "où",
+      "type": "adv",
+      "exemple": ""
+    },
+    {
+      "id": "p13-075",
+      "anglais": "which",
+      "francais": "quel, lequel",
+      "type": "conj",
+      "exemple": ""
+    },
+    {
+      "id": "p13-076",
+      "anglais": "while",
+      "francais": "pendant que",
+      "type": "conj",
+      "exemple": ""
+    },
+    {
+      "id": "p13-077",
+      "anglais": "white",
+      "francais": "blanc",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p13-078",
+      "anglais": "who",
+      "francais": "qui, ce qui",
+      "type": "pron",
+      "exemple": ""
+    },
+    {
+      "id": "p13-079",
+      "anglais": "whole",
+      "francais": "entier, tout , ensemble",
+      "type": "adj, nom",
+      "exemple": ""
+    },
+    {
+      "id": "p13-080",
+      "anglais": "whose",
+      "francais": "à qui",
+      "type": "pron",
+      "exemple": ""
+    },
+    {
+      "id": "p13-081",
+      "anglais": "why",
+      "francais": "pourquoi",
+      "type": "adv",
+      "exemple": ""
+    },
+    {
+      "id": "p13-082",
+      "anglais": "wife",
+      "francais": "femme, épouse",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p13-083",
+      "anglais": "wild",
+      "francais": "sauvage",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p13-084",
+      "anglais": "will",
+      "francais": "futur (he will (he’ll) speak : il parlera)",
+      "type": "v",
+      "exemple": ""
+    },
+    {
+      "id": "p13-085",
+      "anglais": "win",
+      "francais": "gagner",
+      "type": "v",
+      "exemple": "Formes irrégulières : (won-won)"
+    },
+    {
+      "id": "p13-086",
+      "anglais": "wind",
+      "francais": "vent",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p13-087",
+      "anglais": "window",
+      "francais": "fenêtre",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p13-088",
+      "anglais": "windsurfing",
+      "francais": "planche à voile",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p13-089",
+      "anglais": "windy",
+      "francais": "venteux",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p13-090",
+      "anglais": "winter",
+      "francais": "hiver",
+      "type": "n",
+      "exemple": "wishes (n) souhaits"
+    },
+    {
+      "id": "p13-091",
+      "anglais": "with",
+      "francais": "avec",
+      "type": "prep",
+      "exemple": ""
+    },
+    {
+      "id": "p13-092",
+      "anglais": "without",
+      "francais": "sans",
+      "type": "prep",
+      "exemple": ""
+    },
+    {
+      "id": "p13-093",
+      "anglais": "woman",
+      "francais": "femme",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p13-094",
+      "anglais": "wonderful",
+      "francais": "merveilleux",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p13-095",
+      "anglais": "wood",
+      "francais": "bois",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p13-096",
+      "anglais": "wool",
+      "francais": "laine",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p13-097",
+      "anglais": "word",
+      "francais": "mot",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p13-098",
+      "anglais": "work",
+      "francais": "travail, travailler",
+      "type": "n&v",
+      "exemple": ""
+    },
+    {
+      "id": "p13-099",
+      "anglais": "world",
+      "francais": "monde",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p13-100",
+      "anglais": "worry",
+      "francais": "s’inquiéter",
+      "type": "v",
+      "exemple": ""
+    },
+    {
+      "id": "p13-101",
+      "anglais": "would",
+      "francais": "conditionnel",
+      "type": "v",
+      "exemple": ""
+    },
+    {
+      "id": "p13-102",
+      "anglais": "write",
+      "francais": "écrire write",
+      "type": "v",
+      "exemple": "Formes irrégulières : (wrote-written)"
+    },
+    {
+      "id": "p13-103",
+      "anglais": "down",
+      "francais": "noter",
+      "type": "v",
+      "exemple": ""
+    },
+    {
+      "id": "p13-104",
+      "anglais": "wrong",
+      "francais": "mauvais",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p13-105",
+      "anglais": "year",
+      "francais": "année",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p13-106",
+      "anglais": "yellow",
+      "francais": "jaune",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p13-107",
+      "anglais": "yes",
+      "francais": "oui",
+      "type": "exclam",
+      "exemple": ""
+    },
+    {
+      "id": "p13-108",
+      "anglais": "yesterday",
+      "francais": "hier",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p13-109",
+      "anglais": "yet",
+      "francais": "encore",
+      "type": "adv",
+      "exemple": "He hasn’t arrived yet. (Il n’est pas encore arrivé.)"
+    },
+    {
+      "id": "p13-110",
+      "anglais": "you",
+      "francais": "tu, vous",
+      "type": "pron",
+      "exemple": ""
+    },
+    {
+      "id": "p13-111",
+      "anglais": "young",
+      "francais": "jeune",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p13-112",
+      "anglais": "your",
+      "francais": "ton, votre",
+      "type": "pron",
+      "exemple": ""
+    },
+    {
+      "id": "p13-113",
+      "anglais": "yours",
+      "francais": "le tien, les tiens",
+      "type": "pron",
+      "exemple": ""
+    },
+    {
+      "id": "p13-114",
+      "anglais": "yourself",
+      "francais": "vous-même , toi-même",
+      "type": "pron",
+      "exemple": ""
+    },
+    {
+      "id": "p13-115",
+      "anglais": "zero",
+      "francais": "zéro",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p13-116",
+      "anglais": "zoo",
+      "francais": "zoo",
+      "type": "n",
+      "exemple": ""
+    }
+  ]
+}

@@ -1,0 +1,783 @@
+{
+  "id": "page-6",
+  "title": "Page 6",
+  "words": [
+    {
+      "id": "p6-001",
+      "anglais": "gift",
+      "francais": "don/cadeau",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p6-002",
+      "anglais": "girl",
+      "francais": "fille",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p6-003",
+      "anglais": "girlfriend",
+      "francais": "amie",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p6-004",
+      "anglais": "give",
+      "francais": "donner",
+      "type": "v",
+      "exemple": "Formes irrégulières : (gave-given)"
+    },
+    {
+      "id": "p6-005",
+      "anglais": "glad",
+      "francais": "heureux",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p6-006",
+      "anglais": "glass",
+      "francais": "verre, en verre",
+      "type": "n & adj",
+      "exemple": ""
+    },
+    {
+      "id": "p6-007",
+      "anglais": "glasses",
+      "francais": "lunettes",
+      "type": "n pl",
+      "exemple": ""
+    },
+    {
+      "id": "p6-008",
+      "anglais": "glove",
+      "francais": "gant",
+      "type": "n",
+      "exemple": "go (v) = aller (went-gone) ; go out (phr v): sortir ; Are you going out this evening? goal (n): but"
+    },
+    {
+      "id": "p6-009",
+      "anglais": "golf",
+      "francais": "golf",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p6-010",
+      "anglais": "gold",
+      "francais": "or",
+      "type": "n & adj",
+      "exemple": ""
+    },
+    {
+      "id": "p6-011",
+      "anglais": "golden",
+      "francais": "en or",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p6-012",
+      "anglais": "good",
+      "francais": "bon good",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p6-013",
+      "anglais": "afternoon",
+      "francais": "bonjour",
+      "type": "exclam",
+      "exemple": ""
+    },
+    {
+      "id": "p6-014",
+      "anglais": "goodbye",
+      "francais": "au revoir",
+      "type": "exclam",
+      "exemple": ""
+    },
+    {
+      "id": "p6-015",
+      "anglais": "good evening",
+      "francais": "bonsoir good-looking (adj): beau",
+      "type": "exclam",
+      "exemple": ""
+    },
+    {
+      "id": "p6-016",
+      "anglais": "good morning",
+      "francais": "bonjour good night (exclam): bonne nuit grade (n): echelon",
+      "type": "exclam",
+      "exemple": ""
+    },
+    {
+      "id": "p6-017",
+      "anglais": "gram (me)",
+      "francais": "gramme",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p6-018",
+      "anglais": "grandchild",
+      "francais": "petit enfant",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p6-019",
+      "anglais": "grand(d)ad",
+      "francais": "grand père",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p6-020",
+      "anglais": "granddaughter",
+      "francais": "petite fille",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p6-021",
+      "anglais": "grandfather",
+      "francais": "grand père",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p6-022",
+      "anglais": "grandma",
+      "francais": "grand mere",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p6-023",
+      "anglais": "grandmother",
+      "francais": "grand mere",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p6-024",
+      "anglais": "grandpa",
+      "francais": "grand père",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p6-025",
+      "anglais": "grandparent",
+      "francais": "grand parent",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p6-026",
+      "anglais": "grandson",
+      "francais": "petit fils",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p6-027",
+      "anglais": "grannie",
+      "francais": "mamie",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p6-028",
+      "anglais": "grape",
+      "francais": "raisin",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p6-029",
+      "anglais": "grass",
+      "francais": "herbe",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p6-030",
+      "anglais": "gray (adj)",
+      "francais": "gris (Br Eng): grey",
+      "type": "Am Eng",
+      "exemple": ""
+    },
+    {
+      "id": "p6-031",
+      "anglais": "great",
+      "francais": "grand, super",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p6-032",
+      "anglais": "green",
+      "francais": "vert",
+      "type": "adj",
+      "exemple": "grey (adj) = gris"
+    },
+    {
+      "id": "p6-033",
+      "anglais": "grill",
+      "francais": "griller",
+      "type": "v",
+      "exemple": ""
+    },
+    {
+      "id": "p6-034",
+      "anglais": "grilled",
+      "francais": "grille",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p6-035",
+      "anglais": "grill",
+      "francais": "griller",
+      "type": "v",
+      "exemple": ""
+    },
+    {
+      "id": "p6-036",
+      "anglais": "grilled",
+      "francais": "grille",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p6-037",
+      "anglais": "grocery store (n)",
+      "francais": "épicerie (Br Eng): grocer’s",
+      "type": "Am Eng",
+      "exemple": ""
+    },
+    {
+      "id": "p6-038",
+      "anglais": "group",
+      "francais": "groupe",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p6-039",
+      "anglais": "grow",
+      "francais": "pousser, faire pousser",
+      "type": "v",
+      "exemple": "grow up (phr v): grandir (grew-grown)"
+    },
+    {
+      "id": "p6-040",
+      "anglais": "guess",
+      "francais": "deviner",
+      "type": "v",
+      "exemple": ""
+    },
+    {
+      "id": "p6-041",
+      "anglais": "guest",
+      "francais": "invité(e)",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p6-042",
+      "anglais": "guest-house",
+      "francais": "maison d’hôtes",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p6-043",
+      "anglais": "guide",
+      "francais": "guide",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p6-044",
+      "anglais": "guidebook",
+      "francais": "guide",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p6-045",
+      "anglais": "guitar",
+      "francais": "guitar",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p6-046",
+      "anglais": "guy",
+      "francais": "garcon, type",
+      "type": "n",
+      "exemple": "He’s a really nice guy."
+    },
+    {
+      "id": "p6-047",
+      "anglais": "gym",
+      "francais": "gym",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p6-048",
+      "anglais": "hair",
+      "francais": "cheveux",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p6-049",
+      "anglais": "hairdresser",
+      "francais": "coiffeur",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p6-050",
+      "anglais": "hairdryer",
+      "francais": "sèche-cheveux",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p6-051",
+      "anglais": "half",
+      "francais": "moitié",
+      "type": "n&pron",
+      "exemple": ""
+    },
+    {
+      "id": "p6-052",
+      "anglais": "hall",
+      "francais": "hall (salle)",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p6-053",
+      "anglais": "hand",
+      "francais": "main",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p6-054",
+      "anglais": "handbag",
+      "francais": "sac à main",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p6-055",
+      "anglais": "happen",
+      "francais": "arriver",
+      "type": "v",
+      "exemple": ""
+    },
+    {
+      "id": "p6-056",
+      "anglais": "happy",
+      "francais": "heureux",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p6-057",
+      "anglais": "hard",
+      "francais": "dur",
+      "type": "adj & adv",
+      "exemple": "hard wood (adj): bois dur ; the homework was hard (adj) ; to work hard (adv): travailler dur"
+    },
+    {
+      "id": "p6-058",
+      "anglais": "hat",
+      "francais": "chapeau",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p6-059",
+      "anglais": "hate",
+      "francais": "hair",
+      "type": "v",
+      "exemple": ""
+    },
+    {
+      "id": "p6-060",
+      "anglais": "have",
+      "francais": "avoir",
+      "type": "v",
+      "exemple": "Formes irrégulières : (had-had)"
+    },
+    {
+      "id": "p6-061",
+      "anglais": "have got",
+      "francais": "avoir",
+      "type": "v",
+      "exemple": ""
+    },
+    {
+      "id": "p6-062",
+      "anglais": "have to",
+      "francais": "avoir à, devoir",
+      "type": "v",
+      "exemple": ""
+    },
+    {
+      "id": "p6-063",
+      "anglais": "he",
+      "francais": "il",
+      "type": "pron",
+      "exemple": ""
+    },
+    {
+      "id": "p6-064",
+      "anglais": "head",
+      "francais": "tête",
+      "type": "n",
+      "exemple": "My head hurts."
+    },
+    {
+      "id": "p6-065",
+      "anglais": "headache",
+      "francais": "mal de tête",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p6-066",
+      "anglais": "headteacher",
+      "francais": "professeur principal",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p6-067",
+      "anglais": "health",
+      "francais": "santé",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p6-068",
+      "anglais": "healthy",
+      "francais": "sain",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p6-069",
+      "anglais": "hear",
+      "francais": "entendre",
+      "type": "v",
+      "exemple": "Formes irrégulières : (heard-heard)"
+    },
+    {
+      "id": "p6-070",
+      "anglais": "heart",
+      "francais": "coeur",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p6-071",
+      "anglais": "heating",
+      "francais": "chauffage",
+      "type": "n",
+      "exemple": "Can you turn the heating on?"
+    },
+    {
+      "id": "p6-072",
+      "anglais": "heavy",
+      "francais": "lourd",
+      "type": "adj",
+      "exemple": "a heavy blanket (une couverture lourde)"
+    },
+    {
+      "id": "p6-073",
+      "anglais": "helicopter",
+      "francais": "",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p6-074",
+      "anglais": "hélicoptèrehelp",
+      "francais": "aider",
+      "type": "v",
+      "exemple": ""
+    },
+    {
+      "id": "p6-075",
+      "anglais": "her",
+      "francais": "son, sa, ses",
+      "type": "det & pron",
+      "exemple": ""
+    },
+    {
+      "id": "p6-076",
+      "anglais": "here",
+      "francais": "ici",
+      "type": "adv",
+      "exemple": ""
+    },
+    {
+      "id": "p6-077",
+      "anglais": "hers",
+      "francais": "le(s) la sien(s)(ne(s)",
+      "type": "pron",
+      "exemple": ""
+    },
+    {
+      "id": "p6-078",
+      "anglais": "herself",
+      "francais": "elle- même",
+      "type": "pron",
+      "exemple": "by herself : par elle-même"
+    },
+    {
+      "id": "p6-079",
+      "anglais": "high",
+      "francais": "élevé, haut",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p6-080",
+      "anglais": "hill",
+      "francais": "colline",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p6-081",
+      "anglais": "him",
+      "francais": "lui",
+      "type": "pron",
+      "exemple": ""
+    },
+    {
+      "id": "p6-082",
+      "anglais": "himself",
+      "francais": "lui-même",
+      "type": "pron",
+      "exemple": "by himself (par lui-même)"
+    },
+    {
+      "id": "p6-083",
+      "anglais": "hip hop",
+      "francais": "hip hop",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p6-084",
+      "anglais": "his",
+      "francais": "son, sa, ses/ le(s) la sien(s)(ne(s)",
+      "type": "det & pron",
+      "exemple": ""
+    },
+    {
+      "id": "p6-085",
+      "anglais": "history",
+      "francais": "histoire",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p6-086",
+      "anglais": "hit",
+      "francais": "frapper",
+      "type": "v",
+      "exemple": "Formes irrégulières : (hit-hit)"
+    },
+    {
+      "id": "p6-087",
+      "anglais": "hobby",
+      "francais": "passe-temps (plur : hobbies)",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p6-088",
+      "anglais": "hockey",
+      "francais": "hockey",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p6-089",
+      "anglais": "hold (v)",
+      "francais": "tenir",
+      "type": "held-held",
+      "exemple": ""
+    },
+    {
+      "id": "p6-090",
+      "anglais": "holiday(s)",
+      "francais": "vacances",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p6-091",
+      "anglais": "home",
+      "francais": "maison",
+      "type": "n & adv",
+      "exemple": ""
+    },
+    {
+      "id": "p6-092",
+      "anglais": "homework",
+      "francais": "devoirs, leçons",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p6-093",
+      "anglais": "honey",
+      "francais": "miel/chéri(e)",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p6-094",
+      "anglais": "hope",
+      "francais": "espérer",
+      "type": "v",
+      "exemple": ""
+    },
+    {
+      "id": "p6-095",
+      "anglais": "horse",
+      "francais": "cheval",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p6-096",
+      "anglais": "hospital",
+      "francais": "hospital",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p6-097",
+      "anglais": "hot",
+      "francais": "chaud(e)",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p6-098",
+      "anglais": "hotel",
+      "francais": "hotel",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p6-099",
+      "anglais": "hour",
+      "francais": "heure",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p6-100",
+      "anglais": "house",
+      "francais": "maison",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p6-101",
+      "anglais": "housewife",
+      "francais": "femme au foyer",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p6-102",
+      "anglais": "how",
+      "francais": "comment",
+      "type": "adv",
+      "exemple": ""
+    },
+    {
+      "id": "p6-103",
+      "anglais": "however",
+      "francais": "cependant",
+      "type": "adv",
+      "exemple": ""
+    },
+    {
+      "id": "p6-104",
+      "anglais": "hungry",
+      "francais": "faim",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p6-105",
+      "anglais": "hurry",
+      "francais": "dépêcher",
+      "type": "v",
+      "exemple": ""
+    },
+    {
+      "id": "p6-106",
+      "anglais": "hurt",
+      "francais": "avoir mal, faire mal",
+      "type": "v",
+      "exemple": "Formes irrégulières : (hurt-hurt)"
+    },
+    {
+      "id": "p6-107",
+      "anglais": "husband",
+      "francais": "mari",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p6-108",
+      "anglais": "I",
+      "francais": "je",
+      "type": "pron",
+      "exemple": ""
+    },
+    {
+      "id": "p6-109",
+      "anglais": "ice",
+      "francais": "glace",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p6-110",
+      "anglais": "ice cream",
+      "francais": "glace",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p6-111",
+      "anglais": "ice skating",
+      "francais": "patinage sur glace",
+      "type": "n",
+      "exemple": ""
+    }
+  ]
+}

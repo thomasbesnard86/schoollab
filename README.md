@@ -5,7 +5,7 @@ Schoollab rassemble des mini-applications web pour réviser différentes matièr
 ## Applications
 
 - **Verbes irréguliers** (`irregularverbs/`) : quiz d'anglais sur l'infinitif, le simple past et le past participle, avec reprise des erreurs, historique des scores et tableau des verbes imprimable. `main.py` est un ancien prototype en console, distinct de l'application web.
-- **ToolsKey** (`toolsKey/`) : révision de vocabulaire anglais-français pour accompagner la préparation de l'A2 Key de Cambridge. Les 209 entrées réparties sur deux pages peuvent être étudiées dans les deux sens, à l'oral ou à l'écrit, avec historique et reprise des mots à revoir. Ce n'est pas un examen blanc.
+- **ToolsKey** (`toolsKey/`) : révision de vocabulaire anglais-français pour accompagner la préparation de l'A2 Key de Cambridge. Les 1 390 entrées réparties sur treize pages peuvent être étudiées dans les deux sens, à l'oral ou à l'écrit, avec historique et reprise des mots à revoir. Ce n'est pas un examen blanc.
 
 ## Organisation
 

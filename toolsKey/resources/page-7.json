@@ -1,0 +1,629 @@
+{
+  "id": "page-7",
+  "title": "Page 7",
+  "words": [
+    {
+      "id": "p7-001",
+      "anglais": "ID",
+      "francais": "identifiant",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p7-002",
+      "anglais": "ID card",
+      "francais": "carte d’identité",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p7-003",
+      "anglais": "idea",
+      "francais": "idée",
+      "type": "n",
+      "exemple": "if"
+    },
+    {
+      "id": "p7-004",
+      "anglais": "(conj)",
+      "francais": "si",
+      "type": "",
+      "exemple": ""
+    },
+    {
+      "id": "p7-005",
+      "anglais": "ill",
+      "francais": "malade",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p7-006",
+      "anglais": "immediately",
+      "francais": "immédiatement",
+      "type": "adv",
+      "exemple": ""
+    },
+    {
+      "id": "p7-007",
+      "anglais": "important",
+      "francais": "important",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p7-008",
+      "anglais": "impossible",
+      "francais": "impossible",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p7-009",
+      "anglais": "improve",
+      "francais": "améliorer",
+      "type": "v",
+      "exemple": ""
+    },
+    {
+      "id": "p7-010",
+      "anglais": "in",
+      "francais": "dans",
+      "type": "adv & prep",
+      "exemple": "include"
+    },
+    {
+      "id": "p7-011",
+      "anglais": "( v)",
+      "francais": "comprendre, inclure",
+      "type": "",
+      "exemple": ""
+    },
+    {
+      "id": "p7-012",
+      "anglais": "including",
+      "francais": "incluant",
+      "type": "prep",
+      "exemple": ""
+    },
+    {
+      "id": "p7-013",
+      "anglais": "indoor",
+      "francais": "intérieur",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p7-014",
+      "anglais": "indoors",
+      "francais": "à l’intérieur",
+      "type": "adv",
+      "exemple": ""
+    },
+    {
+      "id": "p7-015",
+      "anglais": "information",
+      "francais": "information",
+      "type": "n",
+      "exemple": "in front of (prep phr): devant"
+    },
+    {
+      "id": "p7-016",
+      "anglais": "insect",
+      "francais": "insecte",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p7-017",
+      "anglais": "inside",
+      "francais": "à l’intérieur",
+      "type": "adv & prep",
+      "exemple": ""
+    },
+    {
+      "id": "p7-018",
+      "anglais": "instead",
+      "francais": "plutôt",
+      "type": "adv",
+      "exemple": "instead of (prep phr): au lieu de instructions (n pl): enseignement"
+    },
+    {
+      "id": "p7-019",
+      "anglais": "instrument",
+      "francais": "instrument",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p7-020",
+      "anglais": "insurance",
+      "francais": "assurance",
+      "type": "n",
+      "exemple": "car insurance"
+    },
+    {
+      "id": "p7-021",
+      "anglais": "interested",
+      "francais": "intéressé",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p7-022",
+      "anglais": "interesting",
+      "francais": "intéressant",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p7-023",
+      "anglais": "international",
+      "francais": "international",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p7-024",
+      "anglais": "internet",
+      "francais": "internet",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p7-025",
+      "anglais": "into",
+      "francais": "en",
+      "type": "prep",
+      "exemple": ""
+    },
+    {
+      "id": "p7-026",
+      "anglais": "invite",
+      "francais": "inviter",
+      "type": "v",
+      "exemple": ""
+    },
+    {
+      "id": "p7-027",
+      "anglais": "island",
+      "francais": "île",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p7-028",
+      "anglais": "it",
+      "francais": "cela",
+      "type": "pron",
+      "exemple": ""
+    },
+    {
+      "id": "p7-029",
+      "anglais": "its",
+      "francais": "son, sa, ses",
+      "type": "det",
+      "exemple": ""
+    },
+    {
+      "id": "p7-030",
+      "anglais": "itself",
+      "francais": "lui-même",
+      "type": "pron",
+      "exemple": ""
+    },
+    {
+      "id": "p7-031",
+      "anglais": "jacket",
+      "francais": "veste",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p7-032",
+      "anglais": "jam",
+      "francais": "confiture",
+      "type": "n",
+      "exemple": "fruit jam jeans (n pl): jean"
+    },
+    {
+      "id": "p7-033",
+      "anglais": "jewel",
+      "francais": "bijou",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p7-034",
+      "anglais": "jewellery (n)(Br Eng) jewelry (n)",
+      "francais": "bijouterie",
+      "type": "Am Engl",
+      "exemple": ""
+    },
+    {
+      "id": "p7-035",
+      "anglais": "job",
+      "francais": "métier, emploi",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p7-036",
+      "anglais": "join",
+      "francais": "rejoindre",
+      "type": "v",
+      "exemple": ""
+    },
+    {
+      "id": "p7-037",
+      "anglais": "journalist",
+      "francais": "journaliste",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p7-038",
+      "anglais": "journey",
+      "francais": "voyage",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p7-039",
+      "anglais": "juice",
+      "francais": "jus",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p7-040",
+      "anglais": "jump",
+      "francais": "sauter",
+      "type": "v",
+      "exemple": ""
+    },
+    {
+      "id": "p7-041",
+      "anglais": "jumper",
+      "francais": "pullover",
+      "type": "n",
+      "exemple": "just"
+    },
+    {
+      "id": "p7-042",
+      "anglais": "(adv)",
+      "francais": "juste",
+      "type": "",
+      "exemple": "I’ve just seen Tom. ; Just a moment."
+    },
+    {
+      "id": "p7-043",
+      "anglais": "keep",
+      "francais": "garder",
+      "type": "v",
+      "exemple": "May I keep this ? ; Keep right ! ; Formes irrégulières : (kept-kept)"
+    },
+    {
+      "id": "p7-044",
+      "anglais": "key",
+      "francais": "clef",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p7-045",
+      "anglais": "keyboard",
+      "francais": "clavier",
+      "type": "n",
+      "exemple": "I play the keyboard in a band. ; The keyboard for my computer is broken."
+    },
+    {
+      "id": "p7-046",
+      "anglais": "kick",
+      "francais": "donner un coup de pied",
+      "type": "v",
+      "exemple": "kilo(gram[me])/kg (n) ; : kilo"
+    },
+    {
+      "id": "p7-047",
+      "anglais": "kilometre / km",
+      "francais": "kilometre",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p7-048",
+      "anglais": "kind",
+      "francais": "",
+      "type": "adj & n",
+      "exemple": "gentil, genre ; That’s very kind of you. ; What kind of book do you want?"
+    },
+    {
+      "id": "p7-049",
+      "anglais": "king",
+      "francais": "roi",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p7-050",
+      "anglais": "kiss",
+      "francais": "embrasser",
+      "type": "v",
+      "exemple": ""
+    },
+    {
+      "id": "p7-051",
+      "anglais": "kit",
+      "francais": "trousse",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p7-052",
+      "anglais": "kitchen",
+      "francais": "cuisine",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p7-053",
+      "anglais": "kite",
+      "francais": "cerf-volant",
+      "type": "n",
+      "exemple": "knife (n) ; : couteau"
+    },
+    {
+      "id": "p7-054",
+      "anglais": "know",
+      "francais": "",
+      "type": "v",
+      "exemple": "savoir (knew-known)"
+    },
+    {
+      "id": "p7-055",
+      "anglais": "lake",
+      "francais": "lac",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p7-056",
+      "anglais": "lamp",
+      "francais": "lampe",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p7-057",
+      "anglais": "language",
+      "francais": "langue",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p7-058",
+      "anglais": "laptop (computer)",
+      "francais": "ordinateur portable",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p7-059",
+      "anglais": "large",
+      "francais": "grand",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p7-060",
+      "anglais": "last",
+      "francais": "dernier",
+      "type": "adj & adv",
+      "exemple": ""
+    },
+    {
+      "id": "p7-061",
+      "anglais": "late",
+      "francais": "tard",
+      "type": "adj & adv",
+      "exemple": "The train is going to be late."
+    },
+    {
+      "id": "p7-062",
+      "anglais": "later",
+      "francais": "plus tard",
+      "type": "adv",
+      "exemple": "I'll see you later."
+    },
+    {
+      "id": "p7-063",
+      "anglais": "laugh",
+      "francais": "rire",
+      "type": "v",
+      "exemple": ""
+    },
+    {
+      "id": "p7-064",
+      "anglais": "lazy",
+      "francais": "paresseux",
+      "type": "ad",
+      "exemple": ""
+    },
+    {
+      "id": "p7-065",
+      "anglais": "learn",
+      "francais": "apprendre",
+      "type": "v",
+      "exemple": "Formes irrégulières : (learnt-learnt)"
+    },
+    {
+      "id": "p7-066",
+      "anglais": "least",
+      "francais": "moins",
+      "type": "adv",
+      "exemple": "at least: au moins"
+    },
+    {
+      "id": "p7-067",
+      "anglais": "leather",
+      "francais": "cuir",
+      "type": "n & adj",
+      "exemple": ""
+    },
+    {
+      "id": "p7-068",
+      "anglais": "leave",
+      "francais": "quitter, partir",
+      "type": "v",
+      "exemple": "The train leaves at 10 o'clock. ; I left my bag in the cinema. ; There isn't any milk left. left (n, adj & adv): gauche ; Go to the left. (n) ; left hand (adj) ; Turn left. (adv) ; Formes irrégulières : (left-left)"
+    },
+    {
+      "id": "p7-069",
+      "anglais": "leg",
+      "francais": "jambe",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p7-070",
+      "anglais": "lemon",
+      "francais": "citron",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p7-071",
+      "anglais": "lemonade",
+      "francais": "citronnade",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p7-072",
+      "anglais": "lend (v)",
+      "francais": "prêter",
+      "type": "lent-lent",
+      "exemple": "less (adj, det, pron & adv): moins"
+    },
+    {
+      "id": "p7-073",
+      "anglais": "lesson",
+      "francais": "leçon, cours",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p7-074",
+      "anglais": "let",
+      "francais": "laisser",
+      "type": "v",
+      "exemple": "Formes irrégulières : (let-let)"
+    },
+    {
+      "id": "p7-075",
+      "anglais": "letter",
+      "francais": "lettre",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p7-076",
+      "anglais": "level",
+      "francais": "niveau",
+      "type": "n",
+      "exemple": "language level"
+    },
+    {
+      "id": "p7-077",
+      "anglais": "library",
+      "francais": "bibliothèque",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p7-078",
+      "anglais": "licence",
+      "francais": "licence",
+      "type": "n",
+      "exemple": "driving licence lie down (phr v): s’allonger (lay-lain) (he is lying down)"
+    },
+    {
+      "id": "p7-079",
+      "anglais": "life",
+      "francais": "vie",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p7-080",
+      "anglais": "lift",
+      "francais": "ascenseur",
+      "type": "n",
+      "exemple": "Take the lift to the third floor."
+    },
+    {
+      "id": "p7-081",
+      "anglais": "light",
+      "francais": "lumière",
+      "type": "n & adj",
+      "exemple": "like (v, prep & adv): aimer, comme ; I'd like a drink. (v) ; It's like an orange but bigger. (prep) ; What's the weather like ? (adv)"
+    },
+    {
+      "id": "p7-082",
+      "anglais": "line",
+      "francais": "ligne",
+      "type": "n",
+      "exemple": "draw a line ; The next line"
+    },
+    {
+      "id": "p7-083",
+      "anglais": "lion",
+      "francais": "lion",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p7-084",
+      "anglais": "listen",
+      "francais": "écouter",
+      "type": "v",
+      "exemple": ""
+    },
+    {
+      "id": "p7-085",
+      "anglais": "litre",
+      "francais": "litre",
+      "type": "n",
+      "exemple": "little (adj,det & pron): petit, peu"
+    },
+    {
+      "id": "p7-086",
+      "anglais": "live",
+      "francais": "vivre",
+      "type": "v",
+      "exemple": ""
+    },
+    {
+      "id": "p7-087",
+      "anglais": "living room",
+      "francais": "salon",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p7-088",
+      "anglais": "long",
+      "francais": "longtemps",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p7-089",
+      "anglais": "look",
+      "francais": "regarder",
+      "type": "v",
+      "exemple": "You look happy. ; Don't look now! look after (phr v): s’occuper de look at (phr v): regarder look for (phr v): chercher look out (phr v): regarder dehors ; Look out - It's going to fall! (attention – cela va tomber!)"
+    }
+  ]
+}

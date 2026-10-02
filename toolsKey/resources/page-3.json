@@ -1,0 +1,727 @@
+{
+  "id": "page-3",
+  "title": "Page 3",
+  "words": [
+    {
+      "id": "p3-001",
+      "anglais": "card",
+      "francais": "carte/carton",
+      "type": "n",
+      "exemple": "birthday card ; credit card"
+    },
+    {
+      "id": "p3-002",
+      "anglais": "career",
+      "francais": "carrière (profession)",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p3-003",
+      "anglais": "careful",
+      "francais": "attention",
+      "type": "adj",
+      "exemple": "Be careful!"
+    },
+    {
+      "id": "p3-004",
+      "anglais": "carefully",
+      "francais": "soigneusement",
+      "type": "adv",
+      "exemple": ""
+    },
+    {
+      "id": "p3-005",
+      "anglais": "car park",
+      "francais": "parking",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p3-006",
+      "anglais": "carpet",
+      "francais": "moquette",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p3-007",
+      "anglais": "carrot",
+      "francais": "carotte",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p3-008",
+      "anglais": "carry",
+      "francais": "",
+      "type": "v",
+      "exemple": ""
+    },
+    {
+      "id": "p3-009",
+      "anglais": "portercartoon",
+      "francais": "dessin animé",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p3-010",
+      "anglais": "cash",
+      "francais": "argent liquide/encaisser",
+      "type": "n & v",
+      "exemple": "I’d like to cash this cheque. (v)"
+    },
+    {
+      "id": "p3-011",
+      "anglais": "castle",
+      "francais": "château",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p3-012",
+      "anglais": "cat",
+      "francais": "chat",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p3-013",
+      "anglais": "catch",
+      "francais": "attraper",
+      "type": "v",
+      "exemple": "Formes irrégulières : (caught-caught)"
+    },
+    {
+      "id": "p3-014",
+      "anglais": "cathedral",
+      "francais": "cathédrale",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p3-015",
+      "anglais": "CD",
+      "francais": "CD",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p3-016",
+      "anglais": "CD player",
+      "francais": "lecteur de CD",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p3-017",
+      "anglais": "ceiling",
+      "francais": "plafond",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p3-018",
+      "anglais": "cell phone",
+      "francais": "téléphone portable",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p3-019",
+      "anglais": "cent",
+      "francais": "centime / per cent : pour",
+      "type": "n",
+      "exemple": "cent"
+    },
+    {
+      "id": "p3-020",
+      "anglais": "centre",
+      "francais": "centre",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p3-021",
+      "anglais": "centimeter",
+      "francais": "centimètre",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p3-022",
+      "anglais": "century",
+      "francais": "siècle",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p3-023",
+      "anglais": "cereal",
+      "francais": "céréales",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p3-024",
+      "anglais": "certain",
+      "francais": "certain/sûr",
+      "type": "adj",
+      "exemple": "I’m certain ( + that clause) certainly (not) (adv): certainement (pas)"
+    },
+    {
+      "id": "p3-025",
+      "anglais": "chain",
+      "francais": "chaîne",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p3-026",
+      "anglais": "chair",
+      "francais": "chaise",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p3-027",
+      "anglais": "change",
+      "francais": "changer / changement",
+      "type": "v & n",
+      "exemple": ""
+    },
+    {
+      "id": "p3-028",
+      "anglais": "channel",
+      "francais": "chaîne (de télévision)",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p3-029",
+      "anglais": "chat",
+      "francais": "bavardage",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p3-030",
+      "anglais": "chatroom",
+      "francais": "forum de discussion",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p3-031",
+      "anglais": "cheap",
+      "francais": "bon marché",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p3-032",
+      "anglais": "check",
+      "francais": "vérifier",
+      "type": "v",
+      "exemple": "cheers ! (exclamation) : à la tienne !"
+    },
+    {
+      "id": "p3-033",
+      "anglais": "cheese",
+      "francais": "fromage",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p3-034",
+      "anglais": "chemist",
+      "francais": "pharmacien(ne)",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p3-035",
+      "anglais": "chemistry",
+      "francais": "chimie",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p3-036",
+      "anglais": "cheque",
+      "francais": "chèque",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p3-037",
+      "anglais": "chess",
+      "francais": "échecs (jeu)",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p3-038",
+      "anglais": "chicken",
+      "francais": "poulet",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p3-039",
+      "anglais": "child",
+      "francais": "enfant",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p3-040",
+      "anglais": "children",
+      "francais": "enfants",
+      "type": "n pl",
+      "exemple": ""
+    },
+    {
+      "id": "p3-041",
+      "anglais": "chips",
+      "francais": "frites",
+      "type": "n pl",
+      "exemple": "egg and chips"
+    },
+    {
+      "id": "p3-042",
+      "anglais": "chocolate",
+      "francais": "chocolat",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p3-043",
+      "anglais": "choose",
+      "francais": "choisir",
+      "type": "v",
+      "exemple": "Formes irrégulières : (chose-chosen)"
+    },
+    {
+      "id": "p3-044",
+      "anglais": "church",
+      "francais": "église",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p3-045",
+      "anglais": "cinema",
+      "francais": "cinéma",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p3-046",
+      "anglais": "circus",
+      "francais": "cirque",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p3-047",
+      "anglais": "city",
+      "francais": "ville",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p3-048",
+      "anglais": "class",
+      "francais": "classe/cours",
+      "type": "n",
+      "exemple": "a language class ; a first-class ticket"
+    },
+    {
+      "id": "p3-049",
+      "anglais": "class member",
+      "francais": "un membre de classe",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p3-050",
+      "anglais": "classical",
+      "francais": "classique",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p3-051",
+      "anglais": "classmate",
+      "francais": "camarade de classe",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p3-052",
+      "anglais": "classroom",
+      "francais": "salle de classe",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p3-053",
+      "anglais": "clean",
+      "francais": "propre / nettoyer",
+      "type": "adj & v",
+      "exemple": ""
+    },
+    {
+      "id": "p3-054",
+      "anglais": "cleaner",
+      "francais": "nettoyeur/nettoyeuse",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p3-055",
+      "anglais": "clear",
+      "francais": "clair",
+      "type": "adj",
+      "exemple": "It’s not clear to me"
+    },
+    {
+      "id": "p3-056",
+      "anglais": "clearly",
+      "francais": "clairement",
+      "type": "adv",
+      "exemple": ""
+    },
+    {
+      "id": "p3-057",
+      "anglais": "clever",
+      "francais": "intelligent",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p3-058",
+      "anglais": "click",
+      "francais": "cliquer",
+      "type": "v",
+      "exemple": "click here to go to our website. climb (v): grimper/escalader"
+    },
+    {
+      "id": "p3-059",
+      "anglais": "clock",
+      "francais": "horloge",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p3-060",
+      "anglais": "close",
+      "francais": "fermer",
+      "type": "v",
+      "exemple": ""
+    },
+    {
+      "id": "p3-061",
+      "anglais": "closed",
+      "francais": "fermé",
+      "type": "adj",
+      "exemple": "close to (prep phr): près de"
+    },
+    {
+      "id": "p3-062",
+      "anglais": "clothes",
+      "francais": "vêtements",
+      "type": "n pl",
+      "exemple": ""
+    },
+    {
+      "id": "p3-063",
+      "anglais": "cloud",
+      "francais": "nuage",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p3-064",
+      "anglais": "cloudy",
+      "francais": "nuageux",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p3-065",
+      "anglais": "clown",
+      "francais": "un clown",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p3-066",
+      "anglais": "club",
+      "francais": "club",
+      "type": "n",
+      "exemple": "to join a club"
+    },
+    {
+      "id": "p3-067",
+      "anglais": "coach",
+      "francais": "un car/un entraineur",
+      "type": "n",
+      "exemple": "a coach trip ; a tennis coach"
+    },
+    {
+      "id": "p3-068",
+      "anglais": "coat",
+      "francais": "manteau",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p3-069",
+      "anglais": "coffee",
+      "francais": "café (boisson)",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p3-070",
+      "anglais": "cold",
+      "francais": "froid / un rhume",
+      "type": "adj & n",
+      "exemple": ""
+    },
+    {
+      "id": "p3-071",
+      "anglais": "colleague",
+      "francais": "collègue",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p3-072",
+      "anglais": "collect",
+      "francais": "collectionner",
+      "type": "v",
+      "exemple": ""
+    },
+    {
+      "id": "p3-073",
+      "anglais": "college",
+      "francais": "université",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p3-074",
+      "anglais": "colour",
+      "francais": "couleur",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p3-075",
+      "anglais": "comb",
+      "francais": "un peigne",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p3-076",
+      "anglais": "come",
+      "francais": "venir",
+      "type": "v",
+      "exemple": "Formes irrégulières : (came-come)"
+    },
+    {
+      "id": "p3-077",
+      "anglais": "comfortable",
+      "francais": "confortable",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p3-078",
+      "anglais": "comics",
+      "francais": "BD (Bande Dessinée)",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p3-079",
+      "anglais": "company",
+      "francais": "compagnie/société",
+      "type": "n",
+      "exemple": "What’s the name of your company ?"
+    },
+    {
+      "id": "p3-080",
+      "anglais": "competition",
+      "francais": "compétition",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p3-081",
+      "anglais": "complete",
+      "francais": "compléter",
+      "type": "v",
+      "exemple": ""
+    },
+    {
+      "id": "p3-082",
+      "anglais": "computer",
+      "francais": "ordinateur",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p3-083",
+      "anglais": "concert",
+      "francais": "concert congratulations! (exclam): félicitations!",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p3-084",
+      "anglais": "conversation",
+      "francais": "conversation",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p3-085",
+      "anglais": "cook",
+      "francais": "cuisinier / cuisiner",
+      "type": "n& v",
+      "exemple": ""
+    },
+    {
+      "id": "p3-086",
+      "anglais": "cooker",
+      "francais": "cuisinière (appareil ménag.)",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p3-087",
+      "anglais": "cool",
+      "francais": "frais / génial",
+      "type": "adj",
+      "exemple": "That’s a cool bike !"
+    },
+    {
+      "id": "p3-088",
+      "anglais": "corner",
+      "francais": "coin",
+      "type": "n",
+      "exemple": "the corner of the street"
+    },
+    {
+      "id": "p3-089",
+      "anglais": "correct",
+      "francais": "correct",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p3-090",
+      "anglais": "cost",
+      "francais": "coût / coûter",
+      "type": "n & v",
+      "exemple": "Formes irrégulières : (cost-cost)"
+    },
+    {
+      "id": "p3-091",
+      "anglais": "costume",
+      "francais": "costume",
+      "type": "n",
+      "exemple": "I forgot my swimming costume. ; The dancers wore colourful costumes."
+    },
+    {
+      "id": "p3-092",
+      "anglais": "could",
+      "francais": "pouvait/pourrait",
+      "type": "v",
+      "exemple": ""
+    },
+    {
+      "id": "p3-093",
+      "anglais": "country",
+      "francais": "pays",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p3-094",
+      "anglais": "countryside",
+      "francais": "campagne",
+      "type": "n",
+      "exemple": "course"
+    },
+    {
+      "id": "p3-095",
+      "anglais": "(n)",
+      "francais": "stage / plat (nourriture)",
+      "type": "",
+      "exemple": "a university course (un stage universitaire) ; a main course (un plat principal) ; of course (not) (bien sûr (que non))"
+    },
+    {
+      "id": "p3-096",
+      "anglais": "cousin",
+      "francais": "cousin(e)",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p3-097",
+      "anglais": "cover",
+      "francais": "couvrir",
+      "type": "v",
+      "exemple": ""
+    },
+    {
+      "id": "p3-098",
+      "anglais": "cow",
+      "francais": "vache",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p3-099",
+      "anglais": "crazy",
+      "francais": "fou/folle",
+      "type": "adj",
+      "exemple": ""
+    },
+    {
+      "id": "p3-100",
+      "anglais": "cream",
+      "francais": "crème",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p3-101",
+      "anglais": "credit card",
+      "francais": "carte de crédit",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p3-102",
+      "anglais": "cricket",
+      "francais": "cricket",
+      "type": "n",
+      "exemple": ""
+    },
+    {
+      "id": "p3-103",
+      "anglais": "cross",
+      "francais": "traverser",
+      "type": "v",
+      "exemple": "Don’t cross the road here !"
+    }
+  ]
+}

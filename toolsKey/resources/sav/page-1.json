@@ -1,0 +1,692 @@
+{
+    "id":  "page-1",
+    "title":  "Page 1",
+    "words":  [
+                  {
+                      "id":  "p1-001",
+                      "anglais":  "a, an",
+                      "francais":  "un, une",
+                      "type":  "dét",
+                      "exemple":  ""
+                  },
+                  {
+                      "id":  "p1-002",
+                      "anglais":  "able",
+                      "francais":  "capable",
+                      "type":  "adj",
+                      "exemple":  "be able to: être capable de"
+                  },
+                  {
+                      "id":  "p1-003",
+                      "anglais":  "about",
+                      "francais":  "à propos de",
+                      "type":  "adv \u0026 prep",
+                      "exemple":  "What about a drink? ; I have about £3 (adv): environ ; a book about animals (prep): sur"
+                  },
+                  {
+                      "id":  "p1-004",
+                      "anglais":  "above",
+                      "francais":  "au dessus de",
+                      "type":  "prep",
+                      "exemple":  ""
+                  },
+                  {
+                      "id":  "p1-005",
+                      "anglais":  "act",
+                      "francais":  "jouer (théatre)",
+                      "type":  "v",
+                      "exemple":  ""
+                  },
+                  {
+                      "id":  "p1-006",
+                      "anglais":  "accident",
+                      "francais":  "accident",
+                      "type":  "n",
+                      "exemple":  ""
+                  },
+                  {
+                      "id":  "p1-007",
+                      "anglais":  "across",
+                      "francais":  "de l’autre côté",
+                      "type":  "prep",
+                      "exemple":  "the bank is across the road. ; He walked across the bridge."
+                  },
+                  {
+                      "id":  "p1-008",
+                      "anglais":  "act",
+                      "francais":  "jouer (theater)",
+                      "type":  "v",
+                      "exemple":  ""
+                  },
+                  {
+                      "id":  "p1-009",
+                      "anglais":  "activity",
+                      "francais":  "activité",
+                      "type":  "n",
+                      "exemple":  ""
+                  },
+                  {
+                      "id":  "p1-010",
+                      "anglais":  "actor",
+                      "francais":  "acteur",
+                      "type":  "n",
+                      "exemple":  ""
+                  },
+                  {
+                      "id":  "p1-011",
+                      "anglais":  "actually",
+                      "francais":  "vraiment",
+                      "type":  "adv",
+                      "exemple":  ""
+                  },
+                  {
+                      "id":  "p1-012",
+                      "anglais":  "ad",
+                      "francais":  "une pub",
+                      "type":  "n",
+                      "exemple":  "An ad on TV"
+                  },
+                  {
+                      "id":  "p1-013",
+                      "anglais":  "add",
+                      "francais":  "ajouter",
+                      "type":  "v",
+                      "exemple":  ""
+                  },
+                  {
+                      "id":  "p1-014",
+                      "anglais":  "address",
+                      "francais":  "adresse",
+                      "type":  "n",
+                      "exemple":  ""
+                  },
+                  {
+                      "id":  "p1-015",
+                      "anglais":  "adult",
+                      "francais":  "adulte",
+                      "type":  "n \u0026 adj",
+                      "exemple":  ""
+                  },
+                  {
+                      "id":  "p1-016",
+                      "anglais":  "advanced",
+                      "francais":  "avancé",
+                      "type":  "adj",
+                      "exemple":  ""
+                  },
+                  {
+                      "id":  "p1-017",
+                      "anglais":  "adventure",
+                      "francais":  "aventure",
+                      "type":  "n",
+                      "exemple":  ""
+                  },
+                  {
+                      "id":  "p1-018",
+                      "anglais":  "advertisement",
+                      "francais":  "publicité",
+                      "type":  "n",
+                      "exemple":  ""
+                  },
+                  {
+                      "id":  "p1-019",
+                      "anglais":  "advice",
+                      "francais":  "conseil",
+                      "type":  "n",
+                      "exemple":  ""
+                  },
+                  {
+                      "id":  "p1-020",
+                      "anglais":  "aeroplane",
+                      "francais":  "avion",
+                      "type":  "n",
+                      "exemple":  ""
+                  },
+                  {
+                      "id":  "p1-021",
+                      "anglais":  "afraid",
+                      "francais":  "peureux",
+                      "type":  "adj",
+                      "exemple":  ""
+                  },
+                  {
+                      "id":  "p1-022",
+                      "anglais":  "after",
+                      "francais":  "après",
+                      "type":  "adv \u0026 prep",
+                      "exemple":  ""
+                  },
+                  {
+                      "id":  "p1-023",
+                      "anglais":  "afternoon",
+                      "francais":  "après-midi",
+                      "type":  "n",
+                      "exemple":  ""
+                  },
+                  {
+                      "id":  "p1-024",
+                      "anglais":  "afterwards",
+                      "francais":  "ensuite",
+                      "type":  "adv",
+                      "exemple":  ""
+                  },
+                  {
+                      "id":  "p1-025",
+                      "anglais":  "again",
+                      "francais":  "encore",
+                      "type":  "adv",
+                      "exemple":  ""
+                  },
+                  {
+                      "id":  "p1-026",
+                      "anglais":  "against",
+                      "francais":  "contre",
+                      "type":  "prep",
+                      "exemple":  "We watched England play against France."
+                  },
+                  {
+                      "id":  "p1-027",
+                      "anglais":  "age",
+                      "francais":  "l’âge",
+                      "type":  "n",
+                      "exemple":  "I don’t know his age."
+                  },
+                  {
+                      "id":  "p1-028",
+                      "anglais":  "aged",
+                      "francais":  "âgé de",
+                      "type":  "adj",
+                      "exemple":  ""
+                  },
+                  {
+                      "id":  "p1-029",
+                      "anglais":  "ago",
+                      "francais":  "il y a",
+                      "type":  "adv",
+                      "exemple":  ""
+                  },
+                  {
+                      "id":  "p1-030",
+                      "anglais":  "agree",
+                      "francais":  "être d’accord",
+                      "type":  "v",
+                      "exemple":  "Yes, I agree with you. ; Don’t you agree, Sam?"
+                  },
+                  {
+                      "id":  "p1-031",
+                      "anglais":  "Air",
+                      "francais":  "un air/l’air",
+                      "type":  "n",
+                      "exemple":  "to travel by air"
+                  },
+                  {
+                      "id":  "p1-032",
+                      "anglais":  "airport",
+                      "francais":  "aéroport",
+                      "type":  "n",
+                      "exemple":  ""
+                  },
+                  {
+                      "id":  "p1-033",
+                      "anglais":  "alarm clock",
+                      "francais":  "réveil",
+                      "type":  "n",
+                      "exemple":  ""
+                  },
+                  {
+                      "id":  "p1-034",
+                      "anglais":  "all",
+                      "francais":  "tous",
+                      "type":  "det \u0026 pron",
+                      "exemple":  ""
+                  },
+                  {
+                      "id":  "p1-035",
+                      "anglais":  "all right/alright",
+                      "francais":  "tout va bien",
+                      "type":  "adv",
+                      "exemple":  ""
+                  },
+                  {
+                      "id":  "p1-036",
+                      "anglais":  "almost",
+                      "francais":  "presque",
+                      "type":  "adv",
+                      "exemple":  ""
+                  },
+                  {
+                      "id":  "p1-037",
+                      "anglais":  "alone",
+                      "francais":  "seul(e)",
+                      "type":  "adv",
+                      "exemple":  ""
+                  },
+                  {
+                      "id":  "p1-038",
+                      "anglais":  "along",
+                      "francais":  "le long de",
+                      "type":  "prep",
+                      "exemple":  ""
+                  },
+                  {
+                      "id":  "p1-039",
+                      "anglais":  "already",
+                      "francais":  "déjà",
+                      "type":  "adv",
+                      "exemple":  ""
+                  },
+                  {
+                      "id":  "p1-040",
+                      "anglais":  "also",
+                      "francais":  "aussi",
+                      "type":  "adv",
+                      "exemple":  ""
+                  },
+                  {
+                      "id":  "p1-041",
+                      "anglais":  "always",
+                      "francais":  "toujours",
+                      "type":  "adv",
+                      "exemple":  ""
+                  },
+                  {
+                      "id":  "p1-042",
+                      "anglais":  "a.m.",
+                      "francais":  "du matin",
+                      "type":  "adv",
+                      "exemple":  ""
+                  },
+                  {
+                      "id":  "p1-043",
+                      "anglais":  "amazing",
+                      "francais":  "stupéfiant",
+                      "type":  "adj",
+                      "exemple":  ""
+                  },
+                  {
+                      "id":  "p1-044",
+                      "anglais":  "ambulance",
+                      "francais":  "une ambulance",
+                      "type":  "n",
+                      "exemple":  ""
+                  },
+                  {
+                      "id":  "p1-045",
+                      "anglais":  "among",
+                      "francais":  "parmi",
+                      "type":  "prep",
+                      "exemple":  ""
+                  },
+                  {
+                      "id":  "p1-046",
+                      "anglais":  "an",
+                      "francais":  "un/une",
+                      "type":  "det",
+                      "exemple":  ""
+                  },
+                  {
+                      "id":  "p1-047",
+                      "anglais":  "and",
+                      "francais":  "et",
+                      "type":  "conj",
+                      "exemple":  ""
+                  },
+                  {
+                      "id":  "p1-048",
+                      "anglais":  "angry",
+                      "francais":  "fâché",
+                      "type":  "adj",
+                      "exemple":  ""
+                  },
+                  {
+                      "id":  "p1-049",
+                      "anglais":  "animal",
+                      "francais":  "un animal",
+                      "type":  "n",
+                      "exemple":  ""
+                  },
+                  {
+                      "id":  "p1-050",
+                      "anglais":  "another",
+                      "francais":  "un(e) autre-",
+                      "type":  "det \u0026 pron",
+                      "exemple":  ""
+                  },
+                  {
+                      "id":  "p1-051",
+                      "anglais":  "answer",
+                      "francais":  "une réponse/ répondre",
+                      "type":  "n \u0026 v",
+                      "exemple":  ""
+                  },
+                  {
+                      "id":  "p1-052",
+                      "anglais":  "any",
+                      "francais":  "il n’y en a pas anybody (n): quelqu’un/personne",
+                      "type":  "det \u0026 pron",
+                      "exemple":  ""
+                  },
+                  {
+                      "id":  "p1-053",
+                      "anglais":  "anymore",
+                      "francais":  "plus",
+                      "type":  "adv",
+                      "exemple":  ""
+                  },
+                  {
+                      "id":  "p1-054",
+                      "anglais":  "anyone",
+                      "francais":  "quelqu’un/personne",
+                      "type":  "n",
+                      "exemple":  ""
+                  },
+                  {
+                      "id":  "p1-055",
+                      "anglais":  "anything",
+                      "francais":  "quelque chose/rien",
+                      "type":  "n",
+                      "exemple":  ""
+                  },
+                  {
+                      "id":  "p1-056",
+                      "anglais":  "anyway",
+                      "francais":  "de toute façon",
+                      "type":  "adv",
+                      "exemple":  ""
+                  },
+                  {
+                      "id":  "p1-057",
+                      "anglais":  "anywhere",
+                      "francais":  "quelquepart/ nullepart",
+                      "type":  "adv",
+                      "exemple":  ""
+                  },
+                  {
+                      "id":  "p1-058",
+                      "anglais":  "apartment",
+                      "francais":  "un appartement",
+                      "type":  "n",
+                      "exemple":  ""
+                  },
+                  {
+                      "id":  "p1-059",
+                      "anglais":  "apple",
+                      "francais":  "une pomme",
+                      "type":  "n",
+                      "exemple":  ""
+                  },
+                  {
+                      "id":  "p1-060",
+                      "anglais":  "appointment",
+                      "francais":  "un rendez-vous",
+                      "type":  "n",
+                      "exemple":  "an appointment with the doctor area (n): surface"
+                  },
+                  {
+                      "id":  "p1-061",
+                      "anglais":  "arm",
+                      "francais":  "un bras",
+                      "type":  "n",
+                      "exemple":  ""
+                  },
+                  {
+                      "id":  "p1-062",
+                      "anglais":  "armchair",
+                      "francais":  "fauteuil",
+                      "type":  "n",
+                      "exemple":  ""
+                  },
+                  {
+                      "id":  "p1-063",
+                      "anglais":  "(a)round",
+                      "francais":  "autour de",
+                      "type":  "adv \u0026 prep",
+                      "exemple":  "to travel around (adv) *to sit around the table (prep)"
+                  },
+                  {
+                      "id":  "p1-064",
+                      "anglais":  "arrive",
+                      "francais":  "arriver",
+                      "type":  "v",
+                      "exemple":  ""
+                  },
+                  {
+                      "id":  "p1-065",
+                      "anglais":  "art",
+                      "francais":  "l’art",
+                      "type":  "n",
+                      "exemple":  ""
+                  },
+                  {
+                      "id":  "p1-066",
+                      "anglais":  "article",
+                      "francais":  "un article",
+                      "type":  "n",
+                      "exemple":  "an article about skiing"
+                  },
+                  {
+                      "id":  "p1-067",
+                      "anglais":  "artist",
+                      "francais":  "un artiste",
+                      "type":  "n",
+                      "exemple":  ""
+                  },
+                  {
+                      "id":  "p1-068",
+                      "anglais":  "as",
+                      "francais":  "comme, aussi que",
+                      "type":  "prep",
+                      "exemple":  "as good as ; as soon as possible: dès que possible ; the same as: le même que ; you are as tall as me: tu es aussi grand que moi"
+                  },
+                  {
+                      "id":  "p1-069",
+                      "anglais":  "ask",
+                      "francais":  "demander",
+                      "type":  "v",
+                      "exemple":  ""
+                  },
+                  {
+                      "id":  "p1-070",
+                      "anglais":  "assistant",
+                      "francais":  "un assistant",
+                      "type":  "n",
+                      "exemple":  ""
+                  },
+                  {
+                      "id":  "p1-071",
+                      "anglais":  "as well",
+                      "francais":  "aussi",
+                      "type":  "adv",
+                      "exemple":  ""
+                  },
+                  {
+                      "id":  "p1-072",
+                      "anglais":  "as well as",
+                      "francais":  "aussi bien que",
+                      "type":  "prep phr",
+                      "exemple":  ""
+                  },
+                  {
+                      "id":  "p1-073",
+                      "anglais":  "as well as",
+                      "francais":  "aussi bien que",
+                      "type":  "prep",
+                      "exemple":  ""
+                  },
+                  {
+                      "id":  "p1-074",
+                      "anglais":  "at",
+                      "francais":  "à",
+                      "type":  "prep",
+                      "exemple":  ""
+                  },
+                  {
+                      "id":  "p1-075",
+                      "anglais":  "at / @",
+                      "francais":  "arobase",
+                      "type":  "n",
+                      "exemple":  "My email address is david@cambridgeesol.org"
+                  },
+                  {
+                      "id":  "p1-076",
+                      "anglais":  "at all",
+                      "francais":  "du tout",
+                      "type":  "adv",
+                      "exemple":  "It doesn’t matter at all: cela n’a pas du tout d’importance"
+                  },
+                  {
+                      "id":  "p1-077",
+                      "anglais":  "attractive",
+                      "francais":  "joli(e)",
+                      "type":  "adj",
+                      "exemple":  ""
+                  },
+                  {
+                      "id":  "p1-078",
+                      "anglais":  "aunt",
+                      "francais":  "tante",
+                      "type":  "n",
+                      "exemple":  ""
+                  },
+                  {
+                      "id":  "p1-079",
+                      "anglais":  "available",
+                      "francais":  "disponible",
+                      "type":  "adj",
+                      "exemple":  ""
+                  },
+                  {
+                      "id":  "p1-080",
+                      "anglais":  "autumn",
+                      "francais":  "l’automne",
+                      "type":  "n",
+                      "exemple":  ""
+                  },
+                  {
+                      "id":  "p1-081",
+                      "anglais":  "away",
+                      "francais":  "au loin",
+                      "type":  "adv",
+                      "exemple":  "He has gone away. ; It is two miles away"
+                  },
+                  {
+                      "id":  "p1-082",
+                      "anglais":  "awful",
+                      "francais":  "horrible",
+                      "type":  "adj",
+                      "exemple":  ""
+                  },
+                  {
+                      "id":  "p1-083",
+                      "anglais":  "baby",
+                      "francais":  "bébé",
+                      "type":  "n",
+                      "exemple":  ""
+                  },
+                  {
+                      "id":  "p1-084",
+                      "anglais":  "back",
+                      "francais":  "le dos, retour",
+                      "type":  "n, adv \u0026 adj",
+                      "exemple":  "He has come back: il est revenu"
+                  },
+                  {
+                      "id":  "p1-085",
+                      "anglais":  "backpack",
+                      "francais":  "sac à dos",
+                      "type":  "n",
+                      "exemple":  ""
+                  },
+                  {
+                      "id":  "p1-086",
+                      "anglais":  "bad",
+                      "francais":  "mauvais",
+                      "type":  "adj",
+                      "exemple":  ""
+                  },
+                  {
+                      "id":  "p1-087",
+                      "anglais":  "badly",
+                      "francais":  "mal",
+                      "type":  "adv",
+                      "exemple":  ""
+                  },
+                  {
+                      "id":  "p1-088",
+                      "anglais":  "bag",
+                      "francais":  "sac",
+                      "type":  "n",
+                      "exemple":  ""
+                  },
+                  {
+                      "id":  "p1-089",
+                      "anglais":  "bake",
+                      "francais":  "faire cuire",
+                      "type":  "v",
+                      "exemple":  ""
+                  },
+                  {
+                      "id":  "p1-090",
+                      "anglais":  "ball",
+                      "francais":  "un ballon",
+                      "type":  "n",
+                      "exemple":  ""
+                  },
+                  {
+                      "id":  "p1-091",
+                      "anglais":  "balloon",
+                      "francais":  "ballon de baudruche",
+                      "type":  "n",
+                      "exemple":  ""
+                  },
+                  {
+                      "id":  "p1-092",
+                      "anglais":  "banana",
+                      "francais":  "banana",
+                      "type":  "n",
+                      "exemple":  ""
+                  },
+                  {
+                      "id":  "p1-093",
+                      "anglais":  "band",
+                      "francais":  "un groupe",
+                      "type":  "n",
+                      "exemple":  ""
+                  },
+                  {
+                      "id":  "p1-094",
+                      "anglais":  "bandage",
+                      "francais":  "pansement",
+                      "type":  "n",
+                      "exemple":  ""
+                  },
+                  {
+                      "id":  "p1-095",
+                      "anglais":  "bank",
+                      "francais":  "banque/ bord",
+                      "type":  "n",
+                      "exemple":  "I changed my money in the bank."
+                  },
+                  {
+                      "id":  "p1-096",
+                      "anglais":  "barbecue",
+                      "francais":  "un barbecue",
+                      "type":  "n",
+                      "exemple":  ""
+                  },
+                  {
+                      "id":  "p1-097",
+                      "anglais":  "baseball",
+                      "francais":  "base-ball",
+                      "type":  "n",
+                      "exemple":  ""
+                  },
+                  {
+                      "id":  "p1-098",
+                      "anglais":  "basketball",
+                      "francais":  "basket-ball",
+                      "type":  "n",
+                      "exemple":  ""
+                  }
+              ]
+}
