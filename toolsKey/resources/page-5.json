@@ -535,6 +535,13 @@
       "exemple": "French fries (exp)(Am Eng): frites (Br Eng): chips"
     },
     {
+      "id": "p5-103",
+      "anglais": "French fries",
+      "francais": "frites, chips",
+      "type": "exp",
+      "exemple": "(Am Eng): frites (Br Eng): chips"
+    },
+    {
       "id": "p5-077",
       "anglais": "fresh",
       "francais": "frais",
